@@ -1,0 +1,5 @@
+{"qid": "test1209", "query_text": "where did the dewey decimal system come from", "metadata": {"qrels": [["doc43145", 1]]}, "answers": [["doc43145", 1]]}
+{"qid": "test243", "query_text": "where did the titanic sink at what ocean", "metadata": {"qrels": [["doc8930", 1]]}, "answers": [["doc8930", 1]]}
+{"qid": "test2794", "query_text": "where does the edinburgh fringe festival take place", "metadata": {"qrels": [["doc96058", 1]]}, "answers": [["doc96058", 1]]}
+{"qid": "test3346", "query_text": "who headed the 7th central pay commission of india", "metadata": {"qrels": [["doc114318", 1]]}, "answers": [["doc114318", 1]]}
+{"qid": "test441", "query_text": "what was the code name of the us program to develop an atomic bomb", "metadata": {"qrels": [["doc16329", 1]]}, "answers": [["doc16329", 1]]}

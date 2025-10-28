@@ -1,0 +1,5 @@
+{"qid": "10734", "metadata": {"qrels": [["225718", 1]]}, "answers": [["225718", 1]], "query_text": "How do you translate a per year salary into a part-time per hour job?"}
+{"qid": "1159", "metadata": {"qrels": [["496064", 1]]}, "answers": [["496064", 1]], "query_text": "what is the best way to do a freelancing job over the summer for a student"}
+{"qid": "3451", "metadata": {"qrels": [["165970", 1]]}, "answers": [["165970", 1]], "query_text": "Should you keep your stocks if you are too late to sell?"}
+{"qid": "766", "metadata": {"qrels": [["2996", 1]]}, "answers": [["2996", 1]], "query_text": "Will the ex-homeowner still owe money after a foreclosure?"}
+{"qid": "8072", "metadata": {"qrels": [["169062", 1]]}, "answers": [["169062", 1]], "query_text": "What does it mean \u201csell on ask\u201d , \u201csell on bid\u201d in stocks?"}

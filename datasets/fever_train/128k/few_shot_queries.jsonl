@@ -1,0 +1,5 @@
+{"qid": "110652", "query_text": "B. R. Ambedkar died.", "metadata": {"qrels": [["B._R._Ambedkar", 1]]}, "answers": [["B._R._Ambedkar", 1]]}
+{"qid": "171899", "query_text": "Research is used to test the validity of procedures.", "metadata": {"qrels": [["Research", 1]]}, "answers": [["Research", 1]]}
+{"qid": "178859", "query_text": "Dawood Ibrahim was born in 1988.", "metadata": {"qrels": [["Dawood_Ibrahim", 1]]}, "answers": [["Dawood_Ibrahim", 1]]}
+{"qid": "194442", "query_text": "The Indiana Pacers were disbanded in 1967.", "metadata": {"qrels": [["Indiana_Pacers", 1]]}, "answers": [["Indiana_Pacers", 1]]}
+{"qid": "221245", "query_text": "The Block (album)'s single was released on November 18, 2008.", "metadata": {"qrels": [["The_Block_(album)", 1]]}, "answers": [["The_Block_(album)", 1]]}

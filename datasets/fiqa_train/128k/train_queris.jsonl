@@ -1,0 +1,808 @@
+{"qid": "648", "query_text": "How to prevent misusing my Account details", "metadata": {"qrels": [["513367", "1"]]}, "answers": [["513367", "1"]]}
+{"qid": "882", "query_text": "Does the CRA reprieve those who have to commute for work?", "metadata": {"qrels": [["236122", "1"]]}, "answers": [["236122", "1"]]}
+{"qid": "869", "query_text": "How to move (or not move) an LLC from Illinois to New Mexico?", "metadata": {"qrels": [["124856", "1"]]}, "answers": [["124856", "1"]]}
+{"qid": "1076", "query_text": "Are there tax liabilities (in the US) for having a US bank account while I am abroad?", "metadata": {"qrels": [["586455", "1"]]}, "answers": [["586455", "1"]]}
+{"qid": "924", "query_text": "Working out of India for UK company from 1 Jan 2016 on contract", "metadata": {"qrels": [["492456", "1"]]}, "answers": [["492456", "1"]]}
+{"qid": "5", "query_text": "Starting a new online business", "metadata": {"qrels": [["69306", "1"]]}, "answers": [["69306", "1"]]}
+{"qid": "1303", "query_text": "Work as a contractor for my current employer rather than become a full time employee after my graduation for health insurance continued coverage", "metadata": {"qrels": [["566041", "1"]]}, "answers": [["566041", "1"]]}
+{"qid": "28", "query_text": "Tax whilst starting a business in full time employment", "metadata": {"qrels": [["250640", "1"]]}, "answers": [["250640", "1"]]}
+{"qid": "976", "query_text": "Pay off debt with RRSPs, or refinance and roll into Mortgage?", "metadata": {"qrels": [["40312", "1"]]}, "answers": [["40312", "1"]]}
+{"qid": "112", "query_text": "Will my wife's business losses offset my income on a joint tax return?", "metadata": {"qrels": [["153541", "1"]]}, "answers": [["153541", "1"]]}
+{"qid": "768", "query_text": "Why do stocks track the price of Oil?", "metadata": {"qrels": [["102698", "1"]]}, "answers": [["102698", "1"]]}
+{"qid": "527", "query_text": "What amount of money can a corporation spend on entertainment", "metadata": {"qrels": [["437877", "1"]]}, "answers": [["437877", "1"]]}
+{"qid": "108", "query_text": "How to find a business consultant that would ensure that all your business activities are legal and compliant with all regulations?", "metadata": {"qrels": [["396982", "1"]]}, "answers": [["396982", "1"]]}
+{"qid": "539", "query_text": "My company owed taxes for many years, An accountant asked me to ignore it and register a new one. Is it a right thing to do?", "metadata": {"qrels": [["25019", "1"]]}, "answers": [["25019", "1"]]}
+{"qid": "635", "query_text": "How to register LLC in the US from India? [duplicate]", "metadata": {"qrels": [["344928", "1"]]}, "answers": [["344928", "1"]]}
+{"qid": "909", "query_text": "Travel expenses for an out-of-state rental", "metadata": {"qrels": [["417981", "1"]]}, "answers": [["417981", "1"]]}
+{"qid": "1304", "query_text": "fastest way to move USD to EUR", "metadata": {"qrels": [["60446", "1"]]}, "answers": [["60446", "1"]]}
+{"qid": "91", "query_text": "US Double Taxation - Business Trips and the Foreign Tax Credit", "metadata": {"qrels": [["523431", "1"]]}, "answers": [["523431", "1"]]}
+{"qid": "697", "query_text": "Online streaming video/audio financial/stock programs", "metadata": {"qrels": [["166467", "1"]]}, "answers": [["166467", "1"]]}
+{"qid": "666", "query_text": "183 day rule in conjunction with expatriate", "metadata": {"qrels": [["483704", "1"]]}, "answers": [["483704", "1"]]}
+{"qid": "21", "query_text": "Deducting last years (undocumented) side business loss", "metadata": {"qrels": [["497642", "1"]]}, "answers": [["497642", "1"]]}
+{"qid": "572", "query_text": "Tax rules for United States citizens living in the US but being paid from outside the US", "metadata": {"qrels": [["434351", "1"]]}, "answers": [["434351", "1"]]}
+{"qid": "595", "query_text": "What should I be aware of when renting a home to a corporation instead of an individual?", "metadata": {"qrels": [["368165", "1"]]}, "answers": [["368165", "1"]]}
+{"qid": "759", "query_text": "Child is on the way, invest for college and car fund options - opinions", "metadata": {"qrels": [["107136", "1"]]}, "answers": [["107136", "1"]]}
+{"qid": "1012", "query_text": "Filling Balance sheet in ITR4 for freelancers", "metadata": {"qrels": [["14609", "1"]]}, "answers": [["14609", "1"]]}
+{"qid": "1133", "query_text": "How to avoid maintenance fee when balance drops below minimum?", "metadata": {"qrels": [["310207", "1"]]}, "answers": [["310207", "1"]]}
+{"qid": "1053", "query_text": "Selling an app, sharing income, how does it work tax-wise?", "metadata": {"qrels": [["243949", "1"]]}, "answers": [["243949", "1"]]}
+{"qid": "1553", "query_text": "How U.S. Depreciation works Explain in brief?", "metadata": {"qrels": [["107794", "1"]]}, "answers": [["107794", "1"]]}
+{"qid": "598", "query_text": "If I take a loss when I sell my car, can I claim a capital loss deduction on my income tax return?", "metadata": {"qrels": [["97348", "1"]]}, "answers": [["97348", "1"]]}
+{"qid": "1140", "query_text": "Contributing to a Roth IRA while income tax filing status is \u201cMarried Filing Separately\u201d?", "metadata": {"qrels": [["119051", "1"]]}, "answers": [["119051", "1"]]}
+{"qid": "694", "query_text": "How does LLC ownership work in relation to U.S. tax law?", "metadata": {"qrels": [["248269", "1"]]}, "answers": [["248269", "1"]]}
+{"qid": "951", "query_text": "Is there a resource for knowing when Annual and Quarterly Reports are coming out?", "metadata": {"qrels": [["428127", "1"]]}, "answers": [["428127", "1"]]}
+{"qid": "778", "query_text": "Setting up a LLC for two partners in different states, what should we look into?", "metadata": {"qrels": [["234510", "1"]]}, "answers": [["234510", "1"]]}
+{"qid": "627", "query_text": "FATCA compliance for small Foreign Company. What do I need to do?", "metadata": {"qrels": [["340661", "1"]]}, "answers": [["340661", "1"]]}
+{"qid": "546", "query_text": "Deducting SEP-IRA contributions as a sole proprietor with no employees", "metadata": {"qrels": [["457701", "1"]]}, "answers": [["457701", "1"]]}
+{"qid": "480", "query_text": "Process for dissolving a recently-opened Colorado LLC?", "metadata": {"qrels": [["331248", "1"]]}, "answers": [["331248", "1"]]}
+{"qid": "1087", "query_text": "Being a 1099 for a company I part-own?", "metadata": {"qrels": [["578196", "1"]]}, "answers": [["578196", "1"]]}
+{"qid": "902", "query_text": "Determining the minimum dividend that should be paid from my S corporation", "metadata": {"qrels": [["458431", "1"]]}, "answers": [["458431", "1"]]}
+{"qid": "525", "query_text": "Are companies in California obliged to provide invoices?", "metadata": {"qrels": [["399409", "1"]]}, "answers": [["399409", "1"]]}
+{"qid": "751", "query_text": "Self Employed, but not required to pay estimated taxes?", "metadata": {"qrels": [["298685", "1"]]}, "answers": [["298685", "1"]]}
+{"qid": "916", "query_text": "How to report a personal expense for an LLC partnership paid in one year and reimbursed in another?", "metadata": {"qrels": [["165025", "1"]]}, "answers": [["165025", "1"]]}
+{"qid": "949", "query_text": "As a Canadian, what should I invest in if I'm betting that the Canadian real estate will crash?", "metadata": {"qrels": [["226090", "1"]]}, "answers": [["226090", "1"]]}
+{"qid": "1181", "query_text": "Can my own corporation deduct my expenses even if I am a full time employee?", "metadata": {"qrels": [["541809", "1"]]}, "answers": [["541809", "1"]]}
+{"qid": "1279", "query_text": "Automatic Extension online filing request gets denied w/ code R0000-052-01 - why?", "metadata": {"qrels": [["595121", "1"]]}, "answers": [["595121", "1"]]}
+{"qid": "683", "query_text": "How to know more about my tax situation in the States", "metadata": {"qrels": [["546329", "1"]]}, "answers": [["546329", "1"]]}
+{"qid": "790", "query_text": "What happens if a bank no longer use an intermediary bank?", "metadata": {"qrels": [["199808", "1"]]}, "answers": [["199808", "1"]]}
+{"qid": "1029", "query_text": "SEP-IRA doing 1099 work on the side of a W2 employee job", "metadata": {"qrels": [["406561", "1"]]}, "answers": [["406561", "1"]]}
+{"qid": "1475", "query_text": "What threshold to move from SEP to Solo401k?", "metadata": {"qrels": [["280021", "1"]]}, "answers": [["280021", "1"]]}
+{"qid": "83", "query_text": "Using cash back rewards from business credit card", "metadata": {"qrels": [["534277", "1"]]}, "answers": [["534277", "1"]]}
+{"qid": "470", "query_text": "Is a 10 year old uncashed paycheck still good?", "metadata": {"qrels": [["45078", "1"]]}, "answers": [["45078", "1"]]}
+{"qid": "633", "query_text": "How much can you write off on a car lease through a LLC?", "metadata": {"qrels": [["385929", "1"]]}, "answers": [["385929", "1"]]}
+{"qid": "1494", "query_text": "If I pay taxes on my earnings, would someone also pay taxes on the same earnings if I subcontract them and pay a share?", "metadata": {"qrels": [["468741", "1"]]}, "answers": [["468741", "1"]]}
+{"qid": "92", "query_text": "Can I use my Roth IRA to start a business?", "metadata": {"qrels": [["465787", "1"]]}, "answers": [["465787", "1"]]}
+{"qid": "802", "query_text": "FTB sent refund check for 2011 during audit; Does this really mean that whole audit is over for 2011?", "metadata": {"qrels": [["323898", "1"]]}, "answers": [["323898", "1"]]}
+{"qid": "1109", "query_text": "Schedule C: where to deduct service fees on income?", "metadata": {"qrels": [["115584", "1"]]}, "answers": [["115584", "1"]]}
+{"qid": "903", "query_text": "Can expenses for attending stockholders meetings be deducted in U.S. income taxes?", "metadata": {"qrels": [["208124", "1"]]}, "answers": [["208124", "1"]]}
+{"qid": "675", "query_text": "Individual Client or Customer fining or charging a Company a penalty fee", "metadata": {"qrels": [["539317", "1"]]}, "answers": [["539317", "1"]]}
+{"qid": "1167", "query_text": "Dealing with Form 1099", "metadata": {"qrels": [["345942", "1"]]}, "answers": [["345942", "1"]]}
+{"qid": "76", "query_text": "How to report house used for 100% business?", "metadata": {"qrels": [["375357", "1"]]}, "answers": [["375357", "1"]]}
+{"qid": "1362", "query_text": "State tax issues for NJ resident with DC tax withheld, and likely refunded", "metadata": {"qrels": [["236612", "1"]]}, "answers": [["236612", "1"]]}
+{"qid": "918", "query_text": "What are the costs to maintain an Inc?", "metadata": {"qrels": [["493312", "1"]]}, "answers": [["493312", "1"]]}
+{"qid": "1274", "query_text": "What are my options to make my money work for me?", "metadata": {"qrels": [["591909", "1"]]}, "answers": [["591909", "1"]]}
+{"qid": "816", "query_text": "How do I claim HST compensation on my personal Ontario income taxes?", "metadata": {"qrels": [["596289", "1"]]}, "answers": [["596289", "1"]]}
+{"qid": "453", "query_text": "Where I am I liable for taxes?", "metadata": {"qrels": [["592926", "1"]]}, "answers": [["592926", "1"]]}
+{"qid": "511", "query_text": "What is network marketing?", "metadata": {"qrels": [["556661", "1"]]}, "answers": [["556661", "1"]]}
+{"qid": "911", "query_text": "Do Online Currency Exchanges' registration with the government guarantee safety and reliability?", "metadata": {"qrels": [["539958", "1"]]}, "answers": [["539958", "1"]]}
+{"qid": "915", "query_text": "Maxing out HSA after maxing out Roth IRA", "metadata": {"qrels": [["550808", "1"]]}, "answers": [["550808", "1"]]}
+{"qid": "71", "query_text": "Can a business refuse to take credit cards?", "metadata": {"qrels": [["372052", "1"]]}, "answers": [["372052", "1"]]}
+{"qid": "709", "query_text": "why the currency data(such as USD/JPY) is different from different source", "metadata": {"qrels": [["173986", "1"]]}, "answers": [["173986", "1"]]}
+{"qid": "981", "query_text": "2016, USA banks with low/no fee for incoming OVERSEAS USD wire transfers?", "metadata": {"qrels": [["323389", "1"]]}, "answers": [["323389", "1"]]}
+{"qid": "501", "query_text": "If I invest in a company that goes bankrupt, is that a gain or a loss?", "metadata": {"qrels": [["482464", "1"]]}, "answers": [["482464", "1"]]}
+{"qid": "466", "query_text": "Need small buisness ideas with 100k $ budjet in a 3rd world country", "metadata": {"qrels": [["217218", "1"]]}, "answers": [["217218", "1"]]}
+{"qid": "1128", "query_text": "Can I just file a 1040-ES?", "metadata": {"qrels": [["442146", "1"]]}, "answers": [["442146", "1"]]}
+{"qid": "785", "query_text": "What should I do with my freshly opened LLC in California after I've moved?", "metadata": {"qrels": [["474974", "1"]]}, "answers": [["474974", "1"]]}
+{"qid": "80", "query_text": "Get a loan with low interest rate on small business", "metadata": {"qrels": [["252473", "1"]]}, "answers": [["252473", "1"]]}
+{"qid": "521", "query_text": "I'm self-employed with my own LLC. How should I pay myself, given my situation?", "metadata": {"qrels": [["129503", "1"]]}, "answers": [["129503", "1"]]}
+{"qid": "821", "query_text": "Insider trading in another company?", "metadata": {"qrels": [["44398", "1"]]}, "answers": [["44398", "1"]]}
+{"qid": "626", "query_text": "LLC in states with customers with and without employees in the state", "metadata": {"qrels": [["339463", "1"]]}, "answers": [["339463", "1"]]}
+{"qid": "919", "query_text": "Self-employment alongside full-time job", "metadata": {"qrels": [["72984", "1"]]}, "answers": [["72984", "1"]]}
+{"qid": "983", "query_text": "Opening offshore account from UK", "metadata": {"qrels": [["72375", "1"]]}, "answers": [["72375", "1"]]}
+{"qid": "526", "query_text": "Obtaining Private Prospectuses", "metadata": {"qrels": [["491553", "1"]]}, "answers": [["491553", "1"]]}
+{"qid": "757", "query_text": "How do I tell the Canada Revenue Agency that they're sending someone else's documents to my address?", "metadata": {"qrels": [["298179", "1"]]}, "answers": [["298179", "1"]]}
+{"qid": "638", "query_text": "How long does a bank's \u201cKnow Your Customer\u201d (KYC) process typically take?", "metadata": {"qrels": [["192366", "1"]]}, "answers": [["192366", "1"]]}
+{"qid": "27", "query_text": "Using business check to pay at retail", "metadata": {"qrels": [["537326", "1"]]}, "answers": [["537326", "1"]]}
+{"qid": "500", "query_text": "Differences in taxes paid for W2 employee vs. 1099 contractor working on sites like ODesk.com?", "metadata": {"qrels": [["165645", "1"]]}, "answers": [["165645", "1"]]}
+{"qid": "971", "query_text": "How effective are hotel condos for investment properties?", "metadata": {"qrels": [["527489", "1"]]}, "answers": [["527489", "1"]]}
+{"qid": "1363", "query_text": "U.S. nonresident alien: Is my state tax refund taxable?", "metadata": {"qrels": [["216892", "1"]]}, "answers": [["216892", "1"]]}
+{"qid": "1371", "query_text": "Pros/cons of drawing income in retirement from sole-owner corporation vs. sole-proprietorship?", "metadata": {"qrels": [["141458", "1"]]}, "answers": [["141458", "1"]]}
+{"qid": "494", "query_text": "Car expense deductions with multiple work locations", "metadata": {"qrels": [["324911", "1"]]}, "answers": [["324911", "1"]]}
+{"qid": "906", "query_text": "Best Practices for Managing Paper Receipts", "metadata": {"qrels": [["513248", "1"]]}, "answers": [["513248", "1"]]}
+{"qid": "568", "query_text": "Is issuer's bank allowed to charge fee when cashing check?", "metadata": {"qrels": [["171988", "1"]]}, "answers": [["171988", "1"]]}
+{"qid": "14", "query_text": "What are 'business fundamentals'?", "metadata": {"qrels": [["398960", "1"]]}, "answers": [["398960", "1"]]}
+{"qid": "565", "query_text": "Capital gains tax when I sell my home if I use a portion of it for an AirBnB", "metadata": {"qrels": [["485898", "1"]]}, "answers": [["485898", "1"]]}
+{"qid": "1185", "query_text": "Can Per Diem deductions include family travel, meals and housing?", "metadata": {"qrels": [["503651", "1"]]}, "answers": [["503651", "1"]]}
+{"qid": "1194", "query_text": "Tax implications of corporate housing", "metadata": {"qrels": [["300418", "1"]]}, "answers": [["300418", "1"]]}
+{"qid": "512", "query_text": "Can I claim mileage for traveling to a contract position?", "metadata": {"qrels": [["362069", "1"]]}, "answers": [["362069", "1"]]}
+{"qid": "563", "query_text": "Can limits be placed by a merchant on which currency notes are accepted as legal tender? [duplicate]", "metadata": {"qrels": [["104572", "1"]]}, "answers": [["104572", "1"]]}
+{"qid": "523", "query_text": "Under specific conditions can I write off Spotify or other streaming audio services?", "metadata": {"qrels": [["338348", "1"]]}, "answers": [["338348", "1"]]}
+{"qid": "623", "query_text": "Taxation of shares", "metadata": {"qrels": [["5224", "1"]]}, "answers": [["5224", "1"]]}
+{"qid": "736", "query_text": "How to categorize shared income?", "metadata": {"qrels": [["396056", "1"]]}, "answers": [["396056", "1"]]}
+{"qid": "88", "query_text": "Which r in perpetuity formula to pricing a business?", "metadata": {"qrels": [["415946", "1"]]}, "answers": [["415946", "1"]]}
+{"qid": "704", "query_text": "Self employed, putting away tax money", "metadata": {"qrels": [["208216", "1"]]}, "answers": [["208216", "1"]]}
+{"qid": "830", "query_text": "What do I need as documentation in order to pay taxes in the Netherlands?", "metadata": {"qrels": [["141111", "1"]]}, "answers": [["141111", "1"]]}
+{"qid": "1072", "query_text": "As a sole proprietor can I charge a fee for being paid by check or card", "metadata": {"qrels": [["572396", "1"]]}, "answers": [["572396", "1"]]}
+{"qid": "933", "query_text": "How can I find out how much a currency is traded?", "metadata": {"qrels": [["517345", "1"]]}, "answers": [["517345", "1"]]}
+{"qid": "913", "query_text": "declaring payments to a credit card for a shared expense", "metadata": {"qrels": [["571062", "1"]]}, "answers": [["571062", "1"]]}
+{"qid": "842", "query_text": "How to Transition From Employee to Employer?", "metadata": {"qrels": [["454584", "1"]]}, "answers": [["454584", "1"]]}
+{"qid": "942", "query_text": "Credit card expenses showing as Liabilities in QuickBooks", "metadata": {"qrels": [["102002", "1"]]}, "answers": [["102002", "1"]]}
+{"qid": "562", "query_text": "What are the tax consequences if my S corporation earns money in a foreign country?", "metadata": {"qrels": [["193367", "1"]]}, "answers": [["193367", "1"]]}
+{"qid": "553", "query_text": "US Self-Employment Tax: Do expenses stack with the 50% SE deduction?", "metadata": {"qrels": [["444273", "1"]]}, "answers": [["444273", "1"]]}
+{"qid": "735", "query_text": "How does per-annum depreciation for taxes work after the first year of depreciation?", "metadata": {"qrels": [["284121", "1"]]}, "answers": [["284121", "1"]]}
+{"qid": "1418", "query_text": "Is there a White-list of Trusted Online Vendors?", "metadata": {"qrels": [["401254", "1"]]}, "answers": [["401254", "1"]]}
+{"qid": "760", "query_text": "If I were to get audited, what would I need?", "metadata": {"qrels": [["203155", "1"]]}, "answers": [["203155", "1"]]}
+{"qid": "1158", "query_text": "If I had no income due to a net operating loss, will I be refunded the Social Security and Medicare taxes withheld?", "metadata": {"qrels": [["480005", "1"]]}, "answers": [["480005", "1"]]}
+{"qid": "577", "query_text": "Can this check still be honored? [duplicate]", "metadata": {"qrels": [["303685", "1"]]}, "answers": [["303685", "1"]]}
+{"qid": "733", "query_text": "Online accounting with Stripe/PayPal transactions", "metadata": {"qrels": [["202776", "1"]]}, "answers": [["202776", "1"]]}
+{"qid": "877", "query_text": "How does one's personal credit history affect one's own company's credit rating?", "metadata": {"qrels": [["336468", "1"]]}, "answers": [["336468", "1"]]}
+{"qid": "910", "query_text": "Is this understanding of S-corp taxes correct?", "metadata": {"qrels": [["327232", "1"]]}, "answers": [["327232", "1"]]}
+{"qid": "676", "query_text": "Tax intricacies of MLP in a Roth IRA", "metadata": {"qrels": [["353159", "1"]]}, "answers": [["353159", "1"]]}
+{"qid": "873", "query_text": "Is it acceptable to receive payment from U.S. in Indian saving bank account via PayPal?", "metadata": {"qrels": [["311028", "1"]]}, "answers": [["311028", "1"]]}
+{"qid": "16", "query_text": "Business Investment Loss from prior year", "metadata": {"qrels": [["60590", "1"]]}, "answers": [["60590", "1"]]}
+{"qid": "851", "query_text": "Who maintains receipt for employee expense reimbursements?", "metadata": {"qrels": [["297241", "1"]]}, "answers": [["297241", "1"]]}
+{"qid": "1282", "query_text": "When a publicly traded company splits into two how are common shares fairly valued, distributed?", "metadata": {"qrels": [["74560", "1"]]}, "answers": [["74560", "1"]]}
+{"qid": "703", "query_text": "What tax laws apply to Meetup group income?", "metadata": {"qrels": [["114418", "1"]]}, "answers": [["114418", "1"]]}
+{"qid": "720", "query_text": "what is the meaning of allowing FDI in Insurance and pension funds", "metadata": {"qrels": [["140567", "1"]]}, "answers": [["140567", "1"]]}
+{"qid": "947", "query_text": "What are useful indexes for rapid evaluation of country investment risk?", "metadata": {"qrels": [["194682", "1"]]}, "answers": [["194682", "1"]]}
+{"qid": "716", "query_text": "The formula equivalent of EBITDA for personal finance?", "metadata": {"qrels": [["477434", "1"]]}, "answers": [["477434", "1"]]}
+{"qid": "1028", "query_text": "Tax Implications - First 2-Family Rental Property", "metadata": {"qrels": [["61768", "1"]]}, "answers": [["61768", "1"]]}
+{"qid": "833", "query_text": "Are American Eagle $20 gold coins considered \u201csecurities\u201d, requiring dealers to be licensed to sell them as such?", "metadata": {"qrels": [["42157", "1"]]}, "answers": [["42157", "1"]]}
+{"qid": "746", "query_text": "Multi-state K-1 earnings to S-Corp", "metadata": {"qrels": [["240066", "1"]]}, "answers": [["240066", "1"]]}
+{"qid": "1190", "query_text": "Credit card fee and taxes", "metadata": {"qrels": [["354716", "1"]]}, "answers": [["354716", "1"]]}
+{"qid": "1359", "query_text": "What factors go into choosing residency?", "metadata": {"qrels": [["98079", "1"]]}, "answers": [["98079", "1"]]}
+{"qid": "31", "query_text": "Starting a side business slowly", "metadata": {"qrels": [["156554", "1"]]}, "answers": [["156554", "1"]]}
+{"qid": "686", "query_text": "Cost is (maybe) part of basis for two assets", "metadata": {"qrels": [["325865", "1"]]}, "answers": [["325865", "1"]]}
+{"qid": "607", "query_text": "Transfering funds from India to the US", "metadata": {"qrels": [["205556", "1"]]}, "answers": [["205556", "1"]]}
+{"qid": "59", "query_text": "Tax Allocation - Business Asset Transfer", "metadata": {"qrels": [["71601", "1"]]}, "answers": [["71601", "1"]]}
+{"qid": "805", "query_text": "Made more than $600. Company does not issue 1099-MISC's. Enter income as general income?", "metadata": {"qrels": [["454184", "1"]]}, "answers": [["454184", "1"]]}
+{"qid": "619", "query_text": "Paying myself a distribution caused a negative Owner's Equity account balance? Is this normal?", "metadata": {"qrels": [["61798", "1"]]}, "answers": [["61798", "1"]]}
+{"qid": "1305", "query_text": "How to minimize damage from sale of savings account", "metadata": {"qrels": [["584419", "1"]]}, "answers": [["584419", "1"]]}
+{"qid": "1244", "query_text": "How to handle capital gains on a Virginia Individual Income Tax Return", "metadata": {"qrels": [["205229", "1"]]}, "answers": [["205229", "1"]]}
+{"qid": "901", "query_text": "How to teach personal reconciliation and book balancing", "metadata": {"qrels": [["141235", "1"]]}, "answers": [["141235", "1"]]}
+{"qid": "1191", "query_text": "What corporation tax am I required to pay as an independent contractor?", "metadata": {"qrels": [["519473", "1"]]}, "answers": [["519473", "1"]]}
+{"qid": "1569", "query_text": "Understanding Gift taxes for mortgage downpayment", "metadata": {"qrels": [["117661", "1"]]}, "answers": [["117661", "1"]]}
+{"qid": "1471", "query_text": "Company requires me to use my personal cell phone to work. Writeoff?", "metadata": {"qrels": [["86134", "1"]]}, "answers": [["86134", "1"]]}
+{"qid": "706", "query_text": "Switching Accountants - who does the audit review for past years?", "metadata": {"qrels": [["583269", "1"]]}, "answers": [["583269", "1"]]}
+{"qid": "1293", "query_text": "When are payroll taxes due in the US?", "metadata": {"qrels": [["32280", "1"]]}, "answers": [["32280", "1"]]}
+{"qid": "865", "query_text": "Do shares purchased on FTSE AIM move with company to other markets?", "metadata": {"qrels": [["444749", "1"]]}, "answers": [["444749", "1"]]}
+{"qid": "74", "query_text": "Buying car from rental business without title", "metadata": {"qrels": [["46680", "1"]]}, "answers": [["46680", "1"]]}
+{"qid": "1547", "query_text": "Are there any regulations regards end of loan payment procedures?", "metadata": {"qrels": [["576513", "1"]]}, "answers": [["576513", "1"]]}
+{"qid": "589", "query_text": "What are the implications of lending money to my sole member S-corp?", "metadata": {"qrels": [["333616", "1"]]}, "answers": [["333616", "1"]]}
+{"qid": "761", "query_text": "Getting a mortgage while self-employed", "metadata": {"qrels": [["134941", "1"]]}, "answers": [["134941", "1"]]}
+{"qid": "70", "query_text": "Car as business expense, but not because of driving", "metadata": {"qrels": [["327002", "1"]]}, "answers": [["327002", "1"]]}
+{"qid": "1465", "query_text": "Any tax advantage for registering a residential house as a business? (I want to apply legal pressure to my landlord)", "metadata": {"qrels": [["280435", "1"]]}, "answers": [["280435", "1"]]}
+{"qid": "1164", "query_text": "Pattern Day Trade Rule", "metadata": {"qrels": [["567383", "1"]]}, "answers": [["567383", "1"]]}
+{"qid": "593", "query_text": "How to find out if a company has purchased government (or other) bonds?", "metadata": {"qrels": [["419479", "1"]]}, "answers": [["419479", "1"]]}
+{"qid": "827", "query_text": "What securities is Return of Capital applicable to?", "metadata": {"qrels": [["570131", "1"]]}, "answers": [["570131", "1"]]}
+{"qid": "555", "query_text": "UK limited company and personal bank account", "metadata": {"qrels": [["101748", "1"]]}, "answers": [["101748", "1"]]}
+{"qid": "1428", "query_text": "What does the settlement date of short interest mean?", "metadata": {"qrels": [["36193", "1"]]}, "answers": [["36193", "1"]]}
+{"qid": "705", "query_text": "Where on schedule C should a PO Box Rental fee go?", "metadata": {"qrels": [["319234", "1"]]}, "answers": [["319234", "1"]]}
+{"qid": "989", "query_text": "Why doesn't Graham consider gold as an investment?", "metadata": {"qrels": [["1642", "1"]]}, "answers": [["1642", "1"]]}
+{"qid": "445", "query_text": "Do I need to register as self employed in Ontario, Canada?", "metadata": {"qrels": [["178942", "1"]]}, "answers": [["178942", "1"]]}
+{"qid": "590", "query_text": "Are you allowed to have both a 401(k) and a SIMPLE IRA? If so, what about limits?", "metadata": {"qrels": [["163865", "1"]]}, "answers": [["163865", "1"]]}
+{"qid": "719", "query_text": "How do multi-currency bank accounts work? What is the advantage?", "metadata": {"qrels": [["349445", "1"]]}, "answers": [["349445", "1"]]}
+{"qid": "489", "query_text": "How to have a small capital investment in US if I am out of the country?", "metadata": {"qrels": [["287019", "1"]]}, "answers": [["287019", "1"]]}
+{"qid": "840", "query_text": "Corporate Coverdell ESA Tax Liability", "metadata": {"qrels": [["195447", "1"]]}, "answers": [["195447", "1"]]}
+{"qid": "680", "query_text": "Can my U.S. company do work for a foreign company and get wire transfers to my personal account?", "metadata": {"qrels": [["152027", "1"]]}, "answers": [["152027", "1"]]}
+{"qid": "679", "query_text": "Mortgage implications if I were to quit my job shortly after being approved?", "metadata": {"qrels": [["324331", "1"]]}, "answers": [["324331", "1"]]}
+{"qid": "1098", "query_text": "Hired with W-9, will I owe estimated tax quarterly?", "metadata": {"qrels": [["84996", "1"]]}, "answers": [["84996", "1"]]}
+{"qid": "823", "query_text": "Can a husband and wife who are both members of the same LLC file a joint tax return?", "metadata": {"qrels": [["497567", "1"]]}, "answers": [["497567", "1"]]}
+{"qid": "826", "query_text": "Was on debt..can I now enter UK on visitor visa", "metadata": {"qrels": [["546190", "1"]]}, "answers": [["546190", "1"]]}
+{"qid": "870", "query_text": "Helping my family sell their oil stocks. What to buy?", "metadata": {"qrels": [["385932", "1"]]}, "answers": [["385932", "1"]]}
+{"qid": "807", "query_text": "My employer doesn't provide an electronic pay stub and I need one to get a car loan", "metadata": {"qrels": [["277815", "1"]]}, "answers": [["277815", "1"]]}
+{"qid": "1073", "query_text": "Equity or alternative compensation in an LLC?", "metadata": {"qrels": [["106684", "1"]]}, "answers": [["106684", "1"]]}
+{"qid": "482", "query_text": "What type of insurance would protect you against the Amazon 1p bug?", "metadata": {"qrels": [["349502", "1"]]}, "answers": [["349502", "1"]]}
+{"qid": "640", "query_text": "Asset protection: When should an individual seriously consider shielding their assets?", "metadata": {"qrels": [["100655", "1"]]}, "answers": [["100655", "1"]]}
+{"qid": "1289", "query_text": "When to register for a bank account for a C-Corp with no official money", "metadata": {"qrels": [["384192", "1"]]}, "answers": [["384192", "1"]]}
+{"qid": "537", "query_text": "Should I keep copies of my business's invoices for tax records?", "metadata": {"qrels": [["304034", "1"]]}, "answers": [["304034", "1"]]}
+{"qid": "20", "query_text": "Would the purchase of a car for a business through the use of a business loan be considered a business expense?", "metadata": {"qrels": [["447231", "1"]]}, "answers": [["447231", "1"]]}
+{"qid": "878", "query_text": "Simple income and expense report in gnucash", "metadata": {"qrels": [["554141", "1"]]}, "answers": [["554141", "1"]]}
+{"qid": "872", "query_text": "Can you deduct hobby expenses up to hobby income in Canada?", "metadata": {"qrels": [["524879", "1"]]}, "answers": [["524879", "1"]]}
+{"qid": "1519", "query_text": "Double-Taxation of Royalties paid for in Korea to a US Company", "metadata": {"qrels": [["310190", "1"]]}, "answers": [["310190", "1"]]}
+{"qid": "1082", "query_text": "GnuCash, how do I book loan from credit card, being paid back with salary? [duplicate]", "metadata": {"qrels": [["174714", "1"]]}, "answers": [["174714", "1"]]}
+{"qid": "1142", "query_text": "How to pay myself as a single person corporation in Ontario? Should I get an accountant?", "metadata": {"qrels": [["500744", "1"]]}, "answers": [["500744", "1"]]}
+{"qid": "49", "query_text": "Why can't online transactions be completed outside of business hours?", "metadata": {"qrels": [["352927", "1"]]}, "answers": [["352927", "1"]]}
+{"qid": "944", "query_text": "How to estimate federal and state taxes likely to be due on my side income?", "metadata": {"qrels": [["418630", "1"]]}, "answers": [["418630", "1"]]}
+{"qid": "987", "query_text": "How do I resolve Free Fillable Tax Form error F1040-524-01?", "metadata": {"qrels": [["296750", "1"]]}, "answers": [["296750", "1"]]}
+{"qid": "1146", "query_text": "Dec 31 accounting for S Corp - what to do with loss?", "metadata": {"qrels": [["445306", "1"]]}, "answers": [["445306", "1"]]}
+{"qid": "961", "query_text": "How do I keep an S-Corporation open when it has no revenues", "metadata": {"qrels": [["248629", "1"]]}, "answers": [["248629", "1"]]}
+{"qid": "670", "query_text": "Can you lease a secondary residential apartment for a job in NYC, and declare it as expense in tax return?", "metadata": {"qrels": [["55200", "1"]]}, "answers": [["55200", "1"]]}
+{"qid": "952", "query_text": "Where can I find out details about the actual network on which SWIFT banking works?", "metadata": {"qrels": [["86262", "1"]]}, "answers": [["86262", "1"]]}
+{"qid": "1132", "query_text": "From ACH direct debit to Prepaid card?", "metadata": {"qrels": [["580240", "1"]]}, "answers": [["580240", "1"]]}
+{"qid": "541", "query_text": "Can I deduct my individual Health Insurance Premium in Tax", "metadata": {"qrels": [["533825", "1"]]}, "answers": [["533825", "1"]]}
+{"qid": "1135", "query_text": "eBay Account and SIM cards sent to my address", "metadata": {"qrels": [["479548", "1"]]}, "answers": [["479548", "1"]]}
+{"qid": "953", "query_text": "Can an F1 student working on OPT with a STEM extension earn unrelated self employed income from a foreign employer?", "metadata": {"qrels": [["383172", "1"]]}, "answers": [["383172", "1"]]}
+{"qid": "1272", "query_text": "How to select a bank based on availability in two areas?", "metadata": {"qrels": [["567161", "1"]]}, "answers": [["567161", "1"]]}
+{"qid": "78", "query_text": "How to record business income tax paid, in QuickBooks?", "metadata": {"qrels": [["152407", "1"]]}, "answers": [["152407", "1"]]}
+{"qid": "614", "query_text": "What is a clearing bank, in specific, what does RMB clearing bank do?", "metadata": {"qrels": [["172306", "1"]]}, "answers": [["172306", "1"]]}
+{"qid": "645", "query_text": "What IT form to use in India?", "metadata": {"qrels": [["137171", "1"]]}, "answers": [["137171", "1"]]}
+{"qid": "1019", "query_text": "Lump Sum Investing vs. Dollar Cost Averaging (as a Long Term Investor)", "metadata": {"qrels": [["193396", "1"]]}, "answers": [["193396", "1"]]}
+{"qid": "564", "query_text": "Do I need to pay taxes in India?", "metadata": {"qrels": [["360629", "1"]]}, "answers": [["360629", "1"]]}
+{"qid": "1115", "query_text": "Administrator vs Broker vs Custodian for a Solo 401(k)?", "metadata": {"qrels": [["256448", "1"]]}, "answers": [["256448", "1"]]}
+{"qid": "740", "query_text": "Do I have to pay taxes in the US if my online store sells to US customers even though I don't live in the US?", "metadata": {"qrels": [["185999", "1"]]}, "answers": [["185999", "1"]]}
+{"qid": "583", "query_text": "Get the maximum interest rate from a bank on short term holdings", "metadata": {"qrels": [["116213", "1"]]}, "answers": [["116213", "1"]]}
+{"qid": "1328", "query_text": "Economics: negative consumer sentiment following failure to upsell", "metadata": {"qrels": [["115561", "1"]]}, "answers": [["115561", "1"]]}
+{"qid": "765", "query_text": "Who Can I Hire To Calculate the Value of An Estate?", "metadata": {"qrels": [["385301", "1"]]}, "answers": [["385301", "1"]]}
+{"qid": "1163", "query_text": "How to allocate profit and loss in partnership where one partner's activities are profitable and the other's aren't?", "metadata": {"qrels": [["285449", "1"]]}, "answers": [["285449", "1"]]}
+{"qid": "1402", "query_text": "What does HMRC (the UK tax agency) view as valid expenses for travel?", "metadata": {"qrels": [["216077", "1"]]}, "answers": [["216077", "1"]]}
+{"qid": "1153", "query_text": "Strategy to minimize taxes due to unpaid wages?", "metadata": {"qrels": [["163199", "1"]]}, "answers": [["163199", "1"]]}
+{"qid": "1271", "query_text": "How much taxes do corporations have to pay on dividends they receive from other companies?", "metadata": {"qrels": [["307688", "1"]]}, "answers": [["307688", "1"]]}
+{"qid": "996", "query_text": "Pre-valuation of the company", "metadata": {"qrels": [["204541", "1"]]}, "answers": [["204541", "1"]]}
+{"qid": "1199", "query_text": "Get tax deduction for expensive car expense", "metadata": {"qrels": [["88967", "1"]]}, "answers": [["88967", "1"]]}
+{"qid": "1081", "query_text": "Do I need to file a 1099 form for contractors associated with hobby income?", "metadata": {"qrels": [["11569", "1"]]}, "answers": [["11569", "1"]]}
+{"qid": "695", "query_text": "S Corp with Straddles Income", "metadata": {"qrels": [["399848", "1"]]}, "answers": [["399848", "1"]]}
+{"qid": "912", "query_text": "Virtual Terminal WITHOUT merchant account?", "metadata": {"qrels": [["363655", "1"]]}, "answers": [["363655", "1"]]}
+{"qid": "509", "query_text": "Can I open a personal bank account with an EIN instead of SSN?", "metadata": {"qrels": [["377152", "1"]]}, "answers": [["377152", "1"]]}
+{"qid": "96", "query_text": "As a contractor, TurboTax Business-and-Home or Basic?", "metadata": {"qrels": [["328863", "1"]]}, "answers": [["328863", "1"]]}
+{"qid": "669", "query_text": "Reporting software subscriptions", "metadata": {"qrels": [["183500", "1"]]}, "answers": [["183500", "1"]]}
+{"qid": "624", "query_text": "ACH debit blocks/filters on consumer account", "metadata": {"qrels": [["131703", "1"]]}, "answers": [["131703", "1"]]}
+{"qid": "734", "query_text": "How to handle taxes related to affiliate marketing?", "metadata": {"qrels": [["77990", "1"]]}, "answers": [["77990", "1"]]}
+{"qid": "850", "query_text": "What is the contribution limit for a SEP-IRA?", "metadata": {"qrels": [["218823", "1"]]}, "answers": [["218823", "1"]]}
+{"qid": "1557", "query_text": "Free cash flow and capex on morningstar.com", "metadata": {"qrels": [["314110", "1"]]}, "answers": [["314110", "1"]]}
+{"qid": "798", "query_text": "Is it cheaper to use car Insurance or pay out of pocket?", "metadata": {"qrels": [["487196", "1"]]}, "answers": [["487196", "1"]]}
+{"qid": "956", "query_text": "Cosigning - cosigner won't pay and won't give any information or transfer asset", "metadata": {"qrels": [["453263", "1"]]}, "answers": [["453263", "1"]]}
+{"qid": "1123", "query_text": "Should I have to pay income tax on contribution to home office rent from company?", "metadata": {"qrels": [["2528", "1"]]}, "answers": [["2528", "1"]]}
+{"qid": "47", "query_text": "As a small business owner, should I pay my taxes from my personal or business checking account?", "metadata": {"qrels": [["133299", "1"]]}, "answers": [["133299", "1"]]}
+{"qid": "822", "query_text": "Is robinhood backed up by an insurance company", "metadata": {"qrels": [["298424", "1"]]}, "answers": [["298424", "1"]]}
+{"qid": "629", "query_text": "Filing Form 7004 if an LLC's only members are husband and wife", "metadata": {"qrels": [["271772", "1"]]}, "answers": [["271772", "1"]]}
+{"qid": "777", "query_text": "Can a Zelle Bank Transfer be reversed or denied after credit has been added?", "metadata": {"qrels": [["15070", "1"]]}, "answers": [["15070", "1"]]}
+{"qid": "62", "query_text": "Claiming car as a business expense in the UK", "metadata": {"qrels": [["34810", "1"]]}, "answers": [["34810", "1"]]}
+{"qid": "61", "query_text": "How to Deduct Family Health Care Premiums Under Side Business", "metadata": {"qrels": [["524134", "1"]]}, "answers": [["524134", "1"]]}
+{"qid": "677", "query_text": "I am a Resident Alien for tax purposes. Can I claim exemptions from the India - US Tax Treaty (21)?", "metadata": {"qrels": [["79552", "1"]]}, "answers": [["79552", "1"]]}
+{"qid": "894", "query_text": "Owned house for less than 2 years - 1031 exchange?", "metadata": {"qrels": [["263591", "1"]]}, "answers": [["263591", "1"]]}
+{"qid": "1078", "query_text": "How to receive packages pseudonymously?", "metadata": {"qrels": [["594653", "1"]]}, "answers": [["594653", "1"]]}
+{"qid": "41", "query_text": "IRA for work and my business", "metadata": {"qrels": [["176229", "1"]]}, "answers": [["176229", "1"]]}
+{"qid": "487", "query_text": "Is it taxable if someone return me money?", "metadata": {"qrels": [["399115", "1"]]}, "answers": [["399115", "1"]]}
+{"qid": "938", "query_text": "Received a late 1099 MISC for income I reported already, do I have to amend?", "metadata": {"qrels": [["599496", "1"]]}, "answers": [["599496", "1"]]}
+{"qid": "820", "query_text": "How do I receive payment from the USA to my current account in India", "metadata": {"qrels": [["589692", "1"]]}, "answers": [["589692", "1"]]}
+{"qid": "828", "query_text": "How to save money on currency conversion", "metadata": {"qrels": [["210678", "1"]]}, "answers": [["210678", "1"]]}
+{"qid": "866", "query_text": "Contribute to both a SEP IRA and solo Roth 401(k)?", "metadata": {"qrels": [["195637", "1"]]}, "answers": [["195637", "1"]]}
+{"qid": "557", "query_text": "US taxes and refunding/returning payment", "metadata": {"qrels": [["454931", "1"]]}, "answers": [["454931", "1"]]}
+{"qid": "888", "query_text": "Capital gains and flow through tax treatment", "metadata": {"qrels": [["93205", "1"]]}, "answers": [["93205", "1"]]}
+{"qid": "1111", "query_text": "Options on the E-mini S&P 500 Futures at the CME: what's the expiry date of the underlying future?", "metadata": {"qrels": [["262589", "1"]]}, "answers": [["262589", "1"]]}
+{"qid": "11", "query_text": "Personal checks instead of business ones", "metadata": {"qrels": [["596427", "1"]]}, "answers": [["596427", "1"]]}
+{"qid": "1248", "query_text": "Income and taxes with subcontracting?", "metadata": {"qrels": [["182989", "1"]]}, "answers": [["182989", "1"]]}
+{"qid": "535", "query_text": "Renting out rooms in my home, what's the proper way to deal with utilities for tax purposes?", "metadata": {"qrels": [["87113", "1"]]}, "answers": [["87113", "1"]]}
+{"qid": "692", "query_text": "Can an Indian citizen/resident invest in a US company and collect the profits in India?", "metadata": {"qrels": [["224688", "1"]]}, "answers": [["224688", "1"]]}
+{"qid": "0", "query_text": "What is considered a business expense on a business trip?", "metadata": {"qrels": [["18850", "1"]]}, "answers": [["18850", "1"]]}
+{"qid": "1277", "query_text": "How to determine whether 1099-MISC income is from self-employment?", "metadata": {"qrels": [["547941", "1"]]}, "answers": [["547941", "1"]]}
+{"qid": "1075", "query_text": "How do you compare the sales of a company like Coca Cola against another company like JPMorgan Chase to figure out the best investment opportunity?", "metadata": {"qrels": [["438392", "1"]]}, "answers": [["438392", "1"]]}
+{"qid": "1126", "query_text": "How much total salary to allocate to defer $17,500 to 401(k)?", "metadata": {"qrels": [["143862", "1"]]}, "answers": [["143862", "1"]]}
+{"qid": "804", "query_text": "I just \u201cpaid\u201d online with a debit card with no funds. What now?", "metadata": {"qrels": [["48401", "1"]]}, "answers": [["48401", "1"]]}
+{"qid": "908", "query_text": "offshoring work and tax dilemma", "metadata": {"qrels": [["599336", "1"]]}, "answers": [["599336", "1"]]}
+{"qid": "1119", "query_text": "Can I deduct the cost of software and/or computer that I need to do my job?", "metadata": {"qrels": [["136850", "1"]]}, "answers": [["136850", "1"]]}
+{"qid": "95", "query_text": "Do Affordable Care Act business requirements apply to \u201ccontrol groups?\u201d", "metadata": {"qrels": [["586355", "1"]]}, "answers": [["586355", "1"]]}
+{"qid": "973", "query_text": "How do I pay my estimated income tax?", "metadata": {"qrels": [["68486", "1"]]}, "answers": [["68486", "1"]]}
+{"qid": "789", "query_text": "Corporate Equity Draw vs Income", "metadata": {"qrels": [["147358", "1"]]}, "answers": [["147358", "1"]]}
+{"qid": "1258", "query_text": "Can you depreciate assets differently between Federal, State, and Local?", "metadata": {"qrels": [["397367", "1"]]}, "answers": [["397367", "1"]]}
+{"qid": "1431", "query_text": "How to explain an income discrepancy to the IRS?", "metadata": {"qrels": [["129272", "1"]]}, "answers": [["129272", "1"]]}
+{"qid": "690", "query_text": "Obtaining California SOS number for out-of-state LLC", "metadata": {"qrels": [["57486", "1"]]}, "answers": [["57486", "1"]]}
+{"qid": "467", "query_text": "Tax Write-offs and knowing how much I need to spend before the end of the year", "metadata": {"qrels": [["344340", "1"]]}, "answers": [["344340", "1"]]}
+{"qid": "926", "query_text": "The equivalent of the standing order in the internet age for the UK specifically", "metadata": {"qrels": [["347109", "1"]]}, "answers": [["347109", "1"]]}
+{"qid": "556", "query_text": "Does receiving a 1099-MISC require one to file a tax return even if he normally would not be required to file?", "metadata": {"qrels": [["327078", "1"]]}, "answers": [["327078", "1"]]}
+{"qid": "922", "query_text": "Can I deduct personal loans or use them as tax \u201cwrite offs?\u201d", "metadata": {"qrels": [["353120", "1"]]}, "answers": [["353120", "1"]]}
+{"qid": "1030", "query_text": "What taxes are involved for LLC in Georgia?", "metadata": {"qrels": [["158058", "1"]]}, "answers": [["158058", "1"]]}
+{"qid": "4", "query_text": "Business Expense - Car Insurance Deductible For Accident That Occurred During a Business Trip", "metadata": {"qrels": [["196463", "1"]]}, "answers": [["196463", "1"]]}
+{"qid": "1156", "query_text": "Taxes and withholding on unpaid salary", "metadata": {"qrels": [["496959", "1"]]}, "answers": [["496959", "1"]]}
+{"qid": "532", "query_text": "Do I only have to pay income tax on capital gains?", "metadata": {"qrels": [["409230", "1"]]}, "answers": [["409230", "1"]]}
+{"qid": "860", "query_text": "BoA Closed my Accounts and Froze my Funds. How can I get money back besides cashier's check?", "metadata": {"qrels": [["77670", "1"]]}, "answers": [["77670", "1"]]}
+{"qid": "1253", "query_text": "Start a Holding Company?", "metadata": {"qrels": [["454465", "1"]]}, "answers": [["454465", "1"]]}
+{"qid": "473", "query_text": "Financially Shielded Entity Separating Individuals Behind It From Risks", "metadata": {"qrels": [["466037", "1"]]}, "answers": [["466037", "1"]]}
+{"qid": "1347", "query_text": "Is it usual for a tradesperson not to charge VAT?", "metadata": {"qrels": [["439109", "1"]]}, "answers": [["439109", "1"]]}
+{"qid": "1139", "query_text": "Auto loan: must make X payments before payoff", "metadata": {"qrels": [["469270", "1"]]}, "answers": [["469270", "1"]]}
+{"qid": "474", "query_text": "Forgot to renew Fictitious Name application within the county. What is the penalty for late filing?", "metadata": {"qrels": [["430901", "1"]]}, "answers": [["430901", "1"]]}
+{"qid": "13", "query_text": "How can I register a UK business without providing a business address?", "metadata": {"qrels": [["503678", "1"]]}, "answers": [["503678", "1"]]}
+{"qid": "634", "query_text": "Is there a difference between managerial accounting and financial accounting?", "metadata": {"qrels": [["374258", "1"]]}, "answers": [["374258", "1"]]}
+{"qid": "955", "query_text": "Help stuck in a bad first time loan!", "metadata": {"qrels": [["556558", "1"]]}, "answers": [["556558", "1"]]}
+{"qid": "898", "query_text": "Online Return Policies", "metadata": {"qrels": [["382838", "1"]]}, "answers": [["382838", "1"]]}
+{"qid": "797", "query_text": "My wife and I are selling a house worth $230k-$260k. Its a rental. Should we use an agent, limited service listing agent, or FSBO?", "metadata": {"qrels": [["89281", "1"]]}, "answers": [["89281", "1"]]}
+{"qid": "799", "query_text": "Limited Liability Partnership capital calculation", "metadata": {"qrels": [["594280", "1"]]}, "answers": [["594280", "1"]]}
+{"qid": "81", "query_text": "Does revenue equal gross profit for info product business?", "metadata": {"qrels": [["451207", "1"]]}, "answers": [["451207", "1"]]}
+{"qid": "1352", "query_text": "What tax year does my income get assigned to if my client sends the payment in December but I receive it in January?", "metadata": {"qrels": [["57557", "1"]]}, "answers": [["57557", "1"]]}
+{"qid": "1358", "query_text": "Prize Money, Taxes and Foreign / International Students", "metadata": {"qrels": [["386481", "1"]]}, "answers": [["386481", "1"]]}
+{"qid": "528", "query_text": "Estimated Taxes Fall Short of tax liability \u2014 how do I pay extra online (Federal and NYS)", "metadata": {"qrels": [["562957", "1"]]}, "answers": [["562957", "1"]]}
+{"qid": "472", "query_text": "Is Mint allowed to share user data with other Intuit entities?", "metadata": {"qrels": [["337071", "1"]]}, "answers": [["337071", "1"]]}
+{"qid": "69", "query_text": "Deducting business expenses paid for by gift card", "metadata": {"qrels": [["378484", "1"]]}, "answers": [["378484", "1"]]}
+{"qid": "439", "query_text": "Do I need a Like-Kind Exchange when selling a personal vehicle for a company car", "metadata": {"qrels": [["202630", "1"]]}, "answers": [["202630", "1"]]}
+{"qid": "917", "query_text": "If I helped my friend to file taxes; can I represent her on a phone call with FTB?", "metadata": {"qrels": [["379233", "1"]]}, "answers": [["379233", "1"]]}
+{"qid": "927", "query_text": "Generally Accepted Accounting Principles question", "metadata": {"qrels": [["444145", "1"]]}, "answers": [["444145", "1"]]}
+{"qid": "517", "query_text": "Excessive Credit Check from Comcast", "metadata": {"qrels": [["587220", "1"]]}, "answers": [["587220", "1"]]}
+{"qid": "1116", "query_text": "Faster degree with debt or slower degree with no debt?", "metadata": {"qrels": [["242501", "1"]]}, "answers": [["242501", "1"]]}
+{"qid": "1560", "query_text": "How long do wire transfers take?", "metadata": {"qrels": [["201294", "1"]]}, "answers": [["201294", "1"]]}
+{"qid": "818", "query_text": "Legal requirements to sell design content, artwork and also freelance in India?", "metadata": {"qrels": [["358175", "1"]]}, "answers": [["358175", "1"]]}
+{"qid": "847", "query_text": "Won an incentive trip in 2013, left employer in 2014, received an earning statement with no cash but a huge tangible bonus listed", "metadata": {"qrels": [["348787", "1"]]}, "answers": [["348787", "1"]]}
+{"qid": "649", "query_text": "Why does the Brexit cause a fall in crude oil prices?", "metadata": {"qrels": [["350365", "1"]]}, "answers": [["350365", "1"]]}
+{"qid": "968", "query_text": "100% Ownership and 30% profit to sale director", "metadata": {"qrels": [["490630", "1"]]}, "answers": [["490630", "1"]]}
+{"qid": "1433", "query_text": "How do I look for private limited partnership investment opportunities? (Or should I?)", "metadata": {"qrels": [["58426", "1"]]}, "answers": [["58426", "1"]]}
+{"qid": "632", "query_text": "What is the field \u201cFolio\u201d in an accounting book for?", "metadata": {"qrels": [["568501", "1"]]}, "answers": [["568501", "1"]]}
+{"qid": "1567", "query_text": "What is a trade exchange and are they reputable or not?", "metadata": {"qrels": [["120986", "1"]]}, "answers": [["120986", "1"]]}
+{"qid": "1353", "query_text": "Does being on the board of a bankruptcy-declaring company affect my credit rating?", "metadata": {"qrels": [["576185", "1"]]}, "answers": [["576185", "1"]]}
+{"qid": "522", "query_text": "Form 1042-S for foreign resident and owner of trade account", "metadata": {"qrels": [["237785", "1"]]}, "answers": [["237785", "1"]]}
+{"qid": "883", "query_text": "How do you report S-corporation Shareholder loans / capital contributions?", "metadata": {"qrels": [["65040", "1"]]}, "answers": [["65040", "1"]]}
+{"qid": "815", "query_text": "Are Investment Research websites worth their premiums?", "metadata": {"qrels": [["23047", "1"]]}, "answers": [["23047", "1"]]}
+{"qid": "920", "query_text": "\u201cOccupation\u201d field on IRS Form 1040", "metadata": {"qrels": [["166245", "1"]]}, "answers": [["166245", "1"]]}
+{"qid": "1094", "query_text": "How to get a grip on finance?", "metadata": {"qrels": [["62047", "1"]]}, "answers": [["62047", "1"]]}
+{"qid": "1106", "query_text": "Save money in company for next year", "metadata": {"qrels": [["415179", "1"]]}, "answers": [["415179", "1"]]}
+{"qid": "1022", "query_text": "Figuring out if I receive US income?", "metadata": {"qrels": [["218498", "1"]]}, "answers": [["218498", "1"]]}
+{"qid": "597", "query_text": "Are individual allowed to use accrual based accounting for federal income tax?", "metadata": {"qrels": [["449387", "1"]]}, "answers": [["449387", "1"]]}
+{"qid": "82", "query_text": "Will unpaid taxes prevent me from getting a business license?", "metadata": {"qrels": [["500708", "1"]]}, "answers": [["500708", "1"]]}
+{"qid": "661", "query_text": "Would extending my mortgage cause the terms to be re-negotiated?", "metadata": {"qrels": [["422770", "1"]]}, "answers": [["422770", "1"]]}
+{"qid": "819", "query_text": "Paying estimated taxes in a quarter with losses", "metadata": {"qrels": [["589484", "1"]]}, "answers": [["589484", "1"]]}
+{"qid": "707", "query_text": "How much house can I afford, waiting around 3 years or so", "metadata": {"qrels": [["102266", "1"]]}, "answers": [["102266", "1"]]}
+{"qid": "1532", "query_text": "How do we know the number of shorted shares of a stock?", "metadata": {"qrels": [["14461", "1"]]}, "answers": [["14461", "1"]]}
+{"qid": "617", "query_text": "Changing Mailing Adress", "metadata": {"qrels": [["409822", "1"]]}, "answers": [["409822", "1"]]}
+{"qid": "75", "query_text": "Why should I choose a business checking account instead of a personal account?", "metadata": {"qrels": [["297965", "1"]]}, "answers": [["297965", "1"]]}
+{"qid": "726", "query_text": "How can I import customers and invoices from a previous year's Gnucash file?", "metadata": {"qrels": [["228083", "1"]]}, "answers": [["228083", "1"]]}
+{"qid": "1566", "query_text": "Cash-basis accounting and barter", "metadata": {"qrels": [["387578", "1"]]}, "answers": [["387578", "1"]]}
+{"qid": "991", "query_text": "Gift Tax and LLC with foreign partners", "metadata": {"qrels": [["485949", "1"]]}, "answers": [["485949", "1"]]}
+{"qid": "664", "query_text": "How do I report book royalties for tax purposes?", "metadata": {"qrels": [["435405", "1"]]}, "answers": [["435405", "1"]]}
+{"qid": "1162", "query_text": "Should rented software be included on my LLC's balance sheet?", "metadata": {"qrels": [["92819", "1"]]}, "answers": [["92819", "1"]]}
+{"qid": "887", "query_text": "Should I pay myself a dividend or a salary?", "metadata": {"qrels": [["68190", "1"]]}, "answers": [["68190", "1"]]}
+{"qid": "1149", "query_text": "How to open a Mega Money Market account without an ssn?", "metadata": {"qrels": [["278077", "1"]]}, "answers": [["278077", "1"]]}
+{"qid": "1574", "query_text": "Legal restrictions for EU-foreigners to setup bank account in Czech republic", "metadata": {"qrels": [["534031", "1"]]}, "answers": [["534031", "1"]]}
+{"qid": "962", "query_text": "How can someone invest in areas that require you to be an accredited investor [without qualifying as an accredited investor]?", "metadata": {"qrels": [["502567", "1"]]}, "answers": [["502567", "1"]]}
+{"qid": "542", "query_text": "Tax deductions on car and/or home?", "metadata": {"qrels": [["390435", "1"]]}, "answers": [["390435", "1"]]}
+{"qid": "1108", "query_text": "Canadian in California - filing taxes as a non-resident", "metadata": {"qrels": [["430728", "1"]]}, "answers": [["430728", "1"]]}
+{"qid": "86", "query_text": "Moving a personal business to a LLC accounting in California", "metadata": {"qrels": [["71569", "1"]]}, "answers": [["71569", "1"]]}
+{"qid": "654", "query_text": "Supporting a Kickstarter project: Should a customer's pledge payment include sales tax, e.g. GST/HST in Canada?", "metadata": {"qrels": [["327903", "1"]]}, "answers": [["327903", "1"]]}
+{"qid": "596", "query_text": "Quickbooks custom field for computing a value", "metadata": {"qrels": [["460175", "1"]]}, "answers": [["460175", "1"]]}
+{"qid": "764", "query_text": "How to systematically find sideways stocks?", "metadata": {"qrels": [["200210", "1"]]}, "answers": [["200210", "1"]]}
+{"qid": "783", "query_text": "Does setting up a company for your own improves credibility?", "metadata": {"qrels": [["204554", "1"]]}, "answers": [["204554", "1"]]}
+{"qid": "536", "query_text": "How do I treat the income from an ESPP I sold now that I am a non-resident alien?", "metadata": {"qrels": [["493160", "1"]]}, "answers": [["493160", "1"]]}
+{"qid": "773", "query_text": "Transfering money from NRE account in India to family member", "metadata": {"qrels": [["157712", "1"]]}, "answers": [["157712", "1"]]}
+{"qid": "1136", "query_text": "Can self-employed individuals deduct their mileage spent commuting to events?", "metadata": {"qrels": [["263259", "1"]]}, "answers": [["263259", "1"]]}
+{"qid": "881", "query_text": "US Expatriate, do I have to file for an extension, or do I automatically get it, as in without doing anything?", "metadata": {"qrels": [["87987", "1"]]}, "answers": [["87987", "1"]]}
+{"qid": "1329", "query_text": "Investing in a offshore bank account", "metadata": {"qrels": [["62966", "1"]]}, "answers": [["62966", "1"]]}
+{"qid": "1301", "query_text": "Repairs to a house in order to rent it that were paid by the beneficiary, but is still owned by a Trust", "metadata": {"qrels": [["522619", "1"]]}, "answers": [["522619", "1"]]}
+{"qid": "464", "query_text": "How to deduct operational loss from my personal income tax?", "metadata": {"qrels": [["167494", "1"]]}, "answers": [["167494", "1"]]}
+{"qid": "1490", "query_text": "Strategies to guarantee arrival time for transfers between banks", "metadata": {"qrels": [["592796", "1"]]}, "answers": [["592796", "1"]]}
+{"qid": "1267", "query_text": "Can travel expenses be deducted from Form 1040A if they were used to gather material for a book?", "metadata": {"qrels": [["153377", "1"]]}, "answers": [["153377", "1"]]}
+{"qid": "682", "query_text": "What tax-free retirement accounts are available for self-employed individuals?", "metadata": {"qrels": [["582191", "1"]]}, "answers": [["582191", "1"]]}
+{"qid": "615", "query_text": "Canadian accepting money electronically from Americans", "metadata": {"qrels": [["204288", "1"]]}, "answers": [["204288", "1"]]}
+{"qid": "1166", "query_text": "How to invest a small guaranteed monthly income?", "metadata": {"qrels": [["53200", "1"]]}, "answers": [["53200", "1"]]}
+{"qid": "64", "query_text": "1040 Schedule A Un-Reimbursed Business Expense Reporting", "metadata": {"qrels": [["391619", "1"]]}, "answers": [["391619", "1"]]}
+{"qid": "85", "query_text": "Moving my online only business to the USA?", "metadata": {"qrels": [["431230", "1"]]}, "answers": [["431230", "1"]]}
+{"qid": "569", "query_text": "How to invest 10k dollars, at the age of 23?", "metadata": {"qrels": [["339553", "1"]]}, "answers": [["339553", "1"]]}
+{"qid": "1054", "query_text": "Calculating NPV for future cash inflows", "metadata": {"qrels": [["115197", "1"]]}, "answers": [["115197", "1"]]}
+{"qid": "772", "query_text": "Is human interaction required to open a discount brokerage account?", "metadata": {"qrels": [["426713", "1"]]}, "answers": [["426713", "1"]]}
+{"qid": "1118", "query_text": "Appropriate model for deferred costs as a line-of-credit", "metadata": {"qrels": [["335667", "1"]]}, "answers": [["335667", "1"]]}
+{"qid": "1129", "query_text": "What standards should I expect of my CPA when an error was made?", "metadata": {"qrels": [["222726", "1"]]}, "answers": [["222726", "1"]]}
+{"qid": "685", "query_text": "Freelance trading of products in India", "metadata": {"qrels": [["453839", "1"]]}, "answers": [["453839", "1"]]}
+{"qid": "986", "query_text": "GnuCash: Reimbursable expenses paid by credit card", "metadata": {"qrels": [["122030", "1"]]}, "answers": [["122030", "1"]]}
+{"qid": "93", "query_text": "Really have to use business credit card for personal expenses", "metadata": {"qrels": [["292748", "1"]]}, "answers": [["292748", "1"]]}
+{"qid": "791", "query_text": "How quickly will the funds be available when depositing credit card checks?", "metadata": {"qrels": [["521070", "1"]]}, "answers": [["521070", "1"]]}
+{"qid": "490", "query_text": "Professional tax for employees - startup in India", "metadata": {"qrels": [["281500", "1"]]}, "answers": [["281500", "1"]]}
+{"qid": "967", "query_text": "Overseas Foreign Earned Income; Can I take the Home Office Deduction for a home office based outside the United States?", "metadata": {"qrels": [["272940", "1"]]}, "answers": [["272940", "1"]]}
+{"qid": "886", "query_text": "How to declare foreign gift of nearly $10,000", "metadata": {"qrels": [["220887", "1"]]}, "answers": [["220887", "1"]]}
+{"qid": "63", "query_text": "Do I need to keep paper records for my business?", "metadata": {"qrels": [["509617", "1"]]}, "answers": [["509617", "1"]]}
+{"qid": "652", "query_text": "Tax exemption on personal loan interest component in India", "metadata": {"qrels": [["55901", "1"]]}, "answers": [["55901", "1"]]}
+{"qid": "1103", "query_text": "What happens when a non-U.S. citizen who's been making money from the U.S. moves to the U.S.?", "metadata": {"qrels": [["495827", "1"]]}, "answers": [["495827", "1"]]}
+{"qid": "755", "query_text": "What significant negative factors affect Yahoo's valuation?", "metadata": {"qrels": [["56642", "1"]]}, "answers": [["56642", "1"]]}
+{"qid": "767", "query_text": "Is it ok to just report to 1 credit bureau instead of all 3", "metadata": {"qrels": [["590080", "1"]]}, "answers": [["590080", "1"]]}
+{"qid": "452", "query_text": "Should I be filling out form W-9 for somebody I sold used equipment to?", "metadata": {"qrels": [["467704", "1"]]}, "answers": [["467704", "1"]]}
+{"qid": "795", "query_text": "Can the Standard Deduction still apply to a Traditional IRA early withdrawal?", "metadata": {"qrels": [["121832", "1"]]}, "answers": [["121832", "1"]]}
+{"qid": "1508", "query_text": "How quickly does short float ratio/percent change?", "metadata": {"qrels": [["41214", "1"]]}, "answers": [["41214", "1"]]}
+{"qid": "1564", "query_text": "Federal taxes for nonresident alien whose only income in 2016 was a 2015 state tax return", "metadata": {"qrels": [["5762", "1"]]}, "answers": [["5762", "1"]]}
+{"qid": "741", "query_text": "Is it possible to block previously authorized ACH access?", "metadata": {"qrels": [["190537", "1"]]}, "answers": [["190537", "1"]]}
+{"qid": "601", "query_text": "How to know if I can have NOL (U.S. tax)?", "metadata": {"qrels": [["490176", "1"]]}, "answers": [["490176", "1"]]}
+{"qid": "531", "query_text": "Does being involved in the management of a corporation make me ineligible for a workshare program?", "metadata": {"qrels": [["460721", "1"]]}, "answers": [["460721", "1"]]}
+{"qid": "1360", "query_text": "Back of Check Images are Blank and not Endorsed", "metadata": {"qrels": [["439540", "1"]]}, "answers": [["439540", "1"]]}
+{"qid": "749", "query_text": "Multiple SEO companies claiming I have a past-due invoice", "metadata": {"qrels": [["220853", "1"]]}, "answers": [["220853", "1"]]}
+{"qid": "1546", "query_text": "What does cryptocurrency mean for governments?", "metadata": {"qrels": [["199785", "1"]]}, "answers": [["199785", "1"]]}
+{"qid": "1280", "query_text": "How to handle missing W2 from failed direct deposit only company?", "metadata": {"qrels": [["156662", "1"]]}, "answers": [["156662", "1"]]}
+{"qid": "533", "query_text": "how to show income from paypal as export income", "metadata": {"qrels": [["123756", "1"]]}, "answers": [["123756", "1"]]}
+{"qid": "7", "query_text": "New business owner - How do taxes work for the business vs individual?", "metadata": {"qrels": [["411063", "1"]]}, "answers": [["411063", "1"]]}
+{"qid": "673", "query_text": "1099 for settlement what about lawyer fees?", "metadata": {"qrels": [["487778", "1"]]}, "answers": [["487778", "1"]]}
+{"qid": "1079", "query_text": "How do \u201cheld\u201d amounts appear on statements and affect balances of traditional credit cards?", "metadata": {"qrels": [["384892", "1"]]}, "answers": [["384892", "1"]]}
+{"qid": "875", "query_text": "Can I locate the name of an account holder by the account number and sort code? (U.K.)", "metadata": {"qrels": [["505473", "1"]]}, "answers": [["505473", "1"]]}
+{"qid": "605", "query_text": "Do the activities of my LLC need to be limited to a particular field?", "metadata": {"qrels": [["244856", "1"]]}, "answers": [["244856", "1"]]}
+{"qid": "832", "query_text": "Investment options for f1 visa students in USA", "metadata": {"qrels": [["255519", "1"]]}, "answers": [["255519", "1"]]}
+{"qid": "1556", "query_text": "Is it possible for credit card companies to check credit score in India?", "metadata": {"qrels": [["106831", "1"]]}, "answers": [["106831", "1"]]}
+{"qid": "1283", "query_text": "VAT and duties payable when importing personal goods from Switzerland and the Channel Islands to the EU?", "metadata": {"qrels": [["189391", "1"]]}, "answers": [["189391", "1"]]}
+{"qid": "1155", "query_text": "How can I save LLC fees when investing in Arizona real estate from California", "metadata": {"qrels": [["509318", "1"]]}, "answers": [["509318", "1"]]}
+{"qid": "1313", "query_text": "Are account holders with a bank better able to receive a loan from that bank?", "metadata": {"qrels": [["536497", "1"]]}, "answers": [["536497", "1"]]}
+{"qid": "582", "query_text": "How important is reconciling accounts for a small LLC (Quickbooks)?", "metadata": {"qrels": [["290687", "1"]]}, "answers": [["290687", "1"]]}
+{"qid": "1001", "query_text": "What suggested supplemental income opportunities exist for a 70 year old Canadian retiree?", "metadata": {"qrels": [["468733", "1"]]}, "answers": [["468733", "1"]]}
+{"qid": "37", "query_text": "Requirements for filing business taxes?", "metadata": {"qrels": [["523564", "1"]]}, "answers": [["523564", "1"]]}
+{"qid": "1099", "query_text": "How should one refuse to father in law (Chinese) when he wants to borrow money?", "metadata": {"qrels": [["433646", "1"]]}, "answers": [["433646", "1"]]}
+{"qid": "925", "query_text": "Can a high down-payment on a house offset the need for proof of income?", "metadata": {"qrels": [["470513", "1"]]}, "answers": [["470513", "1"]]}
+{"qid": "621", "query_text": "How May Cash be Spent Approaching Bankruptcy?", "metadata": {"qrels": [["37183", "1"]]}, "answers": [["37183", "1"]]}
+{"qid": "602", "query_text": "What does \u201cIncome generated in the U.S.\u201d mean?", "metadata": {"qrels": [["355369", "1"]]}, "answers": [["355369", "1"]]}
+{"qid": "443", "query_text": "1099 versus corporation to corporation for payments?", "metadata": {"qrels": [["194955", "1"]]}, "answers": [["194955", "1"]]}
+{"qid": "43", "query_text": "Advice on money transfer business", "metadata": {"qrels": [["76662", "1"]]}, "answers": [["76662", "1"]]}
+{"qid": "46", "query_text": "Tutoring Business Payroll Management", "metadata": {"qrels": [["91325", "1"]]}, "answers": [["91325", "1"]]}
+{"qid": "835", "query_text": "How are days counted when funding a new account within 10 days", "metadata": {"qrels": [["469497", "1"]]}, "answers": [["469497", "1"]]}
+{"qid": "1080", "query_text": "Steps/Procedures to open an online stock trading account in the US", "metadata": {"qrels": [["158091", "1"]]}, "answers": [["158091", "1"]]}
+{"qid": "111", "query_text": "Dual Citizen British/US and online business taxes", "metadata": {"qrels": [["46092", "1"]]}, "answers": [["46092", "1"]]}
+{"qid": "980", "query_text": "How to Store Funds Generated through FX Trading", "metadata": {"qrels": [["560776", "1"]]}, "answers": [["560776", "1"]]}
+{"qid": "1385", "query_text": "Self employed as IT consultant and as massage therapist: Do I need 2 HST numbers?", "metadata": {"qrels": [["78486", "1"]]}, "answers": [["78486", "1"]]}
+{"qid": "1215", "query_text": "US Foreign-Owned LLC that owes no income tax - Do I have to file anything?", "metadata": {"qrels": [["338096", "1"]]}, "answers": [["338096", "1"]]}
+{"qid": "465", "query_text": "Can my company buy my personal debt?", "metadata": {"qrels": [["446553", "1"]]}, "answers": [["446553", "1"]]}
+{"qid": "1368", "query_text": "As a shareholder, what are the pros and cons of a Share Consolidation and Return of Capital?", "metadata": {"qrels": [["153383", "1"]]}, "answers": [["153383", "1"]]}
+{"qid": "520", "query_text": "why if change manufacturing of a product not change the price for the buyer?", "metadata": {"qrels": [["322171", "1"]]}, "answers": [["322171", "1"]]}
+{"qid": "610", "query_text": "Are ACH transfers between individuals possible?", "metadata": {"qrels": [["478781", "1"]]}, "answers": [["478781", "1"]]}
+{"qid": "631", "query_text": "What tax rules apply to selling of digital goods, specifically in-game currencies?", "metadata": {"qrels": [["77618", "1"]]}, "answers": [["77618", "1"]]}
+{"qid": "4113", "query_text": "Impact of Extreme Situations such as WW2 on \u201clegendary\u201d Investors' Returns?", "metadata": {"qrels": [["508417", "1"]]}, "answers": [["508417", "1"]]}
+{"qid": "2823", "query_text": "Checks not cashed", "metadata": {"qrels": [["570995", "1"]]}, "answers": [["570995", "1"]]}
+{"qid": "4025", "query_text": "Why do P/E ratios for a particular industry tend to cluster around particular values?", "metadata": {"qrels": [["274900", "1"]]}, "answers": [["274900", "1"]]}
+{"qid": "3923", "query_text": "Can a dealer keep my deposit (on a non-existant car) if my loan is not approved?", "metadata": {"qrels": [["430100", "1"]]}, "answers": [["430100", "1"]]}
+{"qid": "3244", "query_text": "How To Assign Payments Received Properly In GnuCash?", "metadata": {"qrels": [["147379", "1"]]}, "answers": [["147379", "1"]]}
+{"qid": "2613", "query_text": "What is meant by \u201cunexpected expenses\u201d in my 401k plan?", "metadata": {"qrels": [["168886", "1"]]}, "answers": [["168886", "1"]]}
+{"qid": "2004", "query_text": "Can I write off time spent learning my trade - Two-Man S-Corp", "metadata": {"qrels": [["283079", "1"]]}, "answers": [["283079", "1"]]}
+{"qid": "3168", "query_text": "Are index trackers subject to insolvency risk?", "metadata": {"qrels": [["51615", "1"]]}, "answers": [["51615", "1"]]}
+{"qid": "3568", "query_text": "Do I repay Social Security Disability Insurance (SSDI) if I suddenly have income and assets", "metadata": {"qrels": [["599485", "1"]]}, "answers": [["599485", "1"]]}
+{"qid": "3173", "query_text": "How can I find a checking account that allows for automated transfers of dynamic amounts?", "metadata": {"qrels": [["191766", "1"]]}, "answers": [["191766", "1"]]}
+{"qid": "2544", "query_text": "Any extra fees charged by passive stock and bond ETFs on top of the standard fees?", "metadata": {"qrels": [["34689", "1"]]}, "answers": [["34689", "1"]]}
+{"qid": "2177", "query_text": "Should I find a regular job or continue doing what am doing?", "metadata": {"qrels": [["6363", "1"]]}, "answers": [["6363", "1"]]}
+{"qid": "3481", "query_text": "Make punctual contributions to IRS based on earnings", "metadata": {"qrels": [["8018", "1"]]}, "answers": [["8018", "1"]]}
+{"qid": "1966", "query_text": "Employer-Paid relocation as taxable income?", "metadata": {"qrels": [["160340", "1"]]}, "answers": [["160340", "1"]]}
+{"qid": "2966", "query_text": "Is legal sending dollars to someone in Mexico, and sending them back for profit?", "metadata": {"qrels": [["285395", "1"]]}, "answers": [["285395", "1"]]}
+{"qid": "3912", "query_text": "As a US Permanent Resident, how much money I can send from the US to India in my NRE account per year?", "metadata": {"qrels": [["89662", "1"]]}, "answers": [["89662", "1"]]}
+{"qid": "2053", "query_text": "What legal action can Paypal take against me if I don't pay them and I have a negative balance?", "metadata": {"qrels": [["267347", "1"]]}, "answers": [["267347", "1"]]}
+{"qid": "2429", "query_text": "Is a debt collector allowed to make a hard inquiry on your credit report?", "metadata": {"qrels": [["573216", "1"]]}, "answers": [["573216", "1"]]}
+{"qid": "2606", "query_text": "Where to categorize crypto-currencies", "metadata": {"qrels": [["594655", "1"]]}, "answers": [["594655", "1"]]}
+{"qid": "4081", "query_text": "Why can't poor countries just print more money?", "metadata": {"qrels": [["371839", "1"]]}, "answers": [["371839", "1"]]}
+{"qid": "1895", "query_text": "When is it necessary to apply taxes for web freelancing services in Quebec, Canada?", "metadata": {"qrels": [["445298", "1"]]}, "answers": [["445298", "1"]]}
+{"qid": "3265", "query_text": "In debts now, help please", "metadata": {"qrels": [["115636", "1"]]}, "answers": [["115636", "1"]]}
+{"qid": "1944", "query_text": "Learning investment--books to read? Fundamental/Value/Motley Fool", "metadata": {"qrels": [["376859", "1"]]}, "answers": [["376859", "1"]]}
+{"qid": "3491", "query_text": "Is the Net Profit the 'final word' on a company's health?", "metadata": {"qrels": [["347946", "1"]]}, "answers": [["347946", "1"]]}
+{"qid": "3444", "query_text": "Working as a freelancer overseas, but US Citizen, what is my tax situation?", "metadata": {"qrels": [["172872", "1"]]}, "answers": [["172872", "1"]]}
+{"qid": "2124", "query_text": "Dow Jones Industrial Average (DJIA), NASDAQ 100, and S&P 500 index historical membership listing?", "metadata": {"qrels": [["576184", "1"]]}, "answers": [["576184", "1"]]}
+{"qid": "3845", "query_text": "Are stocks only listed with one exchange in one place?", "metadata": {"qrels": [["450184", "1"]]}, "answers": [["450184", "1"]]}
+{"qid": "4099", "query_text": "Demurrage vs inflation", "metadata": {"qrels": [["532260", "1"]]}, "answers": [["532260", "1"]]}
+{"qid": "2074", "query_text": "How were self employed folk taxed in the U.K. before 1997", "metadata": {"qrels": [["400647", "1"]]}, "answers": [["400647", "1"]]}
+{"qid": "1708", "query_text": "Peer to peer lending in Canada?", "metadata": {"qrels": [["45600", "1"]]}, "answers": [["45600", "1"]]}
+{"qid": "2533", "query_text": "US citizen sometimes residing in spain, wanting to offer consulting services in Europe, TAXES?", "metadata": {"qrels": [["237262", "1"]]}, "answers": [["237262", "1"]]}
+{"qid": "3703", "query_text": "How do 'payday money' stores fund their 'buy now, pay later' loans?", "metadata": {"qrels": [["551009", "1"]]}, "answers": [["551009", "1"]]}
+{"qid": "1798", "query_text": "Whats the difference between day trading and flipping and their tax implications?", "metadata": {"qrels": [["278460", "1"]]}, "answers": [["278460", "1"]]}
+{"qid": "2410", "query_text": "Interest on self assessment tax", "metadata": {"qrels": [["505692", "1"]]}, "answers": [["505692", "1"]]}
+{"qid": "1999", "query_text": "What funds were closed during or after the recent recessions?", "metadata": {"qrels": [["169627", "1"]]}, "answers": [["169627", "1"]]}
+{"qid": "4086", "query_text": "What happens if someone destroy money?", "metadata": {"qrels": [["234488", "1"]]}, "answers": [["234488", "1"]]}
+{"qid": "2467", "query_text": "Filing 1040-NR when I have been outside the US the entire year?", "metadata": {"qrels": [["353926", "1"]]}, "answers": [["353926", "1"]]}
+{"qid": "2834", "query_text": "Mexican Index Mutual Funds", "metadata": {"qrels": [["529638", "1"]]}, "answers": [["529638", "1"]]}
+{"qid": "1876", "query_text": "What are the consequences of being classified as a day trader, in Australia?", "metadata": {"qrels": [["582736", "1"]]}, "answers": [["582736", "1"]]}
+{"qid": "2364", "query_text": "Do I need to file taxes when selling on eBay or Amazon?", "metadata": {"qrels": [["411825", "1"]]}, "answers": [["411825", "1"]]}
+{"qid": "3128", "query_text": "Can mutual fund prices have opening gaps? Might my order to be filled at a higher price?", "metadata": {"qrels": [["508764", "1"]]}, "answers": [["508764", "1"]]}
+{"qid": "2844", "query_text": "Am I putting myself at any security risks by putting all my money in one bank institution?", "metadata": {"qrels": [["535566", "1"]]}, "answers": [["535566", "1"]]}
+{"qid": "1684", "query_text": "How to \u201cpay\u201d one self in a single member LLC w/ separate checking account?", "metadata": {"qrels": [["192726", "1"]]}, "answers": [["192726", "1"]]}
+{"qid": "2150", "query_text": "Solo-401k interaction with employer sponsored 401k. Limits of contribution from Schedule C income", "metadata": {"qrels": [["590310", "1"]]}, "answers": [["590310", "1"]]}
+{"qid": "1785", "query_text": "Is there a financial benefit for buyers from using community currencies?", "metadata": {"qrels": [["273790", "1"]]}, "answers": [["273790", "1"]]}
+{"qid": "1644", "query_text": "UK Tax - can I claim expenses against a different tax year?", "metadata": {"qrels": [["280538", "1"]]}, "answers": [["280538", "1"]]}
+{"qid": "3642", "query_text": "Exotic Car Flipping as a Strategic Investment? (US-CAN)", "metadata": {"qrels": [["491897", "1"]]}, "answers": [["491897", "1"]]}
+{"qid": "2016", "query_text": "Eligibility for stock rights offering", "metadata": {"qrels": [["266767", "1"]]}, "answers": [["266767", "1"]]}
+{"qid": "3108", "query_text": "What are FICA taxes for a sole proprietor in the United States", "metadata": {"qrels": [["252843", "1"]]}, "answers": [["252843", "1"]]}
+{"qid": "1760", "query_text": "Taxes paid in USA for sending money to parents in India", "metadata": {"qrels": [["130208", "1"]]}, "answers": [["130208", "1"]]}
+{"qid": "3434", "query_text": "privacy concerns when receiving money from paypal from strangers?", "metadata": {"qrels": [["244318", "1"]]}, "answers": [["244318", "1"]]}
+{"qid": "3247", "query_text": "How to read a balance sheet to determine if a company has enough money to keep paying their employees?", "metadata": {"qrels": [["301998", "1"]]}, "answers": [["301998", "1"]]}
+{"qid": "3427", "query_text": "What are pros and cons of UK Building Societies compared to banks?", "metadata": {"qrels": [["403077", "1"]]}, "answers": [["403077", "1"]]}
+{"qid": "2282", "query_text": "Do I have to work a certain amount of hours in order to get paid monthly?", "metadata": {"qrels": [["596645", "1"]]}, "answers": [["596645", "1"]]}
+{"qid": "3131", "query_text": "Mailed in One-time Payment by Check", "metadata": {"qrels": [["405848", "1"]]}, "answers": [["405848", "1"]]}
+{"qid": "2991", "query_text": "Self assessment expenses - billing date or payment date?", "metadata": {"qrels": [["457013", "1"]]}, "answers": [["457013", "1"]]}
+{"qid": "1724", "query_text": "Does earning as a non-resident remote worker on an American account make people liable for U.S taxes?", "metadata": {"qrels": [["588327", "1"]]}, "answers": [["588327", "1"]]}
+{"qid": "1974", "query_text": "Does Tennessee have anything like a principal residence exemption?", "metadata": {"qrels": [["276295", "1"]]}, "answers": [["276295", "1"]]}
+{"qid": "3401", "query_text": "Recording of personal property contribution to S-Corp in QuickBooks", "metadata": {"qrels": [["53225", "1"]]}, "answers": [["53225", "1"]]}
+{"qid": "2149", "query_text": "\u201cDebt Settlement Order\u201d Text Spams \u2013 How do they work?", "metadata": {"qrels": [["370066", "1"]]}, "answers": [["370066", "1"]]}
+{"qid": "2380", "query_text": "Pending euro payment to a usd account", "metadata": {"qrels": [["36880", "1"]]}, "answers": [["36880", "1"]]}
+{"qid": "2122", "query_text": "Minimizing loss during two-way currency transfers involving foreign entities", "metadata": {"qrels": [["340271", "1"]]}, "answers": [["340271", "1"]]}
+{"qid": "1598", "query_text": "Why an inner suburbs small apartment considered a risky investment", "metadata": {"qrels": [["45727", "1"]]}, "answers": [["45727", "1"]]}
+{"qid": "3398", "query_text": "Which countries allow eChecks?", "metadata": {"qrels": [["259890", "1"]]}, "answers": [["259890", "1"]]}
+{"qid": "2403", "query_text": "Why would I choose a 40-Year depreciation instead of the standard 27.5-Year?", "metadata": {"qrels": [["324994", "1"]]}, "answers": [["324994", "1"]]}
+{"qid": "2457", "query_text": "Personal Tax Deduction for written work to a recognized 501c3", "metadata": {"qrels": [["37382", "1"]]}, "answers": [["37382", "1"]]}
+{"qid": "3548", "query_text": "Buying a car and learning to drive versus paying up study loans", "metadata": {"qrels": [["205817", "1"]]}, "answers": [["205817", "1"]]}
+{"qid": "3316", "query_text": "found a 1994 uncashed profit sharing retirement plan check", "metadata": {"qrels": [["176017", "1"]]}, "answers": [["176017", "1"]]}
+{"qid": "2722", "query_text": "Does exposure to financials in corporate bond funds make sense?", "metadata": {"qrels": [["414444", "1"]]}, "answers": [["414444", "1"]]}
+{"qid": "3195", "query_text": "How to refuse a Clearxchange payment?", "metadata": {"qrels": [["122986", "1"]]}, "answers": [["122986", "1"]]}
+{"qid": "3135", "query_text": "how late can i put money into an IRA and still have it count for 2015?", "metadata": {"qrels": [["165759", "1"]]}, "answers": [["165759", "1"]]}
+{"qid": "1634", "query_text": "Do overall 401(k) contribution limits sum across employers?", "metadata": {"qrels": [["308255", "1"]]}, "answers": [["308255", "1"]]}
+{"qid": "2269", "query_text": "501(3)(c) to donators for trophy party", "metadata": {"qrels": [["182856", "1"]]}, "answers": [["182856", "1"]]}
+{"qid": "1878", "query_text": "How do margins on tracker mortgages (variable rate mortages) vary over time?", "metadata": {"qrels": [["375253", "1"]]}, "answers": [["375253", "1"]]}
+{"qid": "3015", "query_text": "Deduct Health Care Premiums for Family When Employer Only Pays for Me", "metadata": {"qrels": [["41793", "1"]]}, "answers": [["41793", "1"]]}
+{"qid": "3634", "query_text": "How companies choose earnings release dates, & effect on Implied Volatility", "metadata": {"qrels": [["134419", "1"]]}, "answers": [["134419", "1"]]}
+{"qid": "2065", "query_text": "Credit History and Outstanding Debts in Hungary", "metadata": {"qrels": [["241349", "1"]]}, "answers": [["241349", "1"]]}
+{"qid": "3270", "query_text": "Real estate loans for repairs", "metadata": {"qrels": [["365342", "1"]]}, "answers": [["365342", "1"]]}
+{"qid": "2028", "query_text": "Personal \u201cProfit & Loss Statement\u201d required for mortgage?", "metadata": {"qrels": [["243822", "1"]]}, "answers": [["243822", "1"]]}
+{"qid": "1649", "query_text": "standard method for learning more about a specific sector? (particularly biotech sector)", "metadata": {"qrels": [["209197", "1"]]}, "answers": [["209197", "1"]]}
+{"qid": "3985", "query_text": "What prices are compared to decide a security is over-valued, fairly valued or under-valued?", "metadata": {"qrels": [["129309", "1"]]}, "answers": [["129309", "1"]]}
+{"qid": "2752", "query_text": "What's the minimum revenue an LLC must make in Florida or NY states?", "metadata": {"qrels": [["303411", "1"]]}, "answers": [["303411", "1"]]}
+{"qid": "3667", "query_text": "How do I get into investing?", "metadata": {"qrels": [["328477", "1"]]}, "answers": [["328477", "1"]]}
+{"qid": "2686", "query_text": "401(k) lump sum distribution limited because of highly compensated employees?", "metadata": {"qrels": [["72672", "1"]]}, "answers": [["72672", "1"]]}
+{"qid": "2049", "query_text": "How to tell if you can trust a loan company?", "metadata": {"qrels": [["233561", "1"]]}, "answers": [["233561", "1"]]}
+{"qid": "4051", "query_text": "At tax time, what is the proper way to report cryptocurrency earnings and fiat income when you've started with \u201cnothing\u201d?", "metadata": {"qrels": [["14065", "1"]]}, "answers": [["14065", "1"]]}
+{"qid": "3301", "query_text": "Is the Swiss stock market inversely correlated with the Swiss Franc like Japan today?", "metadata": {"qrels": [["311445", "1"]]}, "answers": [["311445", "1"]]}
+{"qid": "2315", "query_text": "Which state do saving interests come from?", "metadata": {"qrels": [["218730", "1"]]}, "answers": [["218730", "1"]]}
+{"qid": "2926", "query_text": "Warren and it's investments [duplicate]", "metadata": {"qrels": [["102379", "1"]]}, "answers": [["102379", "1"]]}
+{"qid": "3126", "query_text": "What kind of company is USAA?", "metadata": {"qrels": [["334646", "1"]]}, "answers": [["334646", "1"]]}
+{"qid": "2017", "query_text": "Can a single-member LLC have a fiscal year not as the calendar year?", "metadata": {"qrels": [["530119", "1"]]}, "answers": [["530119", "1"]]}
+{"qid": "3690", "query_text": "Is VAT applied when a tradesman charges for materials?", "metadata": {"qrels": [["475607", "1"]]}, "answers": [["475607", "1"]]}
+{"qid": "3951", "query_text": "Negative Balance from Automatic Options Exercise. What to do?", "metadata": {"qrels": [["277311", "1"]]}, "answers": [["277311", "1"]]}
+{"qid": "2894", "query_text": "Is the address on 1040 and MD resident 502 my previous address in 2013 or my current address?", "metadata": {"qrels": [["461527", "1"]]}, "answers": [["461527", "1"]]}
+{"qid": "3106", "query_text": "Tax Form 1099 and hourly worker do i file a W-2 if my employer filed the 1099 for me?", "metadata": {"qrels": [["586026", "1"]]}, "answers": [["586026", "1"]]}
+{"qid": "1771", "query_text": "Doctor's office won't submit claim to insurance after 5 months", "metadata": {"qrels": [["358631", "1"]]}, "answers": [["358631", "1"]]}
+{"qid": "3858", "query_text": "Can i have NRE accounts without OCI card?", "metadata": {"qrels": [["13215", "1"]]}, "answers": [["13215", "1"]]}
+{"qid": "3965", "query_text": "Given current market conditions, how / when should I invest a $200k inheritance?", "metadata": {"qrels": [["578677", "1"]]}, "answers": [["578677", "1"]]}
+{"qid": "2954", "query_text": "what is the likely reason that the bank have a different year end than the other companies", "metadata": {"qrels": [["392169", "1"]]}, "answers": [["392169", "1"]]}
+{"qid": "1710", "query_text": "Washington State tax filing extension?", "metadata": {"qrels": [["55250", "1"]]}, "answers": [["55250", "1"]]}
+{"qid": "3050", "query_text": "Proper etiquette for loans from friends", "metadata": {"qrels": [["517826", "1"]]}, "answers": [["517826", "1"]]}
+{"qid": "1595", "query_text": "Found Mistake on 2013 1120S Form", "metadata": {"qrels": [["217499", "1"]]}, "answers": [["217499", "1"]]}
+{"qid": "3298", "query_text": "How do I research if my student loan company is doing something illegal?", "metadata": {"qrels": [["207483", "1"]]}, "answers": [["207483", "1"]]}
+{"qid": "2645", "query_text": "How do markets \u201cfactor in\u201d a future event?", "metadata": {"qrels": [["10558", "1"]]}, "answers": [["10558", "1"]]}
+{"qid": "3281", "query_text": "Why are people from UAE and Dubai so rich?", "metadata": {"qrels": [["471490", "1"]]}, "answers": [["471490", "1"]]}
+{"qid": "2626", "query_text": "Stop paying VAT on digital sales when earnings are under \u00a381k", "metadata": {"qrels": [["454208", "1"]]}, "answers": [["454208", "1"]]}
+{"qid": "1632", "query_text": "When filing for an NOL, do you have to file the amended previous years' returns after the NOL return?", "metadata": {"qrels": [["427024", "1"]]}, "answers": [["427024", "1"]]}
+{"qid": "4101", "query_text": "Could one person with a card with no spending limit pay off everyone's debt?", "metadata": {"qrels": [["276323", "1"]]}, "answers": [["276323", "1"]]}
+{"qid": "1735", "query_text": "Income Tax on per Diem (Non Accountable plan)", "metadata": {"qrels": [["479542", "1"]]}, "answers": [["479542", "1"]]}
+{"qid": "1861", "query_text": "Am I legally allowed to offset the tax I pay on freelance work? (UK)", "metadata": {"qrels": [["116934", "1"]]}, "answers": [["116934", "1"]]}
+{"qid": "2683", "query_text": "Monthly money transfers from US to Puerto Rico", "metadata": {"qrels": [["361580", "1"]]}, "answers": [["361580", "1"]]}
+{"qid": "3471", "query_text": "Why might a brokerage firm stop offering a particular ETF commission free?", "metadata": {"qrels": [["447354", "1"]]}, "answers": [["447354", "1"]]}
+{"qid": "2178", "query_text": "Can I claim the standard deduction being an Indian citizen and non-resident in USA for tax purposes?", "metadata": {"qrels": [["198945", "1"]]}, "answers": [["198945", "1"]]}
+{"qid": "1594", "query_text": "Can an International student of F1 VISA accept money in her US bank account on behalf of someone else?", "metadata": {"qrels": [["179144", "1"]]}, "answers": [["179144", "1"]]}
+{"qid": "3424", "query_text": "Sale of house profit gifted to child", "metadata": {"qrels": [["594529", "1"]]}, "answers": [["594529", "1"]]}
+{"qid": "1638", "query_text": "Depositing a check with a DBA on the title", "metadata": {"qrels": [["188893", "1"]]}, "answers": [["188893", "1"]]}
+{"qid": "2978", "query_text": "Should I exchange my Scottish pounds for English ones?", "metadata": {"qrels": [["180834", "1"]]}, "answers": [["180834", "1"]]}
+{"qid": "3843", "query_text": "Has anyone heard of Peerstreet?", "metadata": {"qrels": [["30322", "1"]]}, "answers": [["30322", "1"]]}
+{"qid": "1919", "query_text": "What would be the appropriate account for written off loans to friends and family?", "metadata": {"qrels": [["118083", "1"]]}, "answers": [["118083", "1"]]}
+{"qid": "2670", "query_text": "Non Resident Alien Spouse Treated As Resident - Self Employment Income", "metadata": {"qrels": [["160313", "1"]]}, "answers": [["160313", "1"]]}
+{"qid": "2187", "query_text": "How to report Canadian income from a small contract job?", "metadata": {"qrels": [["156444", "1"]]}, "answers": [["156444", "1"]]}
+{"qid": "3541", "query_text": "What are the key facts to research before buying shares of a company?", "metadata": {"qrels": [["171629", "1"]]}, "answers": [["171629", "1"]]}
+{"qid": "1875", "query_text": "What are the tax guidelines for a Canadian freelancer working for a US company?", "metadata": {"qrels": [["385320", "1"]]}, "answers": [["385320", "1"]]}
+{"qid": "2845", "query_text": "UK Ltd taxation on stocks/bonds income and real estate rent income", "metadata": {"qrels": [["202645", "1"]]}, "answers": [["202645", "1"]]}
+{"qid": "3570", "query_text": "On claiming mileage and home office deductions", "metadata": {"qrels": [["544381", "1"]]}, "answers": [["544381", "1"]]}
+{"qid": "3339", "query_text": "Oh, hail. Totaled car, confused about buy-back options", "metadata": {"qrels": [["548649", "1"]]}, "answers": [["548649", "1"]]}
+{"qid": "1845", "query_text": "Anyone please explain the meaning of turnover in this pic?", "metadata": {"qrels": [["280452", "1"]]}, "answers": [["280452", "1"]]}
+{"qid": "3044", "query_text": "When do I pay taxes if I'm self employed?", "metadata": {"qrels": [["487728", "1"]]}, "answers": [["487728", "1"]]}
+{"qid": "3733", "query_text": "Rental Application Fees", "metadata": {"qrels": [["99619", "1"]]}, "answers": [["99619", "1"]]}
+{"qid": "3959", "query_text": "Recognizing the revenue on when virtual 'credits' are purchased as opposed to used", "metadata": {"qrels": [["573523", "1"]]}, "answers": [["573523", "1"]]}
+{"qid": "3381", "query_text": "I keep getting overcharged at the grocery store. Foul play?", "metadata": {"qrels": [["36375", "1"]]}, "answers": [["36375", "1"]]}
+{"qid": "2944", "query_text": "What happens if the term insurance company closes?", "metadata": {"qrels": [["34302", "1"]]}, "answers": [["34302", "1"]]}
+{"qid": "3098", "query_text": "should the Market Capitalization be equal to the Equity of the firm", "metadata": {"qrels": [["285085", "1"]]}, "answers": [["285085", "1"]]}
+{"qid": "1865", "query_text": "When filing a US 1065 as a General Partnership, do we combine our expenditures for a home office?", "metadata": {"qrels": [["377621", "1"]]}, "answers": [["377621", "1"]]}
+{"qid": "3140", "query_text": "What is the cost of \u201cfree\u201d trades?", "metadata": {"qrels": [["174310", "1"]]}, "answers": [["174310", "1"]]}
+{"qid": "3042", "query_text": "Can I write off (deduct) expenses in a period where my corporation makes no money?", "metadata": {"qrels": [["84963", "1"]]}, "answers": [["84963", "1"]]}
+{"qid": "2904", "query_text": "Should I file a change of address with the IRS?", "metadata": {"qrels": [["198730", "1"]]}, "answers": [["198730", "1"]]}
+{"qid": "4054", "query_text": "Which % of the global economy is considered \u201cemerging\u201d?", "metadata": {"qrels": [["530938", "1"]]}, "answers": [["530938", "1"]]}
+{"qid": "2896", "query_text": "Why can I refinance my recent car loan at a lower rate than I had received originally?", "metadata": {"qrels": [["121414", "1"]]}, "answers": [["121414", "1"]]}
+{"qid": "3546", "query_text": "What should I do to pick the right consultant to open offshore bank account", "metadata": {"qrels": [["226568", "1"]]}, "answers": [["226568", "1"]]}
+{"qid": "1608", "query_text": "Why is there some latency between the time a check deposit was processed and when one can withdraw the money on Fidelity CMAs?", "metadata": {"qrels": [["358837", "1"]]}, "answers": [["358837", "1"]]}
+{"qid": "3904", "query_text": "Switching Roth IRA ( from American Funds to Vanguard)", "metadata": {"qrels": [["569342", "1"]]}, "answers": [["569342", "1"]]}
+{"qid": "1782", "query_text": "How Emini/Minifuture price is set against its underlaying instrument?", "metadata": {"qrels": [["158816", "1"]]}, "answers": [["158816", "1"]]}
+{"qid": "2678", "query_text": "How are derivatives different from bucket shops?", "metadata": {"qrels": [["457022", "1"]]}, "answers": [["457022", "1"]]}
+{"qid": "1855", "query_text": "How is Massachusetts state tax on unrealized capital gains calculated?", "metadata": {"qrels": [["114302", "1"]]}, "answers": [["114302", "1"]]}
+{"qid": "2251", "query_text": "Why does HMRC still require \u201cpayment on account\u201d after I have moved to PAYE?", "metadata": {"qrels": [["491052", "1"]]}, "answers": [["491052", "1"]]}
+{"qid": "3342", "query_text": "How to double-entry bookkeep money incoming from sold items", "metadata": {"qrels": [["308768", "1"]]}, "answers": [["308768", "1"]]}
+{"qid": "2594", "query_text": "tax deduction for 30k loan", "metadata": {"qrels": [["391251", "1"]]}, "answers": [["391251", "1"]]}
+{"qid": "1631", "query_text": "Return of value to shareholders in an ISA", "metadata": {"qrels": [["89786", "1"]]}, "answers": [["89786", "1"]]}
+{"qid": "3511", "query_text": "The cost of cleaning the house that we rented far exceeds the security deposit. Should we bother?", "metadata": {"qrels": [["361314", "1"]]}, "answers": [["361314", "1"]]}
+{"qid": "2283", "query_text": "Where can I find historic ratios by industry?", "metadata": {"qrels": [["364672", "1"]]}, "answers": [["364672", "1"]]}
+{"qid": "2775", "query_text": "Ordering from Canada, charged in CAD or USD?", "metadata": {"qrels": [["227897", "1"]]}, "answers": [["227897", "1"]]}
+{"qid": "3400", "query_text": "How to pay taxes on YouTube if I'm a dependent?", "metadata": {"qrels": [["251649", "1"]]}, "answers": [["251649", "1"]]}
+{"qid": "2829", "query_text": "For a single company listed in multiple exchanges in different countries, are the shares being offered the same?", "metadata": {"qrels": [["48269", "1"]]}, "answers": [["48269", "1"]]}
+{"qid": "3346", "query_text": "Flexplan - a company is taking over another, do I pay the balance?", "metadata": {"qrels": [["515942", "1"]]}, "answers": [["515942", "1"]]}
+{"qid": "3423", "query_text": "Why does the calculation for IRR use revenue, not profit?", "metadata": {"qrels": [["209838", "1"]]}, "answers": [["209838", "1"]]}
+{"qid": "2446", "query_text": "Why credit cards are sold through banks and not from Visa or MasterCard directly", "metadata": {"qrels": [["552607", "1"]]}, "answers": [["552607", "1"]]}
+{"qid": "2439", "query_text": "How do brokerage firms make money?", "metadata": {"qrels": [["294424", "1"]]}, "answers": [["294424", "1"]]}
+{"qid": "3526", "query_text": "What is the meaning of public stock price data from before the official first day of trading? [duplicate]", "metadata": {"qrels": [["467936", "1"]]}, "answers": [["467936", "1"]]}
+{"qid": "3760", "query_text": "How to respond to a customer's demand for payment extension?", "metadata": {"qrels": [["229777", "1"]]}, "answers": [["229777", "1"]]}
+{"qid": "4104", "query_text": "Is Volvo a public company?", "metadata": {"qrels": [["181582", "1"]]}, "answers": [["181582", "1"]]}
+{"qid": "3953", "query_text": "Selling property outside the US - gains are taxable, but how do they convert?", "metadata": {"qrels": [["426960", "1"]]}, "answers": [["426960", "1"]]}
+{"qid": "3164", "query_text": "Do US banks exchange info with countries abroad?", "metadata": {"qrels": [["521249", "1"]]}, "answers": [["521249", "1"]]}
+{"qid": "2336", "query_text": "Can Professional Certifications be written off in taxes?", "metadata": {"qrels": [["169026", "1"]]}, "answers": [["169026", "1"]]}
+{"qid": "3571", "query_text": "what is the point of the part b late enrollment penalty?", "metadata": {"qrels": [["127821", "1"]]}, "answers": [["127821", "1"]]}
+{"qid": "2505", "query_text": "Are reimbursements from company taxable,and do I need to deduct them?", "metadata": {"qrels": [["510144", "1"]]}, "answers": [["510144", "1"]]}
+{"qid": "1599", "query_text": "Might it make sense not to look into debt that is in collections?", "metadata": {"qrels": [["535307", "1"]]}, "answers": [["535307", "1"]]}
+{"qid": "2537", "query_text": "Which US services allow small/micro-payments using a credit card?", "metadata": {"qrels": [["409797", "1"]]}, "answers": [["409797", "1"]]}
+{"qid": "3638", "query_text": "Slow destruction on co-signed property", "metadata": {"qrels": [["551393", "1"]]}, "answers": [["551393", "1"]]}
+{"qid": "3970", "query_text": "Working Capital Definition", "metadata": {"qrels": [["488994", "1"]]}, "answers": [["488994", "1"]]}
+{"qid": "3987", "query_text": "Am I exposed to currency risk when I invest in shares of a foreign company that are listed domestically?", "metadata": {"qrels": [["14781", "1"]]}, "answers": [["14781", "1"]]}
+{"qid": "1657", "query_text": "Health Insurance and Disability Question", "metadata": {"qrels": [["352851", "1"]]}, "answers": [["352851", "1"]]}
+{"qid": "3577", "query_text": "Avoiding Double-Reporting Income (1099-MISC plus 1099-K)", "metadata": {"qrels": [["57229", "1"]]}, "answers": [["57229", "1"]]}
+{"qid": "2326", "query_text": "Personal Banking using accrual method", "metadata": {"qrels": [["209107", "1"]]}, "answers": [["209107", "1"]]}
+{"qid": "2754", "query_text": "What factors would affect the stock price of a sports team?", "metadata": {"qrels": [["195950", "1"]]}, "answers": [["195950", "1"]]}
+{"qid": "2082", "query_text": "Merrill Lynch historical stock prices - where to find?", "metadata": {"qrels": [["386523", "1"]]}, "answers": [["386523", "1"]]}
+{"qid": "2259", "query_text": "What happens to bank account of non-resident alien who falls out of status?", "metadata": {"qrels": [["229354", "1"]]}, "answers": [["229354", "1"]]}
+{"qid": "2276", "query_text": "How do credit card banks detect fraudulent transactions without requiring a travel advisory?", "metadata": {"qrels": [["329028", "1"]]}, "answers": [["329028", "1"]]}
+{"qid": "1659", "query_text": "Optimal number of credit cards for a given length of credit history", "metadata": {"qrels": [["192856", "1"]]}, "answers": [["192856", "1"]]}
+{"qid": "1927", "query_text": "How does a Non US citizen gain SEC Accredited Investor Status?", "metadata": {"qrels": [["63", "1"]]}, "answers": [["63", "1"]]}
+{"qid": "2692", "query_text": "Is it worth incorporating, when working in Canada as a contractor for an employer in the US?", "metadata": {"qrels": [["513051", "1"]]}, "answers": [["513051", "1"]]}
+{"qid": "1821", "query_text": "How are investment funding valued when invested in a company before it goes public?", "metadata": {"qrels": [["577381", "1"]]}, "answers": [["577381", "1"]]}
+{"qid": "2689", "query_text": "How does 1099 work with my own company", "metadata": {"qrels": [["382908", "1"]]}, "answers": [["382908", "1"]]}
+{"qid": "3662", "query_text": "Can Mutual Funds Invest In the Start Up Market?", "metadata": {"qrels": [["465820", "1"]]}, "answers": [["465820", "1"]]}
+{"qid": "3587", "query_text": "What are the benefits to underwriters in a secondary offering?", "metadata": {"qrels": [["169548", "1"]]}, "answers": [["169548", "1"]]}
+{"qid": "4109", "query_text": "looking for research tool to plug in and evaluate theoretical historical returns", "metadata": {"qrels": [["128281", "1"]]}, "answers": [["128281", "1"]]}
+{"qid": "3606", "query_text": "GnuCash: expense tracking/amounts left under limits", "metadata": {"qrels": [["485102", "1"]]}, "answers": [["485102", "1"]]}
+{"qid": "4040", "query_text": "How does end-of-year interact with mutual fund prices (if it does)?", "metadata": {"qrels": [["354136", "1"]]}, "answers": [["354136", "1"]]}
+{"qid": "2444", "query_text": "Can this year's free extension-to-pay be filed electronically? IRS Form 1127", "metadata": {"qrels": [["122185", "1"]]}, "answers": [["122185", "1"]]}
+{"qid": "3968", "query_text": "What is a better way for an American resident in a foreign country to file tax?", "metadata": {"qrels": [["34338", "1"]]}, "answers": [["34338", "1"]]}
+{"qid": "2092", "query_text": "How is a Condominium / Apartment Building fiscally identified?", "metadata": {"qrels": [["590517", "1"]]}, "answers": [["590517", "1"]]}
+{"qid": "2005", "query_text": "person on loan with cosigner", "metadata": {"qrels": [["34722", "1"]]}, "answers": [["34722", "1"]]}
+{"qid": "1951", "query_text": "Are Chase credit cards commonly accepted for purchases?", "metadata": {"qrels": [["246688", "1"]]}, "answers": [["246688", "1"]]}
+{"qid": "2018", "query_text": "How do small cap stocks perform vs. large cap stocks (like Dow constituents) during bear trends?", "metadata": {"qrels": [["10098", "1"]]}, "answers": [["10098", "1"]]}
+{"qid": "2703", "query_text": "What factors should I consider in picking a bond?", "metadata": {"qrels": [["342485", "1"]]}, "answers": [["342485", "1"]]}
+{"qid": "3647", "query_text": "Is the amount taxable if my grandfather sells agricultural land", "metadata": {"qrels": [["59795", "1"]]}, "answers": [["59795", "1"]]}
+{"qid": "2290", "query_text": "For Federal Crimes, where does the money collected from penalties go?", "metadata": {"qrels": [["46145", "1"]]}, "answers": [["46145", "1"]]}
+{"qid": "3182", "query_text": "Does Edmunds get a kick-back from the use of Edmunds Price Promise?", "metadata": {"qrels": [["521769", "1"]]}, "answers": [["521769", "1"]]}
+{"qid": "1958", "query_text": "How can I find a lost 401K from a past employer?", "metadata": {"qrels": [["217425", "1"]]}, "answers": [["217425", "1"]]}
+{"qid": "3524", "query_text": "What happens after a counterparty defaults on a derivative trade?", "metadata": {"qrels": [["248758", "1"]]}, "answers": [["248758", "1"]]}
+{"qid": "3175", "query_text": "Ordering From UK to Base Overseas - VAT exempt?", "metadata": {"qrels": [["125309", "1"]]}, "answers": [["125309", "1"]]}
+{"qid": "3687", "query_text": "Implications of receiving small amounts of money on the side", "metadata": {"qrels": [["316925", "1"]]}, "answers": [["316925", "1"]]}
+{"qid": "3121", "query_text": "When transferring money between two parties, under what circumstances is it considered taxable income?", "metadata": {"qrels": [["411606", "1"]]}, "answers": [["411606", "1"]]}
+{"qid": "3197", "query_text": "Is it correct to call an exchange-traded note a type of ETF?", "metadata": {"qrels": [["204202", "1"]]}, "answers": [["204202", "1"]]}
+{"qid": "2012", "query_text": "Track uninvoiced (pre-invoiced?) expected income in Quicken", "metadata": {"qrels": [["77248", "1"]]}, "answers": [["77248", "1"]]}
+{"qid": "2622", "query_text": "Is the gross amount of US debt dangerous for the small investor?", "metadata": {"qrels": [["61792", "1"]]}, "answers": [["61792", "1"]]}
+{"qid": "3058", "query_text": "Optimal term/number of months for car finance or lease?", "metadata": {"qrels": [["376016", "1"]]}, "answers": [["376016", "1"]]}
+{"qid": "3139", "query_text": "Why does Bank of America sometimes refer to itself as Banc of America on some documents?", "metadata": {"qrels": [["497300", "1"]]}, "answers": [["497300", "1"]]}
+{"qid": "1987", "query_text": "How to properly report income without 1099-MISC", "metadata": {"qrels": [["174025", "1"]]}, "answers": [["174025", "1"]]}
+{"qid": "3275", "query_text": "How to process IRS check as a non-resident?", "metadata": {"qrels": [["251700", "1"]]}, "answers": [["251700", "1"]]}
+{"qid": "3960", "query_text": "End of financial year: closing transactions", "metadata": {"qrels": [["14493", "1"]]}, "answers": [["14493", "1"]]}
+{"qid": "2765", "query_text": "How does sales tax holiday change tax?", "metadata": {"qrels": [["251411", "1"]]}, "answers": [["251411", "1"]]}
+{"qid": "1837", "query_text": "When does a pricing error become false advertising?", "metadata": {"qrels": [["385074", "1"]]}, "answers": [["385074", "1"]]}
+{"qid": "4107", "query_text": "What does \u201cNet Depreciation in Fair Value\u201d mean on a financial report?", "metadata": {"qrels": [["24668", "1"]]}, "answers": [["24668", "1"]]}
+{"qid": "2454", "query_text": "How can I find out what category a merchant falls into for my credit card's cashback program? [duplicate]", "metadata": {"qrels": [["341473", "1"]]}, "answers": [["341473", "1"]]}
+{"qid": "3916", "query_text": "OTC Stocks - HUGE gains?", "metadata": {"qrels": [["278889", "1"]]}, "answers": [["278889", "1"]]}
+{"qid": "3408", "query_text": "Does the Fed keeping interest rates low stimulate investment in the stock market and other investments?", "metadata": {"qrels": [["61962", "1"]]}, "answers": [["61962", "1"]]}
+{"qid": "2404", "query_text": "Investor returns from crowdfunding", "metadata": {"qrels": [["502560", "1"]]}, "answers": [["502560", "1"]]}
+{"qid": "2715", "query_text": "What is the interest rate online brokerages paying out tied to?", "metadata": {"qrels": [["72168", "1"]]}, "answers": [["72168", "1"]]}
+{"qid": "3969", "query_text": "Selling equities for real-estate down payment", "metadata": {"qrels": [["192540", "1"]]}, "answers": [["192540", "1"]]}
+{"qid": "3819", "query_text": "What factors you have do you count on to speculate effectively?", "metadata": {"qrels": [["367391", "1"]]}, "answers": [["367391", "1"]]}
+{"qid": "3880", "query_text": "I have a million dollars of disposable income. What should I do to best benefit the economy?", "metadata": {"qrels": [["325470", "1"]]}, "answers": [["325470", "1"]]}
+{"qid": "2786", "query_text": "How long does it take for money to transfer into a mastercard?", "metadata": {"qrels": [["113284", "1"]]}, "answers": [["113284", "1"]]}
+{"qid": "3890", "query_text": "Profiting from the PWC Money Tree", "metadata": {"qrels": [["496921", "1"]]}, "answers": [["496921", "1"]]}
+{"qid": "2552", "query_text": "Does cash back apply to online payments with credit card", "metadata": {"qrels": [["451897", "1"]]}, "answers": [["451897", "1"]]}
+{"qid": "2466", "query_text": "understand taxes when geting money from a project built long time ago plus my full time job", "metadata": {"qrels": [["11021", "1"]]}, "answers": [["11021", "1"]]}
+{"qid": "3648", "query_text": "Apartment Security Deposit refunds in Maryland", "metadata": {"qrels": [["592117", "1"]]}, "answers": [["592117", "1"]]}
+{"qid": "3931", "query_text": "How do wire transfers get settled?", "metadata": {"qrels": [["1897", "1"]]}, "answers": [["1897", "1"]]}
+{"qid": "3100", "query_text": "What are the tax benefits of a LLC vs a sole proprietorship?", "metadata": {"qrels": [["161020", "1"]]}, "answers": [["161020", "1"]]}
+{"qid": "3853", "query_text": "Pay or not pay charged-off accounts for mortgage qualification", "metadata": {"qrels": [["375537", "1"]]}, "answers": [["375537", "1"]]}
+{"qid": "1786", "query_text": "What is the difference between the asset management division in an investment bank and an investment company?", "metadata": {"qrels": [["224345", "1"]]}, "answers": [["224345", "1"]]}
+{"qid": "3815", "query_text": "CFD market makers: How is the price coupled to the underlying security?", "metadata": {"qrels": [["164200", "1"]]}, "answers": [["164200", "1"]]}
+{"qid": "1775", "query_text": "How do I deduct payments to others out of a single payment to the group for contract work?", "metadata": {"qrels": [["496947", "1"]]}, "answers": [["496947", "1"]]}
+{"qid": "2907", "query_text": "Can I deduct \u201cNon-Reimbursable Expenses\u201d?", "metadata": {"qrels": [["140966", "1"]]}, "answers": [["140966", "1"]]}
+{"qid": "3519", "query_text": "How can I escalate a credit dispute when the bureau \u201cconfirms\u201d the item?", "metadata": {"qrels": [["531137", "1"]]}, "answers": [["531137", "1"]]}
+{"qid": "3736", "query_text": "What does \u201cbalance sheet banks\u201d mean in this context?", "metadata": {"qrels": [["92649", "1"]]}, "answers": [["92649", "1"]]}
+{"qid": "3549", "query_text": "Why is there two currencies in Venezuela's money?", "metadata": {"qrels": [["148454", "1"]]}, "answers": [["148454", "1"]]}
+{"qid": "2317", "query_text": "Incorporating, issuing stock and evaluating it", "metadata": {"qrels": [["321120", "1"]]}, "answers": [["321120", "1"]]}
+{"qid": "2418", "query_text": "Where can I find definitive terms for a preferred share?", "metadata": {"qrels": [["218468", "1"]]}, "answers": [["218468", "1"]]}
+{"qid": "2690", "query_text": "Safe and cheap way to send money from Canada to South America", "metadata": {"qrels": [["591323", "1"]]}, "answers": [["591323", "1"]]}
+{"qid": "2849", "query_text": "RRP/list price/retail price and cars?", "metadata": {"qrels": [["268489", "1"]]}, "answers": [["268489", "1"]]}
+{"qid": "1863", "query_text": "S-Corp and distributions", "metadata": {"qrels": [["288074", "1"]]}, "answers": [["288074", "1"]]}
+{"qid": "1939", "query_text": "Obtaining Pound Sterling Cheque in US to pay for family history records from England?", "metadata": {"qrels": [["5219", "1"]]}, "answers": [["5219", "1"]]}
+{"qid": "2280", "query_text": "How to find the smallest transaction fees and commissions available and reduce trading overhead?", "metadata": {"qrels": [["234983", "1"]]}, "answers": [["234983", "1"]]}
+{"qid": "2828", "query_text": "Can I deduct equipment that I'm required to purchase by my employer?", "metadata": {"qrels": [["364938", "1"]]}, "answers": [["364938", "1"]]}
+{"qid": "1725", "query_text": "What is the stock warrant's expiration date here?", "metadata": {"qrels": [["238682", "1"]]}, "answers": [["238682", "1"]]}
+{"qid": "3358", "query_text": "Do gift cards expire? Does a gift certificate's value depreciate? How long can I keep them for?", "metadata": {"qrels": [["353615", "1"]]}, "answers": [["353615", "1"]]}
+{"qid": "3581", "query_text": "Investing in a growth stock periodically", "metadata": {"qrels": [["245728", "1"]]}, "answers": [["245728", "1"]]}
+{"qid": "3384", "query_text": "Can a bank hold my deposit on a closed account?", "metadata": {"qrels": [["339545", "1"]]}, "answers": [["339545", "1"]]}
+{"qid": "2781", "query_text": "Is there a rule of thumb to help \u201cSanity check\u201d insurance costs?", "metadata": {"qrels": [["108461", "1"]]}, "answers": [["108461", "1"]]}
+{"qid": "2996", "query_text": "what are the benefits of setting up an education trust fund for children?", "metadata": {"qrels": [["498649", "1"]]}, "answers": [["498649", "1"]]}
+{"qid": "1586", "query_text": "car loan but 2 people on title", "metadata": {"qrels": [["201122", "1"]]}, "answers": [["201122", "1"]]}
+{"qid": "3729", "query_text": "Any reason to be cautious of giving personal info to corporate fraud departments?", "metadata": {"qrels": [["125204", "1"]]}, "answers": [["125204", "1"]]}
+{"qid": "3484", "query_text": "Does payment in goods count as \u201cincome\u201d for tax purposes?", "metadata": {"qrels": [["516548", "1"]]}, "answers": [["516548", "1"]]}
+{"qid": "3222", "query_text": "How do taxes work with donations made to an individual, e.g. for free software I wrote?", "metadata": {"qrels": [["350315", "1"]]}, "answers": [["350315", "1"]]}
+{"qid": "2368", "query_text": "Where to deduct gambling losses?", "metadata": {"qrels": [["110117", "1"]]}, "answers": [["110117", "1"]]}
+{"qid": "4001", "query_text": "In the UK what are citizens legally obliged to do (in order to not be fined)", "metadata": {"qrels": [["166495", "1"]]}, "answers": [["166495", "1"]]}
+{"qid": "3170", "query_text": "When's 0% financing the least costly (best) option?", "metadata": {"qrels": [["488258", "1"]]}, "answers": [["488258", "1"]]}
+{"qid": "2797", "query_text": "New York State - NY Tax on Foreign Sourced Income for NY Non-Resident", "metadata": {"qrels": [["110862", "1"]]}, "answers": [["110862", "1"]]}
+{"qid": "2231", "query_text": "Pay via Debit Card or Bank's portal", "metadata": {"qrels": [["519124", "1"]]}, "answers": [["519124", "1"]]}
+{"qid": "2890", "query_text": "Add $5000 to existing retirement account", "metadata": {"qrels": [["372014", "1"]]}, "answers": [["372014", "1"]]}
+{"qid": "3055", "query_text": "Is there any advantage to owning equity in a company compared to a royalty agreement?", "metadata": {"qrels": [["263361", "1"]]}, "answers": [["263361", "1"]]}
+{"qid": "1804", "query_text": "Dormant company, never paid taxes, never traded in UK - should I have notified the HMRC?", "metadata": {"qrels": [["549645", "1"]]}, "answers": [["549645", "1"]]}
+{"qid": "3116", "query_text": "A check I received was lost. My options?", "metadata": {"qrels": [["476582", "1"]]}, "answers": [["476582", "1"]]}
+{"qid": "2375", "query_text": "FHA Reduction Notices From Third-Party Companies - Scam? Or Something To Consider?", "metadata": {"qrels": [["456783", "1"]]}, "answers": [["456783", "1"]]}
+{"qid": "1704", "query_text": "How much tax do I have to pay in Redmond, Washington form my Microsoft Research Internship income?", "metadata": {"qrels": [["82628", "1"]]}, "answers": [["82628", "1"]]}
+{"qid": "3809", "query_text": "Joint account that requires all signatures of all owners to withdraw money?", "metadata": {"qrels": [["473957", "1"]]}, "answers": [["473957", "1"]]}
+{"qid": "4075", "query_text": "What is the main purpose of FED increase and decrease interest rate?", "metadata": {"qrels": [["292475", "1"]]}, "answers": [["292475", "1"]]}
+{"qid": "2236", "query_text": "What should I do with a savings account in another country?", "metadata": {"qrels": [["386312", "1"]]}, "answers": [["386312", "1"]]}
+{"qid": "2304", "query_text": "How can I make a one-time income tax-prepayment to the US Treasury?", "metadata": {"qrels": [["227079", "1"]]}, "answers": [["227079", "1"]]}
+{"qid": "3498", "query_text": "What's the folly with this stock selection strategy", "metadata": {"qrels": [["171135", "1"]]}, "answers": [["171135", "1"]]}
+{"qid": "2328", "query_text": "What are the differences among all these different versions of Vivendi?", "metadata": {"qrels": [["450099", "1"]]}, "answers": [["450099", "1"]]}
+{"qid": "1868", "query_text": "In what cases can states tax non-residents?", "metadata": {"qrels": [["535673", "1"]]}, "answers": [["535673", "1"]]}
+{"qid": "2667", "query_text": "What dictates the costs of creating an options contract? (Commissions breakdown)", "metadata": {"qrels": [["582908", "1"]]}, "answers": [["582908", "1"]]}
+{"qid": "3232", "query_text": "Renting from self during out of area remodel project - deductible?", "metadata": {"qrels": [["140653", "1"]]}, "answers": [["140653", "1"]]}
+{"qid": "2489", "query_text": "Lend money at a rate linked to the prime rate", "metadata": {"qrels": [["484884", "1"]]}, "answers": [["484884", "1"]]}
+{"qid": "1860", "query_text": "US taxation of stock purchase plan for non-resident alien", "metadata": {"qrels": [["404026", "1"]]}, "answers": [["404026", "1"]]}
+{"qid": "2107", "query_text": "How long does it take for a Tangerine no-fee money-transfer email to be delivered?", "metadata": {"qrels": [["264800", "1"]]}, "answers": [["264800", "1"]]}
+{"qid": "3111", "query_text": "Tax and financial implications of sharing my apartment with my partner", "metadata": {"qrels": [["395011", "1"]]}, "answers": [["395011", "1"]]}
+{"qid": "3593", "query_text": "What are the tax liabilities for an Indian citizen working in the US?", "metadata": {"qrels": [["347186", "1"]]}, "answers": [["347186", "1"]]}
+{"qid": "2281", "query_text": "Is per diem taxable?", "metadata": {"qrels": [["134118", "1"]]}, "answers": [["134118", "1"]]}
+{"qid": "4076", "query_text": "what's the best option to save money on everyday expenses?", "metadata": {"qrels": [["259373", "1"]]}, "answers": [["259373", "1"]]}
+{"qid": "2983", "query_text": "Cheapest USD to GBP transfer", "metadata": {"qrels": [["150903", "1"]]}, "answers": [["150903", "1"]]}
+{"qid": "3104", "query_text": "Can I force him to pay?", "metadata": {"qrels": [["285745", "1"]]}, "answers": [["285745", "1"]]}
+{"qid": "2625", "query_text": "How is an ETF's NAV determined?", "metadata": {"qrels": [["313897", "1"]]}, "answers": [["313897", "1"]]}
+{"qid": "3540", "query_text": "Questions about government bonds that have already matured", "metadata": {"qrels": [["278656", "1"]]}, "answers": [["278656", "1"]]}
+{"qid": "4020", "query_text": "How will the New credit reporting rules affect people who are already struggling financially?", "metadata": {"qrels": [["30623", "1"]]}, "answers": [["30623", "1"]]}
+{"qid": "2504", "query_text": "Are there any e-commerce taxation rules in India?", "metadata": {"qrels": [["584074", "1"]]}, "answers": [["584074", "1"]]}
+{"qid": "2571", "query_text": "Foreign company incorporated in US and W9", "metadata": {"qrels": [["195640", "1"]]}, "answers": [["195640", "1"]]}
+{"qid": "3551", "query_text": "Can an IRA be taxed?", "metadata": {"qrels": [["36935", "1"]]}, "answers": [["36935", "1"]]}
+{"qid": "3356", "query_text": "How to use a companion fare if the total fare cost is more than the companion fare limit", "metadata": {"qrels": [["447292", "1"]]}, "answers": [["447292", "1"]]}
+{"qid": "2865", "query_text": "Where can I find historical ratios of international stock indexes?", "metadata": {"qrels": [["70185", "1"]]}, "answers": [["70185", "1"]]}
+{"qid": "2563", "query_text": "Why must identification be provided when purchasing a money order?", "metadata": {"qrels": [["433035", "1"]]}, "answers": [["433035", "1"]]}
+{"qid": "3409", "query_text": "How to find if a public company has taken out a loan?", "metadata": {"qrels": [["92072", "1"]]}, "answers": [["92072", "1"]]}
+{"qid": "2126", "query_text": "Good Percentage Return on Equity?", "metadata": {"qrels": [["557350", "1"]]}, "answers": [["557350", "1"]]}
+{"qid": "2794", "query_text": "Double-entry bookkeeping: How to account for non-monetary taxable benefits received from employer?", "metadata": {"qrels": [["299971", "1"]]}, "answers": [["299971", "1"]]}
+{"qid": "2901", "query_text": "What percent of your portfolio should be in a money market account?", "metadata": {"qrels": [["295155", "1"]]}, "answers": [["295155", "1"]]}
+{"qid": "3787", "query_text": "My medical bill went to a collection agency. Can I pay it directly to the hospital?", "metadata": {"qrels": [["366597", "1"]]}, "answers": [["366597", "1"]]}
+{"qid": "4056", "query_text": "How does the debt:GDP ratio affect the country's economy?", "metadata": {"qrels": [["514697", "1"]]}, "answers": [["514697", "1"]]}
+{"qid": "3380", "query_text": "Do companies only pay dividends if they are in profit?", "metadata": {"qrels": [["55701", "1"]]}, "answers": [["55701", "1"]]}
+{"qid": "2545", "query_text": "Should the bank cover money lost due to an unsuccessful transfer?", "metadata": {"qrels": [["110242", "1"]]}, "answers": [["110242", "1"]]}
+{"qid": "2859", "query_text": "Question about ex-dividend date timing", "metadata": {"qrels": [["77016", "1"]]}, "answers": [["77016", "1"]]}
+{"qid": "2655", "query_text": "Is accident insurance worth it for my kids who play sports", "metadata": {"qrels": [["17827", "1"]]}, "answers": [["17827", "1"]]}
+{"qid": "2875", "query_text": "Increase or decrease amount to be withheld each pay period?", "metadata": {"qrels": [["232983", "1"]]}, "answers": [["232983", "1"]]}
+{"qid": "2592", "query_text": "What is the added advantage of a broker being a member of NFA in addition to IIROC", "metadata": {"qrels": [["309250", "1"]]}, "answers": [["309250", "1"]]}
+{"qid": "3202", "query_text": "Insurance broker - Online vs. physical location?", "metadata": {"qrels": [["447576", "1"]]}, "answers": [["447576", "1"]]}
+{"qid": "2561", "query_text": "Buy and sell stock at specific earnings", "metadata": {"qrels": [["375706", "1"]]}, "answers": [["375706", "1"]]}
+{"qid": "1973", "query_text": "How do LLC losses affect personal income taxes in the US?", "metadata": {"qrels": [["373481", "1"]]}, "answers": [["373481", "1"]]}
+{"qid": "3619", "query_text": "When do companies typically announce stock splits?", "metadata": {"qrels": [["500250", "1"]]}, "answers": [["500250", "1"]]}
+{"qid": "3701", "query_text": "What do I do with a P11D Expenses & Benefits form?", "metadata": {"qrels": [["402327", "1"]]}, "answers": [["402327", "1"]]}
+{"qid": "3752", "query_text": "Want to buy a car but have not enough money", "metadata": {"qrels": [["476763", "1"]]}, "answers": [["476763", "1"]]}
+{"qid": "4057", "query_text": "What is the effect of a high dollar on the Canadian economy, investors, and consumers?", "metadata": {"qrels": [["259282", "1"]]}, "answers": [["259282", "1"]]}
+{"qid": "4046", "query_text": "I was given a 1099-misc instead of a w-2 what are my next steps?", "metadata": {"qrels": [["232544", "1"]]}, "answers": [["232544", "1"]]}
+{"qid": "2232", "query_text": "Can I transfer self-employed income into LLC?", "metadata": {"qrels": [["151023", "1"]]}, "answers": [["151023", "1"]]}
+{"qid": "3330", "query_text": "How many days do I have to hold a stock before it is considered a capital gain by the CRA?", "metadata": {"qrels": [["328073", "1"]]}, "answers": [["328073", "1"]]}
+{"qid": "3262", "query_text": "In what category would I put a loan I took to pay an expense", "metadata": {"qrels": [["385506", "1"]]}, "answers": [["385506", "1"]]}
+{"qid": "1584", "query_text": "Is it legal for a vendor to reuse credit details from a previous transaction", "metadata": {"qrels": [["447917", "1"]]}, "answers": [["447917", "1"]]}
+{"qid": "3611", "query_text": "What are my options for this high interest student loan?", "metadata": {"qrels": [["549359", "1"]]}, "answers": [["549359", "1"]]}
+{"qid": "1695", "query_text": "How should I report earning from Apple App Store (from iTunes Connect) in Washington state?", "metadata": {"qrels": [["20888", "1"]]}, "answers": [["20888", "1"]]}
+{"qid": "2408", "query_text": "Can I transfer my West Australian rock lobster quota units into my SMSF?", "metadata": {"qrels": [["127697", "1"]]}, "answers": [["127697", "1"]]}
+{"qid": "2200", "query_text": "Money transfer from Australia to India - avoid receiving ends service tax", "metadata": {"qrels": [["85522", "1"]]}, "answers": [["85522", "1"]]}
+{"qid": "3428", "query_text": "Why does my checking/savings account offer a higher interest rate than a standalone savings account?", "metadata": {"qrels": [["184524", "1"]]}, "answers": [["184524", "1"]]}
+{"qid": "2813", "query_text": "What do I need to be aware of if I choose to resell property early (in Alberta)?", "metadata": {"qrels": [["569917", "1"]]}, "answers": [["569917", "1"]]}
+{"qid": "3804", "query_text": "Flex spending accounts and hsa when changing jobs", "metadata": {"qrels": [["410459", "1"]]}, "answers": [["410459", "1"]]}
+{"qid": "3211", "query_text": "What data does a seller receive when I pay by credit card?", "metadata": {"qrels": [["48404", "1"]]}, "answers": [["48404", "1"]]}
+{"qid": "3537", "query_text": "VAT in UK, case of cultural industry and overseas invoices", "metadata": {"qrels": [["378060", "1"]]}, "answers": [["378060", "1"]]}
+{"qid": "2962", "query_text": "international student tax deduction while trading", "metadata": {"qrels": [["397340", "1"]]}, "answers": [["397340", "1"]]}
+{"qid": "2599", "query_text": "What are online payment options with no chargeback protection?", "metadata": {"qrels": [["204807", "1"]]}, "answers": [["204807", "1"]]}
+{"qid": "2688", "query_text": "Valuing a company and comparing to share price", "metadata": {"qrels": [["504243", "1"]]}, "answers": [["504243", "1"]]}
+{"qid": "2959", "query_text": "Would parking at a parking lot near or in my residence prevent me from paying for it with my transit FSA?", "metadata": {"qrels": [["178386", "1"]]}, "answers": [["178386", "1"]]}
+{"qid": "3509", "query_text": "Withdrawing large sums of money", "metadata": {"qrels": [["309388", "1"]]}, "answers": [["309388", "1"]]}
+{"qid": "3860", "query_text": "How should I go about creating an estate plan?", "metadata": {"qrels": [["292324", "1"]]}, "answers": [["292324", "1"]]}
+{"qid": "3855", "query_text": "When will the 2017 US Federal Tax forms be released?", "metadata": {"qrels": [["151810", "1"]]}, "answers": [["151810", "1"]]}
+{"qid": "2430", "query_text": "In the UK, can authors split a single advance on a book over multiple tax returns?", "metadata": {"qrels": [["482797", "1"]]}, "answers": [["482797", "1"]]}
+{"qid": "3437", "query_text": "In what circumstances will a bank waive the annual credit card fee?", "metadata": {"qrels": [["397175", "1"]]}, "answers": [["397175", "1"]]}
+{"qid": "3942", "query_text": "Can landlord/property change unit after approval and payment of fees?", "metadata": {"qrels": [["72722", "1"]]}, "answers": [["72722", "1"]]}
+{"qid": "2425", "query_text": "Does investing money in other currencies help pad losses in case of a stock market crash?", "metadata": {"qrels": [["321941", "1"]]}, "answers": [["321941", "1"]]}
+{"qid": "1945", "query_text": "Creating a personal company", "metadata": {"qrels": [["582571", "1"]]}, "answers": [["582571", "1"]]}
+{"qid": "1654", "query_text": "What should I consider when factoring fluctuating exchange rates into risk/return of overseas stock trading?", "metadata": {"qrels": [["378390", "1"]]}, "answers": [["378390", "1"]]}
+{"qid": "2660", "query_text": "What steps are required to transfer real estate into a LLC?", "metadata": {"qrels": [["97083", "1"]]}, "answers": [["97083", "1"]]}
+{"qid": "3324", "query_text": "Where can I find information on corporate bonds (especially those rated as \u201cjunk\u201d) ?", "metadata": {"qrels": [["247759", "1"]]}, "answers": [["247759", "1"]]}
+{"qid": "4017", "query_text": "How can one relatively easily show that low expense ratio funds outperform high expense ratio funds?", "metadata": {"qrels": [["93882", "1"]]}, "answers": [["93882", "1"]]}
+{"qid": "3209", "query_text": "How can I claim tax back from whilst I was working in Austria?", "metadata": {"qrels": [["405283", "1"]]}, "answers": [["405283", "1"]]}
+{"qid": "3628", "query_text": "Is it possible to split taxation of funds earned from a crowdfunding campaign over multiple years?", "metadata": {"qrels": [["463595", "1"]]}, "answers": [["463595", "1"]]}
+{"qid": "3820", "query_text": "As a minor in the UK do I need to pay taxes on self-employment income, and if so how?", "metadata": {"qrels": [["377547", "1"]]}, "answers": [["377547", "1"]]}
+{"qid": "3758", "query_text": "Yahoo Finance not showing detailed information for foreign stocks", "metadata": {"qrels": [["156816", "1"]]}, "answers": [["156816", "1"]]}
+{"qid": "1797", "query_text": "New Pooled Registered Pension Plan details?", "metadata": {"qrels": [["404587", "1"]]}, "answers": [["404587", "1"]]}
+{"qid": "2461", "query_text": "Working in Iran for foreign company", "metadata": {"qrels": [["540917", "1"]]}, "answers": [["540917", "1"]]}
+{"qid": "2656", "query_text": "In what ways can a public company ask for money?", "metadata": {"qrels": [["333755", "1"]]}, "answers": [["333755", "1"]]}
+{"qid": "2846", "query_text": "Can anyone else make an online payment for me?", "metadata": {"qrels": [["450878", "1"]]}, "answers": [["450878", "1"]]}
+{"qid": "2201", "query_text": "Possibility of donations in an educational site", "metadata": {"qrels": [["413681", "1"]]}, "answers": [["413681", "1"]]}
+{"qid": "3688", "query_text": "Personal loan to a friend procedure", "metadata": {"qrels": [["394191", "1"]]}, "answers": [["394191", "1"]]}
+{"qid": "3946", "query_text": "Do performers pay taxes on comped meals and hotels?", "metadata": {"qrels": [["555732", "1"]]}, "answers": [["555732", "1"]]}
+{"qid": "2300", "query_text": "Does Reuters provide the 4pm London Spot rate for currencies?", "metadata": {"qrels": [["304215", "1"]]}, "answers": [["304215", "1"]]}
+{"qid": "2305", "query_text": "Is there a lower threshold for new EU VAT changes coming 1 Jan 2015 related to the sale of digital goods?", "metadata": {"qrels": [["315516", "1"]]}, "answers": [["315516", "1"]]}
+{"qid": "2572", "query_text": "What special considerations need to be made for a US citizen who wishes to purchase a house in Canada?", "metadata": {"qrels": [["141738", "1"]]}, "answers": [["141738", "1"]]}
+{"qid": "2691", "query_text": "What are the tax liabilities for an international transaction?", "metadata": {"qrels": [["342694", "1"]]}, "answers": [["342694", "1"]]}
+{"qid": "3086", "query_text": "Long vs. short term capital gains on real estate", "metadata": {"qrels": [["153281", "1"]]}, "answers": [["153281", "1"]]}
+{"qid": "2250", "query_text": "Is buying and selling Bitcoin (and other cryptocurrency) legal for a student on F-1 Visa doing OPT in USA?", "metadata": {"qrels": [["46345", "1"]]}, "answers": [["46345", "1"]]}
+{"qid": "2295", "query_text": "searching for historic exchange rate provider which meets this example data", "metadata": {"qrels": [["256996", "1"]]}, "answers": [["256996", "1"]]}
+{"qid": "3107", "query_text": "Should I refi a rental property to reduce income tax from positive cash flow and use the equity pulled out to fund an annuity?", "metadata": {"qrels": [["490888", "1"]]}, "answers": [["490888", "1"]]}
+{"qid": "1686", "query_text": "US Tax Form 1040EZ: Do I enter ALL income or ONLY income specified in W-2 forms?", "metadata": {"qrels": [["223624", "1"]]}, "answers": [["223624", "1"]]}
+{"qid": "2795", "query_text": "Moving 401k balance into self-directed IRA", "metadata": {"qrels": [["428671", "1"]]}, "answers": [["428671", "1"]]}
+{"qid": "1929", "query_text": "I paid a contractor to make roof repairs to a house in my LLC. How can I deduct this cost?", "metadata": {"qrels": [["155490", "1"]]}, "answers": [["155490", "1"]]}
+{"qid": "3846", "query_text": "What is a \u201cconvertible note\u201d?", "metadata": {"qrels": [["87696", "1"]]}, "answers": [["87696", "1"]]}
+{"qid": "2071", "query_text": "Can I account for start-up costs that occur before incorporation?", "metadata": {"qrels": [["127584", "1"]]}, "answers": [["127584", "1"]]}
+{"qid": "2432", "query_text": "Where can I find recent information about which major shareholders changed their positions in a given stock?", "metadata": {"qrels": [["137694", "1"]]}, "answers": [["137694", "1"]]}
+{"qid": "4003", "query_text": "What determines the price of fixed income ETFs?", "metadata": {"qrels": [["183531", "1"]]}, "answers": [["183531", "1"]]}
+{"qid": "3725", "query_text": "Where can I find the current price to rent ratio of the locality of my interest?", "metadata": {"qrels": [["569409", "1"]]}, "answers": [["569409", "1"]]}
+{"qid": "2881", "query_text": "Is it a good strategy to +cash out refi every six months?", "metadata": {"qrels": [["201968", "1"]]}, "answers": [["201968", "1"]]}
+{"qid": "2663", "query_text": "How Should I Go About Buying a Car? (College Student)", "metadata": {"qrels": [["67045", "1"]]}, "answers": [["67045", "1"]]}
+{"qid": "2133", "query_text": "How does UpWork allow US companies to make payments outside of the US?", "metadata": {"qrels": [["351114", "1"]]}, "answers": [["351114", "1"]]}
+{"qid": "1645", "query_text": "Is it possible for an individual to refuse a cheque in France?", "metadata": {"qrels": [["345475", "1"]]}, "answers": [["345475", "1"]]}
+{"qid": "2889", "query_text": "Can a recruiting agency demand information to file an I-9 before I have a job?", "metadata": {"qrels": [["271080", "1"]]}, "answers": [["271080", "1"]]}
+{"qid": "2128", "query_text": "Is transfer of long term investment proceeds from India considered taxable in the U.S.?", "metadata": {"qrels": [["83758", "1"]]}, "answers": [["83758", "1"]]}
+{"qid": "2079", "query_text": "Can dues and subscriptions expenses be deducted 100% to calculate taxable income in an LLC company?", "metadata": {"qrels": [["480512", "1"]]}, "answers": [["480512", "1"]]}
+{"qid": "2333", "query_text": "Ongoing Automatic Investment Fee", "metadata": {"qrels": [["330792", "1"]]}, "answers": [["330792", "1"]]}
+{"qid": "2057", "query_text": "Bringing money to UK for investment purposes", "metadata": {"qrels": [["562007", "1"]]}, "answers": [["562007", "1"]]}
+{"qid": "3561", "query_text": "Is the very long-term growth of the stock market bound by aggregate net income?", "metadata": {"qrels": [["289270", "1"]]}, "answers": [["289270", "1"]]}
+{"qid": "2872", "query_text": "Is there a NY tax form to use when one is missing a K-1 (or 1065) from an LLC?", "metadata": {"qrels": [["72321", "1"]]}, "answers": [["72321", "1"]]}
+{"qid": "3391", "query_text": "Better rate for investment between CD or savings", "metadata": {"qrels": [["281491", "1"]]}, "answers": [["281491", "1"]]}
+{"qid": "2699", "query_text": "Is it possible as a non-Indian citizen to create an Indian bank account (denominated in rupees) that can exchange & repatriate its funds?", "metadata": {"qrels": [["41914", "1"]]}, "answers": [["41914", "1"]]}
+{"qid": "1896", "query_text": "What are the basics of apartment rental finances?", "metadata": {"qrels": [["531934", "1"]]}, "answers": [["531934", "1"]]}
+{"qid": "3719", "query_text": "The Purpose of Change Machines", "metadata": {"qrels": [["444548", "1"]]}, "answers": [["444548", "1"]]}
+{"qid": "2397", "query_text": "California resident, Delaware C-Corp - Taxes for 1-person software freelancer?", "metadata": {"qrels": [["107536", "1"]]}, "answers": [["107536", "1"]]}
+{"qid": "3773", "query_text": "For SSI, is \u201cauthorized user\u201d status on a bank account the same as \u201cownership\u201d?", "metadata": {"qrels": [["236177", "1"]]}, "answers": [["236177", "1"]]}
+{"qid": "2278", "query_text": "What is expense growth in this diagram?", "metadata": {"qrels": [["456814", "1"]]}, "answers": [["456814", "1"]]}
+{"qid": "2711", "query_text": "What is the basis of an asset that is never depreciated?", "metadata": {"qrels": [["31221", "1"]]}, "answers": [["31221", "1"]]}
+{"qid": "1687", "query_text": "Australian stocks - any dividend tax or capital gains tax?", "metadata": {"qrels": [["73457", "1"]]}, "answers": [["73457", "1"]]}
+{"qid": "2731", "query_text": "Tax for Basket with Coupon containing two different VAT rates", "metadata": {"qrels": [["90230", "1"]]}, "answers": [["90230", "1"]]}
+{"qid": "2583", "query_text": "EIN for personal LLC: Is this an S-Corp?", "metadata": {"qrels": [["504317", "1"]]}, "answers": [["504317", "1"]]}
+{"qid": "1690", "query_text": "Can we cash a check under business name?", "metadata": {"qrels": [["91707", "1"]]}, "answers": [["91707", "1"]]}
+{"qid": "1979", "query_text": "As an independent contractor, should I always charge the client the GST/HST?", "metadata": {"qrels": [["433907", "1"]]}, "answers": [["433907", "1"]]}
+{"qid": "2947", "query_text": "How do you write a check with cents?", "metadata": {"qrels": [["482503", "1"]]}, "answers": [["482503", "1"]]}
+{"qid": "2038", "query_text": "Overpaid Rent Owed By Real Estate", "metadata": {"qrels": [["348510", "1"]]}, "answers": [["348510", "1"]]}
+{"qid": "3373", "query_text": "Quandl financial data : unexpected dividend", "metadata": {"qrels": [["33628", "1"]]}, "answers": [["33628", "1"]]}
+{"qid": "3442", "query_text": "Do classes have to pay sales tax on materials used?", "metadata": {"qrels": [["286654", "1"]]}, "answers": [["286654", "1"]]}
+{"qid": "2757", "query_text": "How can I minimize the impact of the HST?", "metadata": {"qrels": [["8585", "1"]]}, "answers": [["8585", "1"]]}
+{"qid": "1685", "query_text": "Earnings Calendar Fiscal Quarter Ending", "metadata": {"qrels": [["422062", "1"]]}, "answers": [["422062", "1"]]}
+{"qid": "3355", "query_text": "What is the minimum age for early retirement", "metadata": {"qrels": [["108672", "1"]]}, "answers": [["108672", "1"]]}
+{"qid": "2039", "query_text": "Gym membership tax deductible?", "metadata": {"qrels": [["560087", "1"]]}, "answers": [["560087", "1"]]}
+{"qid": "3810", "query_text": "I am trying to start a \u201chedge fund,\u201d and by that, I really just mean I have a very specific and somewhat simple investment thesis that I want to", "metadata": {"qrels": [["377784", "1"]]}, "answers": [["377784", "1"]]}
+{"qid": "1810", "query_text": "Moonlighting as a software developer: employee or independent contractor w/ LLC?", "metadata": {"qrels": [["316074", "1"]]}, "answers": [["316074", "1"]]}
+{"qid": "1940", "query_text": "Shares in Chinese startup company", "metadata": {"qrels": [["183247", "1"]]}, "answers": [["183247", "1"]]}

@@ -1,0 +1,5 @@
+{"qid": "1089846", "metadata": {"qrels": [["7080803", 1]]}, "answers": [["7080803", 1]], "query_text": "the economics is or are"}
+{"qid": "1093406", "metadata": {"qrels": [["7750601", 1]]}, "answers": [["7750601", 1]], "query_text": "liquid extenze side effects"}
+{"qid": "226132", "metadata": {"qrels": [["1374917", 1]]}, "answers": [["1374917", 1]], "query_text": "how does environment affect health"}
+{"qid": "549135", "metadata": {"qrels": [["5484835", 1]]}, "answers": [["5484835", 1]], "query_text": "what a diabetic can do to heal a leg ulcer"}
+{"qid": "558263", "metadata": {"qrels": [["7422742", 1]]}, "answers": [["7422742", 1]], "query_text": "what are endotoxins?"}

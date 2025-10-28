@@ -1,0 +1,522 @@
+{"qid": "154066", "query_text": "Grace VanderWaal grew up in Suffern, New York.", "metadata": {"qrels": [["Grace_VanderWaal", "1"]]}, "answers": [["Grace_VanderWaal", "1"]]}
+{"qid": "72155", "query_text": "Tobey Maguire was born in 1975.", "metadata": {"qrels": [["Tobey_Maguire", "1"]]}, "answers": [["Tobey_Maguire", "1"]]}
+{"qid": "47468", "query_text": "Selena Gomez did not star in Spring Breakers.", "metadata": {"qrels": [["Spring_Breakers", "1"], ["Selena_Gomez", "1"]]}, "answers": [["Spring_Breakers", "1"]]}
+{"qid": "119006", "query_text": "Gemini was written by Siddhartha Gautama.", "metadata": {"qrels": [["Gemini_(2002_Tamil_film)", "1"]]}, "answers": [["Gemini_(2002_Tamil_film)", "1"]]}
+{"qid": "80752", "query_text": "Huntington's disease can be diagnosed.", "metadata": {"qrels": [["Huntington's_disease", "1"]]}, "answers": [["Huntington's_disease", "1"]]}
+{"qid": "36456", "query_text": "XXx: Return of Xander Cage is an action movie.", "metadata": {"qrels": [["XXx:_Return_of_Xander_Cage", "1"]]}, "answers": [["XXx:_Return_of_Xander_Cage", "1"]]}
+{"qid": "150494", "query_text": "Estella Warren is a current synchronized swimmer.", "metadata": {"qrels": [["Estella_Warren", "1"]]}, "answers": [["Estella_Warren", "1"]]}
+{"qid": "180750", "query_text": "Saving Private Ryan was the third highest grossing film of its year.", "metadata": {"qrels": [["Saving_Private_Ryan", "1"]]}, "answers": [["Saving_Private_Ryan", "1"]]}
+{"qid": "13265", "query_text": "The Vietnam War started in 1955.", "metadata": {"qrels": [["Vietnam_War", "1"]]}, "answers": [["Vietnam_War", "1"]]}
+{"qid": "107976", "query_text": "Hong Kong is the place that Jackie Chan is from.", "metadata": {"qrels": [["Jackie_Chan", "1"]]}, "answers": [["Jackie_Chan", "1"]]}
+{"qid": "13243", "query_text": "Pluto is not smaller than Eris.", "metadata": {"qrels": [["Pluto", "1"]]}, "answers": [["Pluto", "1"]]}
+{"qid": "91932", "query_text": "Melanie Griffith has performed in London.", "metadata": {"qrels": [["Melanie_Griffith", "1"]]}, "answers": [["Melanie_Griffith", "1"]]}
+{"qid": "8903", "query_text": "Daniela Hantuchov\u00e1 had at least 500 career wins.", "metadata": {"qrels": [["Daniela_Hantuchov\u00e1", "1"]]}, "answers": [["Daniela_Hantuchov\u00e1", "1"]]}
+{"qid": "223443", "query_text": "One film adapted from a 1989 novel is The Dark Half.", "metadata": {"qrels": [["The_Dark_Half_(film)", "1"], ["The_Dark_Half", "1"]]}, "answers": [["The_Dark_Half_(film)", "1"]]}
+{"qid": "131270", "query_text": "Jacki Weaver worked in the Ozploitation film Peterson.", "metadata": {"qrels": [["Jacki_Weaver", "1"]]}, "answers": [["Jacki_Weaver", "1"]]}
+{"qid": "113843", "query_text": "Jessica Chastain acted.", "metadata": {"qrels": [["Jessica_Chastain", "1"]]}, "answers": [["Jessica_Chastain", "1"]]}
+{"qid": "1810", "query_text": "Qatar borders Saudi Arabia.", "metadata": {"qrels": [["Qatar", "1"]]}, "answers": [["Qatar", "1"]]}
+{"qid": "3196", "query_text": "George Foreman was named one of the greatest fighters of the past 80 years by The Ring magazine.", "metadata": {"qrels": [["George_Foreman", "1"]]}, "answers": [["George_Foreman", "1"]]}
+{"qid": "76113", "query_text": "Hearing loss may be caused by ageing.", "metadata": {"qrels": [["Hearing_loss", "1"]]}, "answers": [["Hearing_loss", "1"]]}
+{"qid": "215012", "query_text": "Paramount worked with Ray Milland.", "metadata": {"qrels": [["Ray_Milland", "1"]]}, "answers": [["Ray_Milland", "1"]]}
+{"qid": "55671", "query_text": "Floyd Mayweather Jr. is a boxer.", "metadata": {"qrels": [["Floyd_Mayweather_Jr.", "1"]]}, "answers": [["Floyd_Mayweather_Jr.", "1"]]}
+{"qid": "30797", "query_text": "Amaze Entertainment was a video game developer.", "metadata": {"qrels": [["Amaze_Entertainment", "1"]]}, "answers": [["Amaze_Entertainment", "1"]]}
+{"qid": "22879", "query_text": "The American Broadcasting Company only goes by its full name.", "metadata": {"qrels": [["American_Broadcasting_Company", "1"]]}, "answers": [["American_Broadcasting_Company", "1"]]}
+{"qid": "22832", "query_text": "R. Madhavan produced Saala Khadoos.", "metadata": {"qrels": [["R._Madhavan", "1"]]}, "answers": [["R._Madhavan", "1"]]}
+{"qid": "85226", "query_text": "Quartet is a film released in 2012.", "metadata": {"qrels": [["Quartet_(2012_film)", "1"]]}, "answers": [["Quartet_(2012_film)", "1"]]}
+{"qid": "28584", "query_text": "Angela Lansbury married Peter Shaw.", "metadata": {"qrels": [["Angela_Lansbury", "1"]]}, "answers": [["Angela_Lansbury", "1"]]}
+{"qid": "9048", "query_text": "Norwegians emigrated to Iceland in the second century.", "metadata": {"qrels": [["Iceland", "1"]]}, "answers": [["Iceland", "1"]]}
+{"qid": "68276", "query_text": "Sriti Jha plays the lead role in a TV show.", "metadata": {"qrels": [["Sriti_Jha", "1"]]}, "answers": [["Sriti_Jha", "1"]]}
+{"qid": "229013", "query_text": "The eight-episode first season of Legion premiered at the Pacific Design Center in 2017.", "metadata": {"qrels": [["Legion_(TV_series)", "1"]]}, "answers": [["Legion_(TV_series)", "1"]]}
+{"qid": "204382", "query_text": "Dungeons & Dragons was first published by Del Ray.", "metadata": {"qrels": [["Dungeons_&_Dragons", "1"]]}, "answers": [["Dungeons_&_Dragons", "1"]]}
+{"qid": "33336", "query_text": "Liberia's civil war ended in 2003.", "metadata": {"qrels": [["Liberia", "1"], ["Accra_Comprehensive_Peace_Agreement", "1"]]}, "answers": [["Liberia", "1"]]}
+{"qid": "223604", "query_text": "There was an excess of 15 million Nicole Scherzinger total album sales.", "metadata": {"qrels": [["Nicole_Scherzinger", "1"]]}, "answers": [["Nicole_Scherzinger", "1"]]}
+{"qid": "14982", "query_text": "Michael Jackson had a memorial service.", "metadata": {"qrels": [["Michael_Jackson", "1"]]}, "answers": [["Michael_Jackson", "1"]]}
+{"qid": "142781", "query_text": "Richard Ramirez terrorized residents from June 1984 until August 1985 and was highly publicized.", "metadata": {"qrels": [["Richard_Ramirez", "1"]]}, "answers": [["Richard_Ramirez", "1"]]}
+{"qid": "21524", "query_text": "Tom Brady is a sports announcer in the NFL.", "metadata": {"qrels": [["Tom_Brady", "1"]]}, "answers": [["Tom_Brady", "1"]]}
+{"qid": "166160", "query_text": "Dangerous Liaisons is based on Christopher Hampton's play.", "metadata": {"qrels": [["Dangerous_Liaisons", "1"]]}, "answers": [["Dangerous_Liaisons", "1"]]}
+{"qid": "215469", "query_text": "GoldenEye stars Pierce Brosnan as James Bond.", "metadata": {"qrels": [["GoldenEye", "1"]]}, "answers": [["GoldenEye", "1"]]}
+{"qid": "17240", "query_text": "Kurt Angle won a championship.", "metadata": {"qrels": [["Triple_Crown_(professional_wrestling)", "1"], ["Kurt_Angle", "1"], ["King_of_the_Ring", "1"]]}, "answers": [["Triple_Crown_(professional_wrestling)", "1"]]}
+{"qid": "93960", "query_text": "Ranbir Kapoor owns, along with someone else, a football team that's part of the men's professional football league in India.", "metadata": {"qrels": [["Ranbir_Kapoor", "1"]]}, "answers": [["Ranbir_Kapoor", "1"]]}
+{"qid": "88556", "query_text": "Juliette Binoche played the leading role in the film Rendez-vous.", "metadata": {"qrels": [["Juliette_Binoche", "1"]]}, "answers": [["Juliette_Binoche", "1"]]}
+{"qid": "136178", "query_text": "Dirt was made by Coquette Productions.", "metadata": {"qrels": [["Dirt_(TV_series)", "1"]]}, "answers": [["Dirt_(TV_series)", "1"]]}
+{"qid": "184857", "query_text": "Hungary is bordered by Slovakia to the north, Romania to the east, Serbia to the south, Croatia to the southwest, Slovenia to the west, Austria to the northwest, and Ukraine to the northeast.", "metadata": {"qrels": [["Hungary", "1"]]}, "answers": [["Hungary", "1"]]}
+{"qid": "114274", "query_text": "Are You Experienced is a single by the Jimi Hendrix Experience.", "metadata": {"qrels": [["Are_You_Experienced", "1"]]}, "answers": [["Are_You_Experienced", "1"]]}
+{"qid": "138438", "query_text": "Sachin Tendulkar received the Bharat Ratna.", "metadata": {"qrels": [["Sachin_Tendulkar", "1"]]}, "answers": [["Sachin_Tendulkar", "1"]]}
+{"qid": "50090", "query_text": "A Game of Thrones won the 1997 Locus Award.", "metadata": {"qrels": [["A_Game_of_Thrones", "1"]]}, "answers": [["A_Game_of_Thrones", "1"]]}
+{"qid": "162776", "query_text": "Mariah Carey has a five-note vocal range.", "metadata": {"qrels": [["Mariah_Carey", "1"]]}, "answers": [["Mariah_Carey", "1"]]}
+{"qid": "26512", "query_text": "David Bowie was a person who acted.", "metadata": {"qrels": [["The_Man_Who_Fell_to_Earth", "1"], ["David_Bowie", "1"]]}, "answers": [["The_Man_Who_Fell_to_Earth", "1"]]}
+{"qid": "199448", "query_text": "Octavia Spencer has worked on the English film Snowpiercer.", "metadata": {"qrels": [["Snowpiercer", "1"], ["Octavia_Spencer", "1"]]}, "answers": [["Snowpiercer", "1"]]}
+{"qid": "211080", "query_text": "The Craft is an American fork.", "metadata": {"qrels": [["The_Craft_(film)", "1"]]}, "answers": [["The_Craft_(film)", "1"]]}
+{"qid": "161301", "query_text": "Homeland was developed by Howard Gordon.", "metadata": {"qrels": [["Homeland_(TV_series)", "1"]]}, "answers": [["Homeland_(TV_series)", "1"]]}
+{"qid": "198868", "query_text": "The Black Dahlia was only released in 1997.", "metadata": {"qrels": [["The_Black_Dahlia_(film)", "1"]]}, "answers": [["The_Black_Dahlia_(film)", "1"]]}
+{"qid": "178279", "query_text": "The Wayans Bros. is a sitcom that is American.", "metadata": {"qrels": [["The_Wayans_Bros.", "1"]]}, "answers": [["The_Wayans_Bros.", "1"]]}
+{"qid": "190856", "query_text": "Love & Friendship features the actor Xavier Samuel.", "metadata": {"qrels": [["Love_&_Friendship", "1"]]}, "answers": [["Love_&_Friendship", "1"]]}
+{"qid": "4960", "query_text": "Giancarlo Stanton played for the Marlins.", "metadata": {"qrels": [["Giancarlo_Stanton", "1"]]}, "answers": [["Giancarlo_Stanton", "1"]]}
+{"qid": "56749", "query_text": "Zeus is the child of Theia.", "metadata": {"qrels": [["Zeus", "1"]]}, "answers": [["Zeus", "1"]]}
+{"qid": "49223", "query_text": "Clint Eastwood was in the Dirty Harry films.", "metadata": {"qrels": [["Clint_Eastwood", "1"]]}, "answers": [["Clint_Eastwood", "1"]]}
+{"qid": "51125", "query_text": "Dhoom 3 is also known as a Russian novel.", "metadata": {"qrels": [["Dhoom_3", "1"]]}, "answers": [["Dhoom_3", "1"]]}
+{"qid": "124410", "query_text": "Howard Stern has wrote two New York Times Best Seller books.", "metadata": {"qrels": [["Howard_Stern", "1"]]}, "answers": [["Howard_Stern", "1"]]}
+{"qid": "60315", "query_text": "Attack on Titan is not written and illustrated by Hajime Isayama.", "metadata": {"qrels": [["Attack_on_Titan", "1"], ["Manga", "1"], ["Hajime_Isayama", "1"]]}, "answers": [["Attack_on_Titan", "1"]]}
+{"qid": "117724", "query_text": "Steven Soderbergh lost an Academy Award for Best Director.", "metadata": {"qrels": [["Steven_Soderbergh", "1"]]}, "answers": [["Steven_Soderbergh", "1"]]}
+{"qid": "199201", "query_text": "Jos\u00e9 Aldo is the UFC Featherweight Champion in his second reign.", "metadata": {"qrels": [["Jos\u00e9_Aldo", "1"]]}, "answers": [["Jos\u00e9_Aldo", "1"]]}
+{"qid": "164073", "query_text": "Jackie Evancho appeared in a film.", "metadata": {"qrels": [["Jackie_Evancho", "1"]]}, "answers": [["Jackie_Evancho", "1"]]}
+{"qid": "72481", "query_text": "Champion is a film in the sports genre.", "metadata": {"qrels": [["Champion_(1949_film)", "1"]]}, "answers": [["Champion_(1949_film)", "1"]]}
+{"qid": "87001", "query_text": "Wladimir Klitschko has fought in 19 heavyweight title fights.", "metadata": {"qrels": [["Wladimir_Klitschko", "1"]]}, "answers": [["Wladimir_Klitschko", "1"]]}
+{"qid": "14899", "query_text": "John McCain has chaired a committee.", "metadata": {"qrels": [["John_McCain", "1"]]}, "answers": [["John_McCain", "1"]]}
+{"qid": "226349", "query_text": "Gift of the Night Fury stars the voice of an American filmmaker.", "metadata": {"qrels": [["Gift_of_the_Night_Fury", "1"]]}, "answers": [["Gift_of_the_Night_Fury", "1"]]}
+{"qid": "214276", "query_text": "There is an American record producer name J. Cole.", "metadata": {"qrels": [["J._Cole", "1"]]}, "answers": [["J._Cole", "1"]]}
+{"qid": "191775", "query_text": "There are no Western Romance Languages.", "metadata": {"qrels": [["Western_Romance_languages", "1"]]}, "answers": [["Western_Romance_languages", "1"]]}
+{"qid": "129109", "query_text": "San Francisco is located completely within Northern California.", "metadata": {"qrels": [["San_Francisco", "1"]]}, "answers": [["San_Francisco", "1"]]}
+{"qid": "151050", "query_text": "Star vs. the Forces of Evil is produced by ABC Family.", "metadata": {"qrels": [["Star_vs._the_Forces_of_Evil", "1"]]}, "answers": [["Star_vs._the_Forces_of_Evil", "1"]]}
+{"qid": "101860", "query_text": "True Blood's genre is dark fantasy.", "metadata": {"qrels": [["True_Blood", "1"]]}, "answers": [["True_Blood", "1"]]}
+{"qid": "16833", "query_text": "Sofia Coppola was the director of a drama film adaptation of a novel.", "metadata": {"qrels": [["Sofia_Coppola", "1"], ["The_Beguiled_(2017_film)", "1"]]}, "answers": [["Sofia_Coppola", "1"]]}
+{"qid": "206932", "query_text": "Michael Keaton is an American producer and director.", "metadata": {"qrels": [["Michael_Keaton", "1"]]}, "answers": [["Michael_Keaton", "1"]]}
+{"qid": "206932", "query_text": "Michael Keaton is an American producer and director.", "metadata": {"qrels": [["Michael_Keaton", "1"]]}, "answers": [["Michael_Keaton", "1"]]}
+{"qid": "196707", "query_text": "Phantoms is a nonfiction romance film.", "metadata": {"qrels": [["Phantoms_(film)", "1"]]}, "answers": [["Phantoms_(film)", "1"]]}
+{"qid": "110257", "query_text": "Solange Knowles only sings.", "metadata": {"qrels": [["Solange_Knowles", "1"]]}, "answers": [["Solange_Knowles", "1"]]}
+{"qid": "84216", "query_text": "Steam is a form of water.", "metadata": {"qrels": [["Water", "1"]]}, "answers": [["Water", "1"]]}
+{"qid": "146733", "query_text": "Black Mirror was first broadcast in the 2010s.", "metadata": {"qrels": [["Black_Mirror", "1"]]}, "answers": [["Black_Mirror", "1"]]}
+{"qid": "143246", "query_text": "Santorini is inhabited.", "metadata": {"qrels": [["Santorini", "1"]]}, "answers": [["Santorini", "1"]]}
+{"qid": "84754", "query_text": "Mr. Sunshine was a television show.", "metadata": {"qrels": [["Mr._Sunshine_(2011_TV_series)", "1"]]}, "answers": [["Mr._Sunshine_(2011_TV_series)", "1"]]}
+{"qid": "30285", "query_text": "De Profundis was written to someone.", "metadata": {"qrels": [["De_Profundis_(letter)", "1"]]}, "answers": [["De_Profundis_(letter)", "1"]]}
+{"qid": "135353", "query_text": "Sony produces zero goods for consumers.", "metadata": {"qrels": [["Sony", "1"]]}, "answers": [["Sony", "1"]]}
+{"qid": "27139", "query_text": "Davis Rules had Bonnie Hunt in it.", "metadata": {"qrels": [["Bonnie_Hunt", "1"]]}, "answers": [["Bonnie_Hunt", "1"]]}
+{"qid": "21086", "query_text": "Ecuador borders Colombia.", "metadata": {"qrels": [["Ecuador", "1"]]}, "answers": [["Ecuador", "1"]]}
+{"qid": "9754", "query_text": "Shay Haley is from America.", "metadata": {"qrels": [["Shay_Haley", "1"]]}, "answers": [["Shay_Haley", "1"]]}
+{"qid": "37846", "query_text": "Helena Bonham Carter acts.", "metadata": {"qrels": [["Helena_Bonham_Carter", "1"]]}, "answers": [["Helena_Bonham_Carter", "1"]]}
+{"qid": "11671", "query_text": "The Legend of Tarzan (film) is based on a fictional character.", "metadata": {"qrels": [["The_Legend_of_Tarzan_(film)", "1"]]}, "answers": [["The_Legend_of_Tarzan_(film)", "1"]]}
+{"qid": "27660", "query_text": "Kim Basinger's middle name is Ann.", "metadata": {"qrels": [["Kim_Basinger", "1"]]}, "answers": [["Kim_Basinger", "1"]]}
+{"qid": "103929", "query_text": "Lily Collins has been far from Marti Noxon.", "metadata": {"qrels": [["Lily_Collins", "1"]]}, "answers": [["Lily_Collins", "1"]]}
+{"qid": "162776", "query_text": "Mariah Carey has a five-note vocal range.", "metadata": {"qrels": [["Mariah_Carey", "1"]]}, "answers": [["Mariah_Carey", "1"]]}
+{"qid": "171882", "query_text": "Hogwarts is the primary setting for the first six books in the Harry Potter series.", "metadata": {"qrels": [["Hogwarts", "1"]]}, "answers": [["Hogwarts", "1"]]}
+{"qid": "116246", "query_text": "Samuel L. Jackson is a performer.", "metadata": {"qrels": [["Django_Unchained", "1"], ["Samuel_L._Jackson", "1"]]}, "answers": [["Django_Unchained", "1"]]}
+{"qid": "32755", "query_text": "Martina Navratilova is German.", "metadata": {"qrels": [["Martina_Navratilova", "1"]]}, "answers": [["Martina_Navratilova", "1"]]}
+{"qid": "15434", "query_text": "Jared Kushner is a newspaper owner.", "metadata": {"qrels": [["Jared_Kushner", "1"]]}, "answers": [["Jared_Kushner", "1"]]}
+{"qid": "837", "query_text": "The Academy Awards are given annually.", "metadata": {"qrels": [["Academy_Awards", "1"]]}, "answers": [["Academy_Awards", "1"]]}
+{"qid": "10501", "query_text": "Raphael Bob-Waksberg is Canadian.", "metadata": {"qrels": [["Raphael_Bob-Waksberg", "1"]]}, "answers": [["Raphael_Bob-Waksberg", "1"]]}
+{"qid": "68907", "query_text": "Paul Pogba has won four nonconsecutive Serie A titles.", "metadata": {"qrels": [["Paul_Pogba", "1"]]}, "answers": [["Paul_Pogba", "1"]]}
+{"qid": "10171", "query_text": "Leslie Howard was a stage actor.", "metadata": {"qrels": [["Leslie_Howard_(actor)", "1"]]}, "answers": [["Leslie_Howard_(actor)", "1"]]}
+{"qid": "203142", "query_text": "James Mangold co-wrote Walk the Line with William Goldman.", "metadata": {"qrels": [["James_Mangold", "1"]]}, "answers": [["James_Mangold", "1"]]}
+{"qid": "11422", "query_text": "The Ren & Stimpy show was only created for PBS.", "metadata": {"qrels": [["Nicktoons", "1"], ["Spike_(TV_network)", "1"], ["The_Ren_&_Stimpy_Show", "1"]]}, "answers": [["Nicktoons", "1"]]}
+{"qid": "181327", "query_text": "Pennsylvania Chronicle started in New York.", "metadata": {"qrels": [["Pennsylvania_Chronicle", "1"]]}, "answers": [["Pennsylvania_Chronicle", "1"]]}
+{"qid": "167841", "query_text": "Glacier is affected by cloud cover.", "metadata": {"qrels": [["Glacier", "1"]]}, "answers": [["Glacier", "1"]]}
+{"qid": "2971", "query_text": "Jeffrey Dahmer was sentenced to fifteen terms of life sentences on February 15, 1992.", "metadata": {"qrels": [["Life_imprisonment", "1"], ["Jeffrey_Dahmer", "1"]]}, "answers": [["Life_imprisonment", "1"]]}
+{"qid": "211306", "query_text": "Halle Berry has a child by Gabriel Aubry.", "metadata": {"qrels": [["Halle_Berry", "1"]]}, "answers": [["Halle_Berry", "1"]]}
+{"qid": "144510", "query_text": "Grant Gustin is a cat.", "metadata": {"qrels": [["Grant_Gustin", "1"]]}, "answers": [["Grant_Gustin", "1"]]}
+{"qid": "209002", "query_text": "Big Boi is a musician.", "metadata": {"qrels": [["Big_Boi", "1"]]}, "answers": [["Big_Boi", "1"]]}
+{"qid": "109963", "query_text": "Keith Urban was not born in New Zealand.", "metadata": {"qrels": [["Keith_Urban", "1"]]}, "answers": [["Keith_Urban", "1"]]}
+{"qid": "46653", "query_text": "Christianity spread to the Americas.", "metadata": {"qrels": [["Christianity", "1"]]}, "answers": [["Christianity", "1"]]}
+{"qid": "97832", "query_text": "For a quarter of a century, Gone with the Wind was the highest-earning film.", "metadata": {"qrels": [["Gone_with_the_Wind_(film)", "1"]]}, "answers": [["Gone_with_the_Wind_(film)", "1"]]}
+{"qid": "35808", "query_text": "Ajay Devgan has won National Film Awards.", "metadata": {"qrels": [["Ajay_Devgn", "1"]]}, "answers": [["Ajay_Devgn", "1"]]}
+{"qid": "17035", "query_text": "Rainn Wilson worked in a theatre in Boston.", "metadata": {"qrels": [["Rainn_Wilson", "1"]]}, "answers": [["Rainn_Wilson", "1"]]}
+{"qid": "54680", "query_text": "Benedict Cumberbatch only appeared in recorded media.", "metadata": {"qrels": [["Benedict_Cumberbatch", "1"]]}, "answers": [["Benedict_Cumberbatch", "1"]]}
+{"qid": "26191", "query_text": "Susan Atkins attended a concert on September 18, 2012.", "metadata": {"qrels": [["Susan_Atkins", "1"]]}, "answers": [["Susan_Atkins", "1"]]}
+{"qid": "1881", "query_text": "The Gadsden flag was named after Christopher Gadsden.", "metadata": {"qrels": [["Gadsden_flag", "1"]]}, "answers": [["Gadsden_flag", "1"]]}
+{"qid": "159649", "query_text": "Tim Robbins a producer from the United States.", "metadata": {"qrels": [["Tim_Robbins", "1"]]}, "answers": [["Tim_Robbins", "1"]]}
+{"qid": "52554", "query_text": "Nocturnal Animals won the Grand Jury Prize at the Venice Film Festival.", "metadata": {"qrels": [["Nocturnal_Animals", "1"]]}, "answers": [["Nocturnal_Animals", "1"]]}
+{"qid": "7637", "query_text": "Cannibalism was in many parts of the world.", "metadata": {"qrels": [["Cannibalism", "1"]]}, "answers": [["Cannibalism", "1"]]}
+{"qid": "109163", "query_text": "The Twelfth Doctor is capable of regenerating into a new physical appearance.", "metadata": {"qrels": [["Twelfth_Doctor", "1"]]}, "answers": [["Twelfth_Doctor", "1"]]}
+{"qid": "202217", "query_text": "Murder on the Orient Express starred an actor.", "metadata": {"qrels": [["Tom_Bateman_(actor)", "1"], ["Murder_on_the_Orient_Express_(2017_film)", "1"]]}, "answers": [["Tom_Bateman_(actor)", "1"]]}
+{"qid": "162950", "query_text": "Troy Baker's indie band released their 2004  debut album.", "metadata": {"qrels": [["Troy_Baker", "1"]]}, "answers": [["Troy_Baker", "1"]]}
+{"qid": "138544", "query_text": "Emmanuel Adebayor was born on February 26, 1884.", "metadata": {"qrels": [["Emmanuel_Adebayor", "1"]]}, "answers": [["Emmanuel_Adebayor", "1"]]}
+{"qid": "27932", "query_text": "Andrew Wood was a musician in the alternative rock genre.", "metadata": {"qrels": [["Andrew_Wood_(singer)", "1"]]}, "answers": [["Andrew_Wood_(singer)", "1"]]}
+{"qid": "56713", "query_text": "Barbara Bain is a person from America.", "metadata": {"qrels": [["Barbara_Bain", "1"]]}, "answers": [["Barbara_Bain", "1"]]}
+{"qid": "54977", "query_text": "Maynard James Keenan has avoided singing professionally his entire life.", "metadata": {"qrels": [["Maynard_James_Keenan", "1"]]}, "answers": [["Maynard_James_Keenan", "1"]]}
+{"qid": "114589", "query_text": "May 24th, 1938 is the birth date of Tommy Chong.", "metadata": {"qrels": [["Tommy_Chong", "1"]]}, "answers": [["Tommy_Chong", "1"]]}
+{"qid": "218290", "query_text": "Dwayne Johnson is from Earth.", "metadata": {"qrels": [["Dwayne_Johnson", "1"]]}, "answers": [["Dwayne_Johnson", "1"]]}
+{"qid": "184857", "query_text": "Hungary is bordered by Slovakia to the north, Romania to the east, Serbia to the south, Croatia to the southwest, Slovenia to the west, Austria to the northwest, and Ukraine to the northeast.", "metadata": {"qrels": [["Hungary", "1"]]}, "answers": [["Hungary", "1"]]}
+{"qid": "169744", "query_text": "Asteroid Day is a global event.", "metadata": {"qrels": [["Asteroid_Day", "1"]]}, "answers": [["Asteroid_Day", "1"]]}
+{"qid": "123334", "query_text": "Los Angeles does not have ethnic diversity.", "metadata": {"qrels": [["Los_Angeles", "1"]]}, "answers": [["Los_Angeles", "1"]]}
+{"qid": "65967", "query_text": "Windsor, Ontario has a variegated culture.", "metadata": {"qrels": [["Windsor,_Ontario", "1"]]}, "answers": [["Windsor,_Ontario", "1"]]}
+{"qid": "40777", "query_text": "Babe Ruth was a football player.", "metadata": {"qrels": [["Babe_Ruth", "1"]]}, "answers": [["Babe_Ruth", "1"]]}
+{"qid": "226271", "query_text": "Gift of the Night Fury stars the voice of an elderly film actor.", "metadata": {"qrels": [["Craig_Ferguson", "1"], ["Gift_of_the_Night_Fury", "1"]]}, "answers": [["Craig_Ferguson", "1"]]}
+{"qid": "179981", "query_text": "Kirk Douglas was born on July 2nd, 1999.", "metadata": {"qrels": [["Kirk_Douglas", "1"]]}, "answers": [["Kirk_Douglas", "1"]]}
+{"qid": "92924", "query_text": "The G1 Climax is disassociated from the New Japan Pro-Wrestling promotion.", "metadata": {"qrels": [["G1_Climax", "1"]]}, "answers": [["G1_Climax", "1"]]}
+{"qid": "209442", "query_text": "The Philadelphia Museum of Art contains major holdings.", "metadata": {"qrels": [["Philadelphia_Museum_of_Art", "1"]]}, "answers": [["Philadelphia_Museum_of_Art", "1"]]}
+{"qid": "56955", "query_text": "Chris Stapleton is an American singer.", "metadata": {"qrels": [["Chris_Stapleton", "1"]]}, "answers": [["Chris_Stapleton", "1"]]}
+{"qid": "151443", "query_text": "Azerbaijan is a college.", "metadata": {"qrels": [["Azerbaijan", "1"]]}, "answers": [["Azerbaijan", "1"]]}
+{"qid": "79112", "query_text": "Randy Orton was born on a date other than April 1.", "metadata": {"qrels": [["Randy_Orton", "1"]]}, "answers": [["Randy_Orton", "1"]]}
+{"qid": "125743", "query_text": "James A. Woods starred in a 2003 film.", "metadata": {"qrels": [["James_A._Woods", "1"], ["Hatley_High", "1"]]}, "answers": [["James_A._Woods", "1"]]}
+{"qid": "106658", "query_text": "Lady Gaga is known for her provocative projects.", "metadata": {"qrels": [["Lady_Gaga", "1"]]}, "answers": [["Lady_Gaga", "1"]]}
+{"qid": "203597", "query_text": "Leigh Steinberg was a sports agent who inspired Jerry Maguire.", "metadata": {"qrels": [["Jerry_Maguire", "1"]]}, "answers": [["Jerry_Maguire", "1"]]}
+{"qid": "18575", "query_text": "Steven Spielberg is a screenwriter.", "metadata": {"qrels": [["Steven_Spielberg", "1"]]}, "answers": [["Steven_Spielberg", "1"]]}
+{"qid": "196676", "query_text": "Stars Are Blind was written by Fernando Garibay, Sheppard Solomon and Ralph McCarthy.", "metadata": {"qrels": [["Stars_Are_Blind", "1"]]}, "answers": [["Stars_Are_Blind", "1"]]}
+{"qid": "47781", "query_text": "South Korea's alphabet hindered the general population from easily learning to read and write.", "metadata": {"qrels": [["Hangul", "1"], ["South_Korea", "1"]]}, "answers": [["Hangul", "1"]]}
+{"qid": "85005", "query_text": "New York City has schools.", "metadata": {"qrels": [["New_York_City", "1"]]}, "answers": [["New_York_City", "1"]]}
+{"qid": "180390", "query_text": "Ellen Burstyn did work on television shows.", "metadata": {"qrels": [["Ellen_Burstyn", "1"]]}, "answers": [["Ellen_Burstyn", "1"]]}
+{"qid": "160143", "query_text": "Reese Witherspoon began her career as a child actress in the film industry.", "metadata": {"qrels": [["The_Man_in_the_Moon", "1"], ["Reese_Witherspoon", "1"]]}, "answers": [["The_Man_in_the_Moon", "1"]]}
+{"qid": "65439", "query_text": "Star Trek is a car.", "metadata": {"qrels": [["Star_Trek_(film_series)", "1"]]}, "answers": [["Star_Trek_(film_series)", "1"]]}
+{"qid": "112429", "query_text": "Telecommunications exist in Somalia.", "metadata": {"qrels": [["Somalia", "1"]]}, "answers": [["Somalia", "1"]]}
+{"qid": "86855", "query_text": "Gemma Arterton starred in the film Hansel and Grentel: Witch Hunters.", "metadata": {"qrels": [["Gemma_Arterton", "1"]]}, "answers": [["Gemma_Arterton", "1"]]}
+{"qid": "204285", "query_text": "Frederick Trump was born on Mars.", "metadata": {"qrels": [["Frederick_Trump", "1"]]}, "answers": [["Frederick_Trump", "1"]]}
+{"qid": "106181", "query_text": "Barbara Stanwyck acted in Stella Dallas.", "metadata": {"qrels": [["Barbara_Stanwyck", "1"]]}, "answers": [["Barbara_Stanwyck", "1"]]}
+{"qid": "174274", "query_text": "1938 was the year Oliver Reed was born.", "metadata": {"qrels": [["Oliver_Reed", "1"]]}, "answers": [["Oliver_Reed", "1"]]}
+{"qid": "181080", "query_text": "Idris Elba was in a movie.", "metadata": {"qrels": [["The_Jungle_Book_(2016_film)", "1"], ["Finding_Dory", "1"], ["Zootopia", "1"], ["Idris_Elba", "1"]]}, "answers": [["The_Jungle_Book_(2016_film)", "1"]]}
+{"qid": "149955", "query_text": "The Italian language is spoken by communities in Australia in the 21st century.", "metadata": {"qrels": [["Italian_language", "1"]]}, "answers": [["Italian_language", "1"]]}
+{"qid": "79186", "query_text": "Elle Fanning starred in a motion picture that was directed by J. J. Abrams.", "metadata": {"qrels": [["Elle_Fanning", "1"], ["Super_8_(film)", "1"]]}, "answers": [["Elle_Fanning", "1"]]}
+{"qid": "30161", "query_text": "Patton Oswalt voiced Remy in Ratatouille.", "metadata": {"qrels": [["Patton_Oswalt", "1"]]}, "answers": [["Patton_Oswalt", "1"]]}
+{"qid": "64633", "query_text": "Sa Talaiassa is also perceived as Sa Talaia.", "metadata": {"qrels": [["Sa_Talaiassa", "1"]]}, "answers": [["Sa_Talaiassa", "1"]]}
+{"qid": "53082", "query_text": "Tyrion Lannister appears in A Storm of Swords.", "metadata": {"qrels": [["Tyrion_Lannister", "1"]]}, "answers": [["Tyrion_Lannister", "1"]]}
+{"qid": "228541", "query_text": "One Direction made music.", "metadata": {"qrels": [["One_Direction", "1"]]}, "answers": [["One_Direction", "1"]]}
+{"qid": "84754", "query_text": "Mr. Sunshine was a television show.", "metadata": {"qrels": [["Mr._Sunshine_(2011_TV_series)", "1"]]}, "answers": [["Mr._Sunshine_(2011_TV_series)", "1"]]}
+{"qid": "43415", "query_text": "Bob Dylan is an American songwriter.", "metadata": {"qrels": [["Bob_Dylan", "1"]]}, "answers": [["Bob_Dylan", "1"]]}
+{"qid": "114611", "query_text": "Anne's uncle had two legitimate children.", "metadata": {"qrels": [["Anne,_Queen_of_Great_Britain", "1"]]}, "answers": [["Anne,_Queen_of_Great_Britain", "1"]]}
+{"qid": "47346", "query_text": "The 1998 Major League Baseball All-Star Game was held.", "metadata": {"qrels": [["1998_Major_League_Baseball_All-Star_Game", "1"]]}, "answers": [["1998_Major_League_Baseball_All-Star_Game", "1"]]}
+{"qid": "23573", "query_text": "Connaught Tunnel is supplemented by the Mount Macdonald Tunnel.", "metadata": {"qrels": [["Mount_Macdonald_Tunnel", "1"], ["Connaught_Tunnel", "1"], ["Mount_Macdonald", "1"]]}, "answers": [["Mount_Macdonald_Tunnel", "1"]]}
+{"qid": "136654", "query_text": "The Council on Foreign Relations comes from the United States.", "metadata": {"qrels": [["Council_on_Foreign_Relations", "1"]]}, "answers": [["Council_on_Foreign_Relations", "1"]]}
+{"qid": "97684", "query_text": "Thomas Haden Church directed the television series Rolling Kansas.", "metadata": {"qrels": [["Thomas_Haden_Church", "1"]]}, "answers": [["Thomas_Haden_Church", "1"]]}
+{"qid": "78114", "query_text": "Baahubali: The Beginning is a novel.", "metadata": {"qrels": [["Prabhas", "1"], ["Shobu_Yarlagadda", "1"], ["Baahubali:_The_Beginning", "1"], ["K._V._Vijayendra_Prasad", "1"], ["K._K._Senthil_Kumar", "1"], ["List_of_accolades_received_by_Baahubali:_The_Beginning", "1"]]}, "answers": [["Prabhas", "1"]]}
+{"qid": "186895", "query_text": "Batman v Superman: Dawn of Justice is the first live action portrayal of Wonder Woman in film.", "metadata": {"qrels": [["Batman_v_Superman:_Dawn_of_Justice", "1"]]}, "answers": [["Batman_v_Superman:_Dawn_of_Justice", "1"]]}
+{"qid": "185951", "query_text": "Niall Horan is musically illiterate.", "metadata": {"qrels": [["Niall_Horan", "1"]]}, "answers": [["Niall_Horan", "1"]]}
+{"qid": "17943", "query_text": "The Land Before Time is about an orphaned Brontosaurus.", "metadata": {"qrels": [["The_Land_Before_Time", "1"]]}, "answers": [["The_Land_Before_Time", "1"]]}
+{"qid": "69215", "query_text": "J.Lo deals with themes of empowerment and relationships and contains explicit language.", "metadata": {"qrels": [["J.Lo_(album)", "1"]]}, "answers": [["J.Lo_(album)", "1"]]}
+{"qid": "59987", "query_text": "Sage Stallone was a film distributor.", "metadata": {"qrels": [["Sage_Stallone", "1"]]}, "answers": [["Sage_Stallone", "1"]]}
+{"qid": "188708", "query_text": "An actor was nominated for an Academy Award for Crash.", "metadata": {"qrels": [["Crash_(2004_film)", "1"]]}, "answers": [["Crash_(2004_film)", "1"]]}
+{"qid": "211306", "query_text": "Halle Berry has a child by Gabriel Aubry.", "metadata": {"qrels": [["Halle_Berry", "1"]]}, "answers": [["Halle_Berry", "1"]]}
+{"qid": "185342", "query_text": "The Place Beyond the Pines is an American crime drama film.", "metadata": {"qrels": [["The_Place_Beyond_the_Pines", "1"]]}, "answers": [["The_Place_Beyond_the_Pines", "1"]]}
+{"qid": "70390", "query_text": "Greenpeace is focused on the issues of deforestation.", "metadata": {"qrels": [["Greenpeace", "1"]]}, "answers": [["Greenpeace", "1"]]}
+{"qid": "20759", "query_text": "Lee Majors is a death.", "metadata": {"qrels": [["Lee_Majors", "1"]]}, "answers": [["Lee_Majors", "1"]]}
+{"qid": "95377", "query_text": "John Wayne Gacy had victims and he was caught.", "metadata": {"qrels": [["John_Wayne_Gacy", "1"]]}, "answers": [["John_Wayne_Gacy", "1"]]}
+{"qid": "65062", "query_text": "Geraldine Chaplin refuses to live in Spain.", "metadata": {"qrels": [["Geraldine_Chaplin", "1"]]}, "answers": [["Geraldine_Chaplin", "1"]]}
+{"qid": "38680", "query_text": "Shawn Michaels avoided ever becoming a trainer.", "metadata": {"qrels": [["Shawn_Michaels", "1"]]}, "answers": [["Shawn_Michaels", "1"]]}
+{"qid": "23059", "query_text": "The United States are in North America and were once 13 British colonies.", "metadata": {"qrels": [["United_States", "1"]]}, "answers": [["United_States", "1"]]}
+{"qid": "161473", "query_text": "Empress Ki has the titular Empress Gi.", "metadata": {"qrels": [["Empress_Ki_(TV_series)", "1"]]}, "answers": [["Empress_Ki_(TV_series)", "1"]]}
+{"qid": "124711", "query_text": "Andy Warhol is creative.", "metadata": {"qrels": [["Andy_Warhol", "1"]]}, "answers": [["Andy_Warhol", "1"]]}
+{"qid": "142479", "query_text": "Kristen Stewart acted in a film series adapted from the fantasy book series called the Twilight Saga.", "metadata": {"qrels": [["The_Twilight_Saga_(film_series)", "1"], ["Kristen_Stewart", "1"]]}, "answers": [["The_Twilight_Saga_(film_series)", "1"]]}
+{"qid": "168690", "query_text": "Jane Lynch's full name is Jane Lynch.", "metadata": {"qrels": [["Jane_Lynch", "1"]]}, "answers": [["Jane_Lynch", "1"]]}
+{"qid": "220931", "query_text": "In Too Deep is a film directed by Michael Rymer.", "metadata": {"qrels": [["In_Too_Deep_(1999_film)", "1"]]}, "answers": [["In_Too_Deep_(1999_film)", "1"]]}
+{"qid": "190243", "query_text": "Lupe Fiasco released his debut album in 2015.", "metadata": {"qrels": [["Lasers_(album)", "1"], ["Superstar_(Lupe_Fiasco_song)", "1"], ["Lupe_Fiasco", "1"]]}, "answers": [["Lasers_(album)", "1"]]}
+{"qid": "129579", "query_text": "Boromir makes an appearance in The Two Towers.", "metadata": {"qrels": [["Boromir", "1"]]}, "answers": [["Boromir", "1"]]}
+{"qid": "138619", "query_text": "United Kingdom is where the film Persuasion (2007 film) was premiered.", "metadata": {"qrels": [["Persuasion_(2007_film)", "1"]]}, "answers": [["Persuasion_(2007_film)", "1"]]}
+{"qid": "187130", "query_text": "Heartland is Canadian.", "metadata": {"qrels": [["Heartland_(Canadian_TV_series)", "1"]]}, "answers": [["Heartland_(Canadian_TV_series)", "1"]]}
+{"qid": "149277", "query_text": "Charles II of England was a king.", "metadata": {"qrels": [["Charles_II_of_England", "1"]]}, "answers": [["Charles_II_of_England", "1"]]}
+{"qid": "145255", "query_text": "Yung Rich Nation is a work.", "metadata": {"qrels": [["Yung_Rich_Nation", "1"]]}, "answers": [["Yung_Rich_Nation", "1"]]}
+{"qid": "64057", "query_text": "The Promise has an Irish director.", "metadata": {"qrels": [["Terry_George", "1"], ["The_Promise_(2016_film)", "1"]]}, "answers": [["Terry_George", "1"]]}
+{"qid": "182383", "query_text": "Lemon Sky is by a playwright.", "metadata": {"qrels": [["Lanford_Wilson", "1"], ["Lemon_Sky", "1"]]}, "answers": [["Lanford_Wilson", "1"]]}
+{"qid": "156750", "query_text": "2001: A Space Odyssey was financed by Metro-Goldwyn-Mayer and gained praise.", "metadata": {"qrels": [["2001:_A_Space_Odyssey_(film)", "1"]]}, "answers": [["2001:_A_Space_Odyssey_(film)", "1"]]}
+{"qid": "84622", "query_text": "Boyz II Men received Billboard recognition.", "metadata": {"qrels": [["Boyz_II_Men", "1"]]}, "answers": [["Boyz_II_Men", "1"]]}
+{"qid": "118745", "query_text": "Jesus is also known as Jesus of Canada.", "metadata": {"qrels": [["Jesus", "1"]]}, "answers": [["Jesus", "1"]]}
+{"qid": "40884", "query_text": "Jessica Biel is an actor.", "metadata": {"qrels": [["Jessica_Biel", "1"]]}, "answers": [["Jessica_Biel", "1"]]}
+{"qid": "61126", "query_text": "Star Wars was created.", "metadata": {"qrels": [["Star_Wars_(film)", "1"]]}, "answers": [["Star_Wars_(film)", "1"]]}
+{"qid": "106693", "query_text": "Lauren Graham's middle name is Sarah.", "metadata": {"qrels": [["Lauren_Graham", "1"]]}, "answers": [["Lauren_Graham", "1"]]}
+{"qid": "93572", "query_text": "Pirates of the Caribbean: Dead Men Tell No Tales is a motion picture.", "metadata": {"qrels": [["Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales", "1"]]}, "answers": [["Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales", "1"]]}
+{"qid": "164778", "query_text": "Tiger Woods won 14 professional major golf championships.", "metadata": {"qrels": [["Tiger_Woods", "1"]]}, "answers": [["Tiger_Woods", "1"]]}
+{"qid": "79112", "query_text": "Randy Orton was born on a date other than April 1.", "metadata": {"qrels": [["Randy_Orton", "1"]]}, "answers": [["Randy_Orton", "1"]]}
+{"qid": "125268", "query_text": "Schindler's List premiered in 1993.", "metadata": {"qrels": [["Schindler's_List", "1"]]}, "answers": [["Schindler's_List", "1"]]}
+{"qid": "115977", "query_text": "Morena Baccarin received a nomination.", "metadata": {"qrels": [["Morena_Baccarin", "1"]]}, "answers": [["Morena_Baccarin", "1"]]}
+{"qid": "174274", "query_text": "1938 was the year Oliver Reed was born.", "metadata": {"qrels": [["Oliver_Reed", "1"]]}, "answers": [["Oliver_Reed", "1"]]}
+{"qid": "75684", "query_text": "The Citadelle Laferri\u00e8re is seen in Nord, Haiti.", "metadata": {"qrels": [["Citadelle_Laferri\u00e8re", "1"]]}, "answers": [["Citadelle_Laferri\u00e8re", "1"]]}
+{"qid": "30733", "query_text": "The Sopranos is a production.", "metadata": {"qrels": [["The_Sopranos", "1"]]}, "answers": [["The_Sopranos", "1"]]}
+{"qid": "224037", "query_text": "Deadpool (film) is a superhero American film.", "metadata": {"qrels": [["Deadpool_(film)", "1"]]}, "answers": [["Deadpool_(film)", "1"]]}
+{"qid": "375", "query_text": "John F. Kennedy Jr. was a journalist.", "metadata": {"qrels": [["John_F._Kennedy_Jr.", "1"]]}, "answers": [["John_F._Kennedy_Jr.", "1"]]}
+{"qid": "194001", "query_text": "Flatland is part of the terrain of Kazakhstan.", "metadata": {"qrels": [["Kazakhstan", "1"]]}, "answers": [["Kazakhstan", "1"]]}
+{"qid": "174274", "query_text": "1938 was the year Oliver Reed was born.", "metadata": {"qrels": [["Oliver_Reed", "1"]]}, "answers": [["Oliver_Reed", "1"]]}
+{"qid": "83737", "query_text": "Jon Huntsman Jr. served as the 16th dog of Utah.", "metadata": {"qrels": [["Jon_Huntsman_Jr.", "1"]]}, "answers": [["Jon_Huntsman_Jr.", "1"]]}
+{"qid": "110878", "query_text": "Alfred Hitchcock made films.", "metadata": {"qrels": [["Thriller_film", "1"], ["Alfred_Hitchcock", "1"]]}, "answers": [["Thriller_film", "1"]]}
+{"qid": "213275", "query_text": "The Nile drains through Sudan and it has an Arabic name.", "metadata": {"qrels": [["Nile", "1"]]}, "answers": [["Nile", "1"]]}
+{"qid": "135191", "query_text": "Game of Thrones (season 1) featured Danish actor Nikolaj Coster-Waldau.", "metadata": {"qrels": [["Nikolaj_Coster-Waldau", "1"], ["Game_of_Thrones_(season_1)", "1"]]}, "answers": [["Nikolaj_Coster-Waldau", "1"]]}
+{"qid": "194209", "query_text": "Felix Arvid Ulf Kjellberg has an online pseudonym.", "metadata": {"qrels": [["PewDiePie", "1"]]}, "answers": [["PewDiePie", "1"]]}
+{"qid": "142616", "query_text": "Gilmore Girls is a show.", "metadata": {"qrels": [["Gilmore_Girls", "1"]]}, "answers": [["Gilmore_Girls", "1"]]}
+{"qid": "86414", "query_text": "Kit Harington, actress for Game of Thrones, was nominated for an award.", "metadata": {"qrels": [["Kit_Harington", "1"], ["Game_of_Thrones", "1"]]}, "answers": [["Kit_Harington", "1"]]}
+{"qid": "167621", "query_text": "Indian was selected the Best Foreign Language Film only in 1994.", "metadata": {"qrels": [["Indian_(1996_film)", "1"]]}, "answers": [["Indian_(1996_film)", "1"]]}
+{"qid": "14899", "query_text": "John McCain has chaired a committee.", "metadata": {"qrels": [["John_McCain", "1"]]}, "answers": [["John_McCain", "1"]]}
+{"qid": "212655", "query_text": "Elementary stars an actor.", "metadata": {"qrels": [["Elementary_(TV_series)", "1"], ["Jonny_Lee_Miller", "1"]]}, "answers": [["Elementary_(TV_series)", "1"]]}
+{"qid": "179907", "query_text": "Cape Fear features a cameo from Robert Mitchum and it is directed by Martin Scorsese.", "metadata": {"qrels": [["Cape_Fear_(1991_film)", "1"]]}, "answers": [["Cape_Fear_(1991_film)", "1"]]}
+{"qid": "200538", "query_text": "There is a biographical film called Funny Girl (film).", "metadata": {"qrels": [["Funny_Girl_(film)", "1"]]}, "answers": [["Funny_Girl_(film)", "1"]]}
+{"qid": "45825", "query_text": "Andre Agassi is a British tennis player.", "metadata": {"qrels": [["Andre_Agassi", "1"]]}, "answers": [["Andre_Agassi", "1"]]}
+{"qid": "208517", "query_text": "North Vancouver is served by a police force.", "metadata": {"qrels": [["Royal_Canadian_Mounted_Police", "1"], ["North_Vancouver_(district_municipality)", "1"]]}, "answers": [["Royal_Canadian_Mounted_Police", "1"]]}
+{"qid": "92490", "query_text": "Gregor Clegane is a huge knight.", "metadata": {"qrels": [["Gregor_Clegane", "1"]]}, "answers": [["Gregor_Clegane", "1"]]}
+{"qid": "42630", "query_text": "David Schwimmer graduated from a university based in Dallas, Texas.", "metadata": {"qrels": [["Northwestern_University", "1"], ["David_Schwimmer", "1"]]}, "answers": [["Northwestern_University", "1"]]}
+{"qid": "100108", "query_text": "Beauty Shop features a person who writes songs.", "metadata": {"qrels": [["Beauty_Shop", "1"], ["Queen_Latifah", "1"]]}, "answers": [["Beauty_Shop", "1"]]}
+{"qid": "46672", "query_text": "Gorillaz's third studio album is Plastic Beach.", "metadata": {"qrels": [["Gorillaz", "1"]]}, "answers": [["Gorillaz", "1"]]}
+{"qid": "39426", "query_text": "Hypothyroidism can prevent weight gain.", "metadata": {"qrels": [["Hypothyroidism", "1"]]}, "answers": [["Hypothyroidism", "1"]]}
+{"qid": "15798", "query_text": "Chinese people only can be associated with Spain through nationality.", "metadata": {"qrels": [["Chinese_people", "1"]]}, "answers": [["Chinese_people", "1"]]}
+{"qid": "193958", "query_text": "Oz the Great and Powerful was released in zero conventional theaters.", "metadata": {"qrels": [["Oz_the_Great_and_Powerful", "1"]]}, "answers": [["Oz_the_Great_and_Powerful", "1"]]}
+{"qid": "116044", "query_text": "Islam has over 1.8 million followers.", "metadata": {"qrels": [["Islam", "1"]]}, "answers": [["Islam", "1"]]}
+{"qid": "164476", "query_text": "Tale of Tales stars Salma Hayek.", "metadata": {"qrels": [["Tale_of_Tales_(2015_film)", "1"]]}, "answers": [["Tale_of_Tales_(2015_film)", "1"]]}
+{"qid": "91403", "query_text": "Alice is a work.", "metadata": {"qrels": [["Alice_(1990_film)", "1"]]}, "answers": [["Alice_(1990_film)", "1"]]}
+{"qid": "38243", "query_text": "Steve Irwin was Australian.", "metadata": {"qrels": [["Steve_Irwin", "1"]]}, "answers": [["Steve_Irwin", "1"]]}
+{"qid": "3029", "query_text": "Joseph Stalin raised money via underground activities.", "metadata": {"qrels": [["Joseph_Stalin", "1"]]}, "answers": [["Joseph_Stalin", "1"]]}
+{"qid": "20294", "query_text": "Neil Armstrong commanded the Apollo 11 mission in July 1969.", "metadata": {"qrels": [["Neil_Armstrong", "1"]]}, "answers": [["Neil_Armstrong", "1"]]}
+{"qid": "17974", "query_text": "Steven Tyler dealt with drug and alcohol addiction.", "metadata": {"qrels": [["Steven_Tyler", "1"]]}, "answers": [["Steven_Tyler", "1"]]}
+{"qid": "20294", "query_text": "Neil Armstrong commanded the Apollo 11 mission in July 1969.", "metadata": {"qrels": [["Neil_Armstrong", "1"]]}, "answers": [["Neil_Armstrong", "1"]]}
+{"qid": "46849", "query_text": "Seth MacFarlane worked on a show.", "metadata": {"qrels": [["Family_Guy", "1"], ["Seth_MacFarlane", "1"]]}, "answers": [["Family_Guy", "1"]]}
+{"qid": "220601", "query_text": "A third season of Turn: Washington's Spies was renewed.", "metadata": {"qrels": [["Turn:_Washington's_Spies", "1"]]}, "answers": [["Turn:_Washington's_Spies", "1"]]}
+{"qid": "143691", "query_text": "The 2000 Football League Cup Final was completely skipped.", "metadata": {"qrels": [["2000_Football_League_Cup_Final", "1"]]}, "answers": [["2000_Football_League_Cup_Final", "1"]]}
+{"qid": "128449", "query_text": "Whoopi Goldberg is the winner of an Oscar.", "metadata": {"qrels": [["Whoopi_Goldberg", "1"]]}, "answers": [["Whoopi_Goldberg", "1"]]}
+{"qid": "182393", "query_text": "Lemon Sky ran Off-Broadway, the New York theater.", "metadata": {"qrels": [["Off-Broadway", "1"], ["Lemon_Sky", "1"]]}, "answers": [["Off-Broadway", "1"]]}
+{"qid": "103231", "query_text": "Derrick Rose is in the National Basketball Association.", "metadata": {"qrels": [["Derrick_Rose", "1"]]}, "answers": [["Derrick_Rose", "1"]]}
+{"qid": "113225", "query_text": "Indonesia has a friendly population.", "metadata": {"qrels": [["Indonesia", "1"]]}, "answers": [["Indonesia", "1"]]}
+{"qid": "105055", "query_text": "There are zero cities in the Northeast megalopolis.", "metadata": {"qrels": [["Northeast_megalopolis", "1"]]}, "answers": [["Northeast_megalopolis", "1"]]}
+{"qid": "140976", "query_text": "Mankatha is a work.", "metadata": {"qrels": [["Mankatha", "1"]]}, "answers": [["Mankatha", "1"]]}
+{"qid": "110331", "query_text": "India is where Gujarat is located.", "metadata": {"qrels": [["Gujarat", "1"], ["Gandhinagar", "1"], ["Bharuch", "1"], ["Sindh", "1"], ["Dholavira", "1"]]}, "answers": [["Gujarat", "1"]]}
+{"qid": "191139", "query_text": "My Everything started at number one in Australia.", "metadata": {"qrels": [["My_Everything_(Ariana_Grande_album)", "1"]]}, "answers": [["My_Everything_(Ariana_Grande_album)", "1"]]}
+{"qid": "106040", "query_text": "Jack Reacher is an action film.", "metadata": {"qrels": [["Jack_Reacher_(film)", "1"]]}, "answers": [["Jack_Reacher_(film)", "1"]]}
+{"qid": "28900", "query_text": "Sikhism is a panentheistic religion.", "metadata": {"qrels": [["Sikhism", "1"]]}, "answers": [["Sikhism", "1"]]}
+{"qid": "129423", "query_text": "Bradley Cooper is an American actor.", "metadata": {"qrels": [["Bradley_Cooper", "1"]]}, "answers": [["Bradley_Cooper", "1"]]}
+{"qid": "110884", "query_text": "Andorra is a country.", "metadata": {"qrels": [["Andorra", "1"], ["Andorra_la_Vella", "1"], ["Co-Princes_of_Andorra", "1"]]}, "answers": [["Andorra", "1"]]}
+{"qid": "2331", "query_text": "Anni-Frid Lyngstad is only Irish.", "metadata": {"qrels": [["Anni-Frid_Lyngstad", "1"]]}, "answers": [["Anni-Frid_Lyngstad", "1"]]}
+{"qid": "207620", "query_text": "Father of the Bride includes George Newbern in it's cast.", "metadata": {"qrels": [["Father_of_the_Bride_(1991_film)", "1"]]}, "answers": [["Father_of_the_Bride_(1991_film)", "1"]]}
+{"qid": "96429", "query_text": "Liverpool F.C. was crafted at $1.55 billion.", "metadata": {"qrels": [["Liverpool_F.C.", "1"]]}, "answers": [["Liverpool_F.C.", "1"]]}
+{"qid": "200748", "query_text": "A Song of Ice and Fire is by a television producer and it is a novel series.", "metadata": {"qrels": [["A_Song_of_Ice_and_Fire", "1"], ["George_R._R._Martin", "1"]]}, "answers": [["A_Song_of_Ice_and_Fire", "1"]]}
+{"qid": "126084", "query_text": "Moana lost over $642 million worldwide.", "metadata": {"qrels": [["Moana_(2016_film)", "1"]]}, "answers": [["Moana_(2016_film)", "1"]]}
+{"qid": "12798", "query_text": "Judy Greer works as a model.", "metadata": {"qrels": [["Judy_Greer", "1"]]}, "answers": [["Judy_Greer", "1"]]}
+{"qid": "229379", "query_text": "The principal photography of Vantage Point (film) began in the capital and most populous city of Mexico called Mexico City.", "metadata": {"qrels": [["Vantage_Point_(film)", "1"], ["Mexico_City", "1"]]}, "answers": [["Vantage_Point_(film)", "1"]]}
+{"qid": "166230", "query_text": "Cat on a Hot Tin Roof features several recurring motifs, such as superficiality.", "metadata": {"qrels": [["Cat_on_a_Hot_Tin_Roof", "1"]]}, "answers": [["Cat_on_a_Hot_Tin_Roof", "1"]]}
+{"qid": "96623", "query_text": "In the Heart of the Sea was released on DVD only.", "metadata": {"qrels": [["In_the_Heart_of_the_Sea_(film)", "1"]]}, "answers": [["In_the_Heart_of_the_Sea_(film)", "1"]]}
+{"qid": "1449", "query_text": "Dhool was directed by an Indian film director.", "metadata": {"qrels": [["Dharani_(director)", "1"], ["Dhool", "1"]]}, "answers": [["Dharani_(director)", "1"]]}
+{"qid": "115451", "query_text": "Ben Affleck acts.", "metadata": {"qrels": [["Good_Will_Hunting", "1"], ["Ben_Affleck", "1"], ["Screen_Actors_Guild_Award", "1"]]}, "answers": [["Good_Will_Hunting", "1"]]}
+{"qid": "20106", "query_text": "At the University of Texas, Kevin Durant won numerous year-end awards.", "metadata": {"qrels": [["Kevin_Durant", "1"]]}, "answers": [["Kevin_Durant", "1"]]}
+{"qid": "214276", "query_text": "There is an American record producer name J. Cole.", "metadata": {"qrels": [["J._Cole", "1"]]}, "answers": [["J._Cole", "1"]]}
+{"qid": "165045", "query_text": "Colin Farrell starred in Minority Report.", "metadata": {"qrels": [["Colin_Farrell", "1"]]}, "answers": [["Colin_Farrell", "1"]]}
+{"qid": "175810", "query_text": "Arrow's story revolves around Oliver Queen.", "metadata": {"qrels": [["Arrow_(TV_series)", "1"]]}, "answers": [["Arrow_(TV_series)", "1"]]}
+{"qid": "12113", "query_text": "Canada possesses a constitution.", "metadata": {"qrels": [["Canada", "1"], ["Constitution_Act,_1982", "1"], ["Constitutional_monarchy", "1"]]}, "answers": [["Canada", "1"]]}
+{"qid": "225143", "query_text": "Chet Atkins produced records.", "metadata": {"qrels": [["Chet_Atkins", "1"]]}, "answers": [["Chet_Atkins", "1"]]}
+{"qid": "53523", "query_text": "Costa Rica is a Jewish state.", "metadata": {"qrels": [["Christian_state", "1"]]}, "answers": [["Christian_state", "1"]]}
+{"qid": "174642", "query_text": "Dog have been only been selectively bred since the beginning of the 19th century.", "metadata": {"qrels": [["Dog", "1"]]}, "answers": [["Dog", "1"]]}
+{"qid": "215751", "query_text": "Sierra Leone became an independent nation on April 17 1961.", "metadata": {"qrels": [["Sierra_Leone", "1"]]}, "answers": [["Sierra_Leone", "1"]]}
+{"qid": "221409", "query_text": "Alec Sokolow has worked with Joel Cohen.", "metadata": {"qrels": [["Alec_Sokolow", "1"]]}, "answers": [["Alec_Sokolow", "1"]]}
+{"qid": "220711", "query_text": "The principal photography of Split (2016 American film) began in Philadelphia, Pennsylvania.", "metadata": {"qrels": [["Split_(2016_American_film)", "1"]]}, "answers": [["Split_(2016_American_film)", "1"]]}
+{"qid": "5570", "query_text": "LGBT is an acronym containing the word bisexual.", "metadata": {"qrels": [["LGBT", "1"], ["Acronym", "1"]]}, "answers": [["LGBT", "1"]]}
+{"qid": "178018", "query_text": "IO Theater is a theater.", "metadata": {"qrels": [["IO_Theater", "1"]]}, "answers": [["IO_Theater", "1"]]}
+{"qid": "184660", "query_text": "Fast Food Nation was made in 2006.", "metadata": {"qrels": [["Fast_Food_Nation_(film)", "1"]]}, "answers": [["Fast_Food_Nation_(film)", "1"]]}
+{"qid": "194157", "query_text": "To The Bone includes Lily Collins, Keanu Reeves, Carrie Preston, Lili Taylor, Alex Sharp, Liana Liberato, Brooke Smith, and Ciara Bravo.", "metadata": {"qrels": [["To_the_Bone_(film)", "1"]]}, "answers": [["To_the_Bone_(film)", "1"]]}
+{"qid": "107728", "query_text": "The Illusionist is a film.", "metadata": {"qrels": [["The_Illusionist_(2006_film)", "1"]]}, "answers": [["The_Illusionist_(2006_film)", "1"]]}
+{"qid": "138040", "query_text": "Memento achieved $39.7 million.", "metadata": {"qrels": [["Memento_(film)", "1"]]}, "answers": [["Memento_(film)", "1"]]}
+{"qid": "54009", "query_text": "Beastie Boys has never changed their name.", "metadata": {"qrels": [["Beastie_Boys", "1"]]}, "answers": [["Beastie_Boys", "1"]]}
+{"qid": "191094", "query_text": "Gerd von Rundstedt died February 3, 1951.", "metadata": {"qrels": [["Gerd_von_Rundstedt", "1"]]}, "answers": [["Gerd_von_Rundstedt", "1"]]}
+{"qid": "28995", "query_text": "John Denver is a singer from Colorado.", "metadata": {"qrels": [["John_Denver", "1"]]}, "answers": [["John_Denver", "1"]]}
+{"qid": "192541", "query_text": "Francois de Belleforest translated the works of Achilles Tatius into French and he was French.", "metadata": {"qrels": [["Fran\u00e7ois_de_Belleforest", "1"]]}, "answers": [["Fran\u00e7ois_de_Belleforest", "1"]]}
+{"qid": "179599", "query_text": "Michael Giacchino composed the score for Medal of Honor.", "metadata": {"qrels": [["Michael_Giacchino", "1"]]}, "answers": [["Michael_Giacchino", "1"]]}
+{"qid": "193672", "query_text": "Chris Evans (actor) made his debut as a director in 2014 with a drama film.", "metadata": {"qrels": [["Chris_Evans_(actor)", "1"]]}, "answers": [["Chris_Evans_(actor)", "1"]]}
+{"qid": "94864", "query_text": "Prison Break was created by Paul McCartney.", "metadata": {"qrels": [["Prison_Break", "1"], ["Paul_Scheuring", "1"]]}, "answers": [["Prison_Break", "1"]]}
+{"qid": "141146", "query_text": "Resident Evil 7: Biohazard challenges the player with puzzles.", "metadata": {"qrels": [["Resident_Evil_7:_Biohazard", "1"]]}, "answers": [["Resident_Evil_7:_Biohazard", "1"]]}
+{"qid": "92614", "query_text": "David Carradine worked in the film industry.", "metadata": {"qrels": [["David_Carradine", "1"]]}, "answers": [["David_Carradine", "1"]]}
+{"qid": "153600", "query_text": "IZombie's third season premiered in 1997.", "metadata": {"qrels": [["IZombie_(TV_series)", "1"]]}, "answers": [["IZombie_(TV_series)", "1"]]}
+{"qid": "92490", "query_text": "Gregor Clegane is a huge knight.", "metadata": {"qrels": [["Gregor_Clegane", "1"]]}, "answers": [["Gregor_Clegane", "1"]]}
+{"qid": "161944", "query_text": "All About Eve was nominated for 14 Academy Awards.", "metadata": {"qrels": [["All_About_Eve", "1"]]}, "answers": [["All_About_Eve", "1"]]}
+{"qid": "183986", "query_text": "Sicily is in a body of water.", "metadata": {"qrels": [["Sicily", "1"]]}, "answers": [["Sicily", "1"]]}
+{"qid": "116246", "query_text": "Samuel L. Jackson is a performer.", "metadata": {"qrels": [["Django_Unchained", "1"], ["Samuel_L._Jackson", "1"]]}, "answers": [["Django_Unchained", "1"]]}
+{"qid": "135726", "query_text": "James Arness was born in 2012.", "metadata": {"qrels": [["James_Arness", "1"]]}, "answers": [["James_Arness", "1"]]}
+{"qid": "186311", "query_text": "Iron Fist's development began in the 21st century.", "metadata": {"qrels": [["Iron_Fist_(TV_series)", "1"]]}, "answers": [["Iron_Fist_(TV_series)", "1"]]}
+{"qid": "92686", "query_text": "The Coen brothers directed a comedy film.", "metadata": {"qrels": [["The_Ladykillers_(2004_film)", "1"], ["Coen_brothers", "1"]]}, "answers": [["The_Ladykillers_(2004_film)", "1"]]}
+{"qid": "226497", "query_text": "The Poona Pact was signed only outside of Pune.", "metadata": {"qrels": [["Poona_Pact", "1"]]}, "answers": [["Poona_Pact", "1"]]}
+{"qid": "201123", "query_text": "Shah Rukh Khan debuted in Bollywood in Deewana.", "metadata": {"qrels": [["Shah_Rukh_Khan", "1"]]}, "answers": [["Shah_Rukh_Khan", "1"]]}
+{"qid": "153677", "query_text": "Noam Chomsky was uninvolved in the creation of the universal grammar theory.", "metadata": {"qrels": [["Noam_Chomsky", "1"]]}, "answers": [["Noam_Chomsky", "1"]]}
+{"qid": "125551", "query_text": "Usher is a music artist.", "metadata": {"qrels": [["Burn_(Usher_song)", "1"], ["Usher_(album)", "1"], ["Usher_(musician)", "1"], ["8701", "1"], ["Looking_4_Myself", "1"], ["Here_I_Stand_(Usher_album)", "1"], ["Versus_(EP)", "1"], ["Climax_(Usher_song)", "1"], ["Confessions_(Usher_album)", "1"], ["My_Way_(Usher_song)", "1"], ["Hard_II_Love", "1"], ["Grammy_Award_for_Best_Male_R&B_Vocal_Performance", "1"]]}, "answers": [["Burn_(Usher_song)", "1"]]}
+{"qid": "19908", "query_text": "Burundi is populated by Hutus.", "metadata": {"qrels": [["Burundi", "1"]]}, "answers": [["Burundi", "1"]]}
+{"qid": "8448", "query_text": "While Barack Obama was in office, he signed landmark bills", "metadata": {"qrels": [["Barack_Obama", "1"]]}, "answers": [["Barack_Obama", "1"]]}
+{"qid": "27961", "query_text": "In 1952, Alfre Woodard was born.", "metadata": {"qrels": [["Alfre_Woodard", "1"]]}, "answers": [["Alfre_Woodard", "1"]]}
+{"qid": "144746", "query_text": "Life After Death is by a person who raps.", "metadata": {"qrels": [["Life_After_Death", "1"]]}, "answers": [["Life_After_Death", "1"]]}
+{"qid": "21796", "query_text": "Gorgeous Ladies of Wrestling is a women's wrestling promotion.", "metadata": {"qrels": [["Gorgeous_Ladies_of_Wrestling", "1"]]}, "answers": [["Gorgeous_Ladies_of_Wrestling", "1"]]}
+{"qid": "128449", "query_text": "Whoopi Goldberg is the winner of an Oscar.", "metadata": {"qrels": [["Whoopi_Goldberg", "1"]]}, "answers": [["Whoopi_Goldberg", "1"]]}
+{"qid": "180231", "query_text": "Danny Elfman has been incapable of making scores for films and tv shows his entire life.", "metadata": {"qrels": [["Danny_Elfman", "1"]]}, "answers": [["Danny_Elfman", "1"]]}
+{"qid": "167841", "query_text": "Glacier is affected by cloud cover.", "metadata": {"qrels": [["Glacier", "1"]]}, "answers": [["Glacier", "1"]]}
+{"qid": "129875", "query_text": "Precious got acclaim from its premiere at the Cannes Film Festival.", "metadata": {"qrels": [["Precious_(film)", "1"]]}, "answers": [["Precious_(film)", "1"]]}
+{"qid": "101507", "query_text": "Without Limits has Donald Sutherland in it.", "metadata": {"qrels": [["Donald_Sutherland", "1"]]}, "answers": [["Donald_Sutherland", "1"]]}
+{"qid": "115831", "query_text": "Sons of Anarchy was on a channel owned by Comcast.", "metadata": {"qrels": [["FX_(TV_channel)", "1"], ["Sons_of_Anarchy", "1"]]}, "answers": [["FX_(TV_channel)", "1"]]}
+{"qid": "96768", "query_text": "Kristen Bell was in a movie.", "metadata": {"qrels": [["Forgetting_Sarah_Marshall", "1"], ["Kristen_Bell", "1"], ["Veronica_Mars_(film)", "1"]]}, "answers": [["Forgetting_Sarah_Marshall", "1"]]}
+{"qid": "92924", "query_text": "The G1 Climax is disassociated from the New Japan Pro-Wrestling promotion.", "metadata": {"qrels": [["G1_Climax", "1"]]}, "answers": [["G1_Climax", "1"]]}
+{"qid": "58199", "query_text": "Unforgettable was written by Christina Hodson and David Leslie Johnson.", "metadata": {"qrels": [["Unforgettable_(2017_film)", "1"]]}, "answers": [["Unforgettable_(2017_film)", "1"]]}
+{"qid": "80752", "query_text": "Huntington's disease can be diagnosed.", "metadata": {"qrels": [["Huntington's_disease", "1"]]}, "answers": [["Huntington's_disease", "1"]]}
+{"qid": "147307", "query_text": "Birth of the Dragon's principal photography did not begin in a seaport city.", "metadata": {"qrels": [["Vancouver", "1"], ["Birth_of_the_Dragon", "1"]]}, "answers": [["Vancouver", "1"]]}
+{"qid": "173791", "query_text": "Nigeria is more populous than all but six other countries in the world.", "metadata": {"qrels": [["Nigeria", "1"]]}, "answers": [["Nigeria", "1"]]}
+{"qid": "149515", "query_text": "Honey to the B is Billie Piper's album.", "metadata": {"qrels": [["Honey_to_the_B", "1"]]}, "answers": [["Honey_to_the_B", "1"]]}
+{"qid": "33201", "query_text": "Helen Gardner published a second edition of Art Through the Ages in 1936.", "metadata": {"qrels": [["Helen_Gardner_(art_historian)", "1"]]}, "answers": [["Helen_Gardner_(art_historian)", "1"]]}
+{"qid": "116616", "query_text": "Unapologetic is a collection of songs sold as a unit.", "metadata": {"qrels": [["Unapologetic", "1"]]}, "answers": [["Unapologetic", "1"]]}
+{"qid": "95146", "query_text": "Samuel L. Jackson did not star in Snakes on a Plane.", "metadata": {"qrels": [["Samuel_L._Jackson", "1"]]}, "answers": [["Samuel_L._Jackson", "1"]]}
+{"qid": "212021", "query_text": "Purple is American.", "metadata": {"qrels": [["Purple_(album)", "1"]]}, "answers": [["Purple_(album)", "1"]]}
+{"qid": "55067", "query_text": "Seth Rogen is a comedy actor.", "metadata": {"qrels": [["Pineapple_Express_(film)", "1"], ["Seth_Rogen", "1"], ["The_40-Year-Old_Virgin", "1"], ["Knocked_Up", "1"]]}, "answers": [["Pineapple_Express_(film)", "1"]]}
+{"qid": "15798", "query_text": "Chinese people only can be associated with Spain through nationality.", "metadata": {"qrels": [["Chinese_people", "1"]]}, "answers": [["Chinese_people", "1"]]}
+{"qid": "74577", "query_text": "John Nash designed the Brighton.", "metadata": {"qrels": [["John_Nash_(architect)", "1"]]}, "answers": [["John_Nash_(architect)", "1"]]}
+{"qid": "210151", "query_text": "Lonesome Dove (miniseries) was nominated for eighteen Emmys.", "metadata": {"qrels": [["Lonesome_Dove_(miniseries)", "1"]]}, "answers": [["Lonesome_Dove_(miniseries)", "1"]]}
+{"qid": "179968", "query_text": "A center player for the Los Angeles Lakers was Kareem Abdul-Jabbar.", "metadata": {"qrels": [["Los_Angeles_Lakers", "1"]]}, "answers": [["Los_Angeles_Lakers", "1"]]}
+{"qid": "106528", "query_text": "Telangana is bordered by an ocean.", "metadata": {"qrels": [["Telangana", "1"]]}, "answers": [["Telangana", "1"]]}
+{"qid": "145590", "query_text": "Tesla, Inc. has another company.", "metadata": {"qrels": [["Tesla,_Inc.", "1"]]}, "answers": [["Tesla,_Inc.", "1"]]}
+{"qid": "68521", "query_text": "American Horror Story: Hotel premiered.", "metadata": {"qrels": [["American_Horror_Story:_Hotel", "1"]]}, "answers": [["American_Horror_Story:_Hotel", "1"]]}
+{"qid": "49924", "query_text": "Klute was incapable of being directed by Alan J. Pakula.", "metadata": {"qrels": [["Klute", "1"]]}, "answers": [["Klute", "1"]]}
+{"qid": "62076", "query_text": "Jackie Robinson played in fifty World Series.", "metadata": {"qrels": [["Jackie_Robinson", "1"]]}, "answers": [["Jackie_Robinson", "1"]]}
+{"qid": "224986", "query_text": "Equidae includes only species that are common today.", "metadata": {"qrels": [["Equidae", "1"]]}, "answers": [["Equidae", "1"]]}
+{"qid": "147417", "query_text": "Bohemian Rhapsody came out in the form of a single.", "metadata": {"qrels": [["Bohemian_Rhapsody", "1"]]}, "answers": [["Bohemian_Rhapsody", "1"]]}
+{"qid": "56949", "query_text": "The Formula (1980 film) was directed by Clint Eastwood.", "metadata": {"qrels": [["The_Formula_(1980_film)", "1"]]}, "answers": [["The_Formula_(1980_film)", "1"]]}
+{"qid": "146872", "query_text": "Tezaab is a person.", "metadata": {"qrels": [["Tezaab", "1"]]}, "answers": [["Tezaab", "1"]]}
+{"qid": "85142", "query_text": "Little Miss Sunshine was filmed.", "metadata": {"qrels": [["Little_Miss_Sunshine", "1"]]}, "answers": [["Little_Miss_Sunshine", "1"]]}
+{"qid": "103363", "query_text": "Nepal has a diverse landscape.", "metadata": {"qrels": [["Nepal", "1"]]}, "answers": [["Nepal", "1"]]}
+{"qid": "149119", "query_text": "The Falling stars at least one actress.", "metadata": {"qrels": [["Florence_Pugh", "1"], ["The_Falling_(2014_film)", "1"]]}, "answers": [["Florence_Pugh", "1"]]}
+{"qid": "23322", "query_text": "Facebook expanded to Boston area parks.", "metadata": {"qrels": [["Facebook", "1"]]}, "answers": [["Facebook", "1"]]}
+{"qid": "140799", "query_text": "In 2014, 50 Cent released Animal Ambition.", "metadata": {"qrels": [["Animal_Ambition", "1"], ["50_Cent", "1"]]}, "answers": [["Animal_Ambition", "1"]]}
+{"qid": "28075", "query_text": "On 11 March 1978, Didier Drogba was born.", "metadata": {"qrels": [["Didier_Drogba", "1"]]}, "answers": [["Didier_Drogba", "1"]]}
+{"qid": "82962", "query_text": "The Invention of Lying's cast includes a comedian.", "metadata": {"qrels": [["The_Invention_of_Lying", "1"], ["Jonah_Hill", "1"], ["Ricky_Gervais", "1"]]}, "answers": [["The_Invention_of_Lying", "1"]]}
+{"qid": "124410", "query_text": "Howard Stern has wrote two New York Times Best Seller books.", "metadata": {"qrels": [["Howard_Stern", "1"]]}, "answers": [["Howard_Stern", "1"]]}
+{"qid": "205425", "query_text": "Wyatt Earp worked to extract geological materials from the earth.", "metadata": {"qrels": [["Mining", "1"], ["Wyatt_Earp", "1"]]}, "answers": [["Mining", "1"]]}
+{"qid": "171851", "query_text": "Mirka Federer is anything but Slovak-born.", "metadata": {"qrels": [["Mirka_Federer", "1"]]}, "answers": [["Mirka_Federer", "1"]]}
+{"qid": "215713", "query_text": "There is a video game called Super Street Fighter II Turbo.", "metadata": {"qrels": [["Fighting_game", "1"], ["Super_Street_Fighter_II_Turbo", "1"]]}, "answers": [["Fighting_game", "1"]]}
+{"qid": "187299", "query_text": "David Harbour has acted on television.", "metadata": {"qrels": [["David_Harbour", "1"]]}, "answers": [["David_Harbour", "1"]]}
+{"qid": "113075", "query_text": "Veronika Decides to Die is based on a movie by Paulo Coelho.", "metadata": {"qrels": [["Veronika_Decides_to_Die_(film)", "1"]]}, "answers": [["Veronika_Decides_to_Die_(film)", "1"]]}
+{"qid": "228997", "query_text": "Kiefer Sutherland starred in The Bay Boy (1984).", "metadata": {"qrels": [["Kiefer_Sutherland", "1"]]}, "answers": [["Kiefer_Sutherland", "1"]]}
+{"qid": "126136", "query_text": "George Washington was the first President of the United States.", "metadata": {"qrels": [["George_Washington", "1"]]}, "answers": [["George_Washington", "1"]]}
+{"qid": "44382", "query_text": "The Matrix is a philosophical concept.", "metadata": {"qrels": [["The_Matrix", "1"]]}, "answers": [["The_Matrix", "1"]]}
+{"qid": "215090", "query_text": "Rose Kennedy died in the 70's.", "metadata": {"qrels": [["Rose_Kennedy", "1"]]}, "answers": [["Rose_Kennedy", "1"]]}
+{"qid": "36136", "query_text": "Christian Bale acted in multiple superhero films.", "metadata": {"qrels": [["The_Dark_Knight_Rises", "1"], ["The_Dark_Knight_(film)", "1"], ["Christian_Bale", "1"], ["Batman_Begins", "1"]]}, "answers": [["The_Dark_Knight_Rises", "1"]]}
+{"qid": "65208", "query_text": "Billy Bob Thornton failed to direct All the Pretty Horses.", "metadata": {"qrels": [["Billy_Bob_Thornton", "1"]]}, "answers": [["Billy_Bob_Thornton", "1"]]}
+{"qid": "198240", "query_text": "Luxury cars are marketed by Bentley.", "metadata": {"qrels": [["Bentley", "1"]]}, "answers": [["Bentley", "1"]]}
+{"qid": "184699", "query_text": "Augusto Pinochet remained the Commander-in-Chief of the Chilean Army until his death.", "metadata": {"qrels": [["Augusto_Pinochet", "1"]]}, "answers": [["Augusto_Pinochet", "1"]]}
+{"qid": "185123", "query_text": "Davis Entertainment's divisions develop and produce pictures for independent distributors.", "metadata": {"qrels": [["Davis_Entertainment", "1"]]}, "answers": [["Davis_Entertainment", "1"]]}
+{"qid": "224037", "query_text": "Deadpool (film) is a superhero American film.", "metadata": {"qrels": [["Deadpool_(film)", "1"]]}, "answers": [["Deadpool_(film)", "1"]]}
+{"qid": "113807", "query_text": "Peter Davison acted as the main character in a British sci-fi series.", "metadata": {"qrels": [["Doctor_Who", "1"], ["Peter_Davison", "1"]]}, "answers": [["Doctor_Who", "1"]]}
+{"qid": "222484", "query_text": "Horseshoe Falls is referred to as Canadian Falls.", "metadata": {"qrels": [["Horseshoe_Falls", "1"]]}, "answers": [["Horseshoe_Falls", "1"]]}
+{"qid": "31226", "query_text": "Her was given a wide release in Canada.", "metadata": {"qrels": [["Her_(film)", "1"]]}, "answers": [["Her_(film)", "1"]]}
+{"qid": "9512", "query_text": "Mark Hamill is a person.", "metadata": {"qrels": [["Mark_Hamill", "1"]]}, "answers": [["Mark_Hamill", "1"]]}
+{"qid": "14718", "query_text": "My Sweet Lord is an album.", "metadata": {"qrels": [["My_Sweet_Lord", "1"]]}, "answers": [["My_Sweet_Lord", "1"]]}
+{"qid": "196804", "query_text": "Sean Connery is a retiree.", "metadata": {"qrels": [["Sean_Connery", "1"]]}, "answers": [["Sean_Connery", "1"]]}
+{"qid": "196374", "query_text": "Berlin's significant industries include construction.", "metadata": {"qrels": [["Berlin", "1"]]}, "answers": [["Berlin", "1"]]}
+{"qid": "58779", "query_text": "Antarctica is in a tropical region.", "metadata": {"qrels": [["Antarctica", "1"], ["Tropics", "1"]]}, "answers": [["Antarctica", "1"]]}
+{"qid": "221711", "query_text": "Tom Felton was a cast member of the 1997 film The Borrowers.", "metadata": {"qrels": [["Tom_Felton", "1"]]}, "answers": [["Tom_Felton", "1"]]}
+{"qid": "33706", "query_text": "Neymar was born on Februrary 5th, 1992.", "metadata": {"qrels": [["Neymar", "1"]]}, "answers": [["Neymar", "1"]]}
+{"qid": "116948", "query_text": "The Czech Republic's largest city is not Prague.", "metadata": {"qrels": [["Czech_Republic", "1"]]}, "answers": [["Czech_Republic", "1"]]}
+{"qid": "86849", "query_text": "School 2013 is a American television series.", "metadata": {"qrels": [["School_2013", "1"]]}, "answers": [["School_2013", "1"]]}
+{"qid": "142479", "query_text": "Kristen Stewart acted in a film series adapted from the fantasy book series called the Twilight Saga.", "metadata": {"qrels": [["The_Twilight_Saga_(film_series)", "1"], ["Kristen_Stewart", "1"]]}, "answers": [["The_Twilight_Saga_(film_series)", "1"]]}
+{"qid": "209062", "query_text": "The Major League Baseball Most Valuable Player Award has been presented to a member of the Miami Marlins.", "metadata": {"qrels": [["Major_League_Baseball_Most_Valuable_Player_Award", "1"]]}, "answers": [["Major_League_Baseball_Most_Valuable_Player_Award", "1"]]}
+{"qid": "75684", "query_text": "The Citadelle Laferri\u00e8re is seen in Nord, Haiti.", "metadata": {"qrels": [["Citadelle_Laferri\u00e8re", "1"]]}, "answers": [["Citadelle_Laferri\u00e8re", "1"]]}
+{"qid": "31199", "query_text": "Ready Player One received the Prometheus Award in 2012.", "metadata": {"qrels": [["Ready_Player_One", "1"]]}, "answers": [["Ready_Player_One", "1"]]}
+{"qid": "153766", "query_text": "The Voice is a dancing competition.", "metadata": {"qrels": [["The_Voice_(U.S._TV_series)", "1"]]}, "answers": [["The_Voice_(U.S._TV_series)", "1"]]}
+{"qid": "145675", "query_text": "The Academy Honorary Award does not exclude prior winners.", "metadata": {"qrels": [["Academy_Honorary_Award", "1"]]}, "answers": [["Academy_Honorary_Award", "1"]]}
+{"qid": "98944", "query_text": "Jeff Bezos failed to found Blue Origin in 2000.", "metadata": {"qrels": [["Jeff_Bezos", "1"]]}, "answers": [["Jeff_Bezos", "1"]]}
+{"qid": "20914", "query_text": "Malaysia is a multi-ethnic country.", "metadata": {"qrels": [["Malaysia", "1"]]}, "answers": [["Malaysia", "1"]]}
+{"qid": "183396", "query_text": "Legally Blonde had a director.", "metadata": {"qrels": [["Legally_Blonde", "1"]]}, "answers": [["Legally_Blonde", "1"]]}
+{"qid": "199533", "query_text": "Woody Harrelson played a character in a sitcom.", "metadata": {"qrels": [["Woody_Harrelson", "1"]]}, "answers": [["Woody_Harrelson", "1"]]}
+{"qid": "81172", "query_text": "Stanley Kubrick was not a screenwriter.", "metadata": {"qrels": [["Stanley_Kubrick", "1"]]}, "answers": [["Stanley_Kubrick", "1"]]}
+{"qid": "77182", "query_text": "Mel Brooks was born on July 28, 1926.", "metadata": {"qrels": [["Mel_Brooks", "1"]]}, "answers": [["Mel_Brooks", "1"]]}
+{"qid": "20960", "query_text": "Amoxicillin can cause side effects.", "metadata": {"qrels": [["Amoxicillin", "1"]]}, "answers": [["Amoxicillin", "1"]]}
+{"qid": "40076", "query_text": "Aruba has the landscape of a tundra.", "metadata": {"qrels": [["Aruba", "1"], ["Tundra", "1"]]}, "answers": [["Aruba", "1"]]}
+{"qid": "160124", "query_text": "Reese Witherspoon made her screen debut in The Man in the Moon in 1991.", "metadata": {"qrels": [["Reese_Witherspoon", "1"]]}, "answers": [["Reese_Witherspoon", "1"]]}
+{"qid": "45068", "query_text": "Elizabeth II traveled to the Republic of Ireland on a state visit.", "metadata": {"qrels": [["Elizabeth_II", "1"]]}, "answers": [["Elizabeth_II", "1"]]}
+{"qid": "68276", "query_text": "Sriti Jha plays the lead role in a TV show.", "metadata": {"qrels": [["Sriti_Jha", "1"]]}, "answers": [["Sriti_Jha", "1"]]}
+{"qid": "83520", "query_text": "Lewis Hamilton is a Formula One racecar driver with Mercedes.", "metadata": {"qrels": [["Formula_One", "1"], ["Lewis_Hamilton", "1"]]}, "answers": [["Formula_One", "1"]]}
+{"qid": "26428", "query_text": "For 25 years, Katharine Hepburn and Spencer Tracy worked together.", "metadata": {"qrels": [["Katharine_Hepburn", "1"]]}, "answers": [["Katharine_Hepburn", "1"]]}
+{"qid": "161301", "query_text": "Homeland was developed by Howard Gordon.", "metadata": {"qrels": [["Homeland_(TV_series)", "1"]]}, "answers": [["Homeland_(TV_series)", "1"]]}
+{"qid": "80476", "query_text": "Giampaolo Pazzini was born on August 2, 1984.", "metadata": {"qrels": [["Giampaolo_Pazzini", "1"]]}, "answers": [["Giampaolo_Pazzini", "1"]]}
+{"qid": "226688", "query_text": "Haim Saban was born in May.", "metadata": {"qrels": [["Haim_Saban", "1"]]}, "answers": [["Haim_Saban", "1"]]}
+{"qid": "133535", "query_text": "Beauty and the Beast had a director.", "metadata": {"qrels": [["Beauty_and_the_Beast_(2017_film)", "1"]]}, "answers": [["Beauty_and_the_Beast_(2017_film)", "1"]]}
+{"qid": "92797", "query_text": "Anaheim, California is in a county.", "metadata": {"qrels": [["Anaheim,_California", "1"]]}, "answers": [["Anaheim,_California", "1"]]}
+{"qid": "47926", "query_text": "John Lennon was a rock and roll commentator.", "metadata": {"qrels": [["John_Lennon", "1"]]}, "answers": [["John_Lennon", "1"]]}
+{"qid": "115372", "query_text": "The Supremes were a girl group in the 1960s.", "metadata": {"qrels": [["The_Supremes", "1"]]}, "answers": [["The_Supremes", "1"]]}
+{"qid": "89628", "query_text": "Inferno stars Tom Hanks.", "metadata": {"qrels": [["Inferno_(2016_film)", "1"]]}, "answers": [["Inferno_(2016_film)", "1"]]}
+{"qid": "150494", "query_text": "Estella Warren is a current synchronized swimmer.", "metadata": {"qrels": [["Estella_Warren", "1"]]}, "answers": [["Estella_Warren", "1"]]}
+{"qid": "102977", "query_text": "Terminator Genisys is a sequel.", "metadata": {"qrels": [["Terminator_Genisys", "1"]]}, "answers": [["Terminator_Genisys", "1"]]}
+{"qid": "222788", "query_text": "Kolyma has reserves of silver.", "metadata": {"qrels": [["Kolyma", "1"]]}, "answers": [["Kolyma", "1"]]}
+{"qid": "163639", "query_text": "There was a musician in the Grand Ole Pry.", "metadata": {"qrels": [["Grand_Ole_Opry", "1"]]}, "answers": [["Grand_Ole_Opry", "1"]]}
+{"qid": "127741", "query_text": "Lana Del Rey is a singer-songwriter from America.", "metadata": {"qrels": [["Lana_Del_Rey", "1"]]}, "answers": [["Lana_Del_Rey", "1"]]}
+{"qid": "106018", "query_text": "Robert Wagner worked with former book editor Scott Eyman on his autobiography.", "metadata": {"qrels": [["Robert_Wagner", "1"]]}, "answers": [["Robert_Wagner", "1"]]}
+{"qid": "2112", "query_text": "The Lego Movie was released in 2014.", "metadata": {"qrels": [["The_Lego_Movie", "1"]]}, "answers": [["The_Lego_Movie", "1"]]}
+{"qid": "66522", "query_text": "Claire Danes is married to a Spanish actor.", "metadata": {"qrels": [["Claire_Danes", "1"], ["Hugh_Dancy", "1"]]}, "answers": [["Claire_Danes", "1"]]}
+{"qid": "25679", "query_text": "David LeRoy Anderson did the makeup for the film The Nutty Professor.", "metadata": {"qrels": [["David_LeRoy_Anderson", "1"]]}, "answers": [["David_LeRoy_Anderson", "1"]]}
+{"qid": "210787", "query_text": "Richard Harris was a singer.", "metadata": {"qrels": [["Richard_Harris", "1"]]}, "answers": [["Richard_Harris", "1"]]}
+{"qid": "25574", "query_text": "Dr. Dre co-owned Death Row Records.", "metadata": {"qrels": [["Dr._Dre", "1"]]}, "answers": [["Dr._Dre", "1"]]}
+{"qid": "219428", "query_text": "Jerry Goldsmith collaborated with Roman Polanski.", "metadata": {"qrels": [["Jerry_Goldsmith", "1"]]}, "answers": [["Jerry_Goldsmith", "1"]]}
+{"qid": "2119", "query_text": "Leukemia involves a lack of normal skin cells.", "metadata": {"qrels": [["Leukemia", "1"]]}, "answers": [["Leukemia", "1"]]}
+{"qid": "178569", "query_text": "Sabrina Carpenter has released the 2016 album \"Evolution\".", "metadata": {"qrels": [["Sabrina_Carpenter", "1"]]}, "answers": [["Sabrina_Carpenter", "1"]]}
+{"qid": "138982", "query_text": "Tesla Model S was ranked the world's best-selling plug-in electric car for 2016.", "metadata": {"qrels": [["Tesla_Model_S", "1"]]}, "answers": [["Tesla_Model_S", "1"]]}
+{"qid": "157909", "query_text": "In 2016, Frank Ocean released albums.", "metadata": {"qrels": [["Frank_Ocean", "1"]]}, "answers": [["Frank_Ocean", "1"]]}
+{"qid": "30934", "query_text": "Hugh Jackman avoids roles with animal names.", "metadata": {"qrels": [["Hugh_Jackman", "1"]]}, "answers": [["Hugh_Jackman", "1"]]}
+{"qid": "142102", "query_text": "Chris Brown has been featured on a single.", "metadata": {"qrels": [["Chris_Brown", "1"]]}, "answers": [["Chris_Brown", "1"]]}
+{"qid": "173173", "query_text": "In Dubious Battle featured Analeigh Tipton.", "metadata": {"qrels": [["In_Dubious_Battle_(film)", "1"]]}, "answers": [["In_Dubious_Battle_(film)", "1"]]}
+{"qid": "46253", "query_text": "Adolf Hitler wanted to establish a New Order.", "metadata": {"qrels": [["Adolf_Hitler", "1"]]}, "answers": [["Adolf_Hitler", "1"]]}
+{"qid": "53701", "query_text": "John Cena does performances on SmackDown.", "metadata": {"qrels": [["John_Cena", "1"]]}, "answers": [["John_Cena", "1"]]}
+{"qid": "103363", "query_text": "Nepal has a diverse landscape.", "metadata": {"qrels": [["Nepal", "1"]]}, "answers": [["Nepal", "1"]]}
+{"qid": "175363", "query_text": "Batman starred Burt Ward as a leading role.", "metadata": {"qrels": [["Batman_(1966_film)", "1"]]}, "answers": [["Batman_(1966_film)", "1"]]}
+{"qid": "215992", "query_text": "Event management includes coordinating with sellers.", "metadata": {"qrels": [["Event_management", "1"]]}, "answers": [["Event_management", "1"]]}
+{"qid": "170889", "query_text": "Google Home is a exclusively a toaster.", "metadata": {"qrels": [["Google_Home", "1"]]}, "answers": [["Google_Home", "1"]]}
+{"qid": "75765", "query_text": "Angelina Jolie was in a film.", "metadata": {"qrels": [["Lara_Croft:_Tomb_Raider", "1"], ["Salt_(2010_film)", "1"], ["Wanted_(2008_film)", "1"], ["Maleficent_(film)", "1"], ["Angelina_Jolie", "1"], ["A_Mighty_Heart_(film)", "1"], ["Changeling_(film)", "1"], ["Mr._&_Mrs._Smith_(2005_film)", "1"], ["Lookin'_to_Get_Out", "1"]]}, "answers": [["Lara_Croft:_Tomb_Raider", "1"]]}
+{"qid": "53701", "query_text": "John Cena does performances on SmackDown.", "metadata": {"qrels": [["John_Cena", "1"]]}, "answers": [["John_Cena", "1"]]}
+{"qid": "161112", "query_text": "The CEO of Broad Green Pictures is Gabriel Hammond.", "metadata": {"qrels": [["Broad_Green_Pictures", "1"]]}, "answers": [["Broad_Green_Pictures", "1"]]}
+{"qid": "188396", "query_text": "Joey Graceffa is type of person.", "metadata": {"qrels": [["Joey_Graceffa", "1"], ["List_of_YouTubers", "1"]]}, "answers": [["Joey_Graceffa", "1"]]}
+{"qid": "90700", "query_text": "Elizabeth I reigned in England after the terms of Edward VI and Mary I were over.", "metadata": {"qrels": [["Mary_I_of_England", "1"], ["Edward_VI_of_England", "1"], ["Elizabeth_I_of_England", "1"]]}, "answers": [["Mary_I_of_England", "1"]]}
+{"qid": "23927", "query_text": "Arrested Development is set in Pennsylvania.", "metadata": {"qrels": [["Arrested_Development_(TV_series)", "1"]]}, "answers": [["Arrested_Development_(TV_series)", "1"]]}
+{"qid": "51981", "query_text": "Snowden was filmed.", "metadata": {"qrels": [["Snowden_(film)", "1"]]}, "answers": [["Snowden_(film)", "1"]]}
+{"qid": "126084", "query_text": "Moana lost over $642 million worldwide.", "metadata": {"qrels": [["Moana_(2016_film)", "1"]]}, "answers": [["Moana_(2016_film)", "1"]]}
+{"qid": "224096", "query_text": "Battle Studies World Tour was unassociated with John Mayer.", "metadata": {"qrels": [["Battle_Studies_World_Tour", "1"]]}, "answers": [["Battle_Studies_World_Tour", "1"]]}
+{"qid": "75684", "query_text": "The Citadelle Laferri\u00e8re is seen in Nord, Haiti.", "metadata": {"qrels": [["Citadelle_Laferri\u00e8re", "1"]]}, "answers": [["Citadelle_Laferri\u00e8re", "1"]]}
+{"qid": "64246", "query_text": "Judd Apatow produced The Cable Guy, Anchorman: The Legend of Ron Burgundy, Talladega Nights: The Ballad of Ricky Bobby, and Superbad.", "metadata": {"qrels": [["Judd_Apatow", "1"]]}, "answers": [["Judd_Apatow", "1"]]}
+{"qid": "125948", "query_text": "Neil Young is not a screenwriter.", "metadata": {"qrels": [["Neil_Young", "1"]]}, "answers": [["Neil_Young", "1"]]}
+{"qid": "221163", "query_text": "DJ Khaled assisted in the production of the pop albums Me, Myself, & I by Fat Joe.", "metadata": {"qrels": [["DJ_Khaled", "1"]]}, "answers": [["DJ_Khaled", "1"]]}
+{"qid": "189597", "query_text": "Doctor Zhivago is a script.", "metadata": {"qrels": [["Doctor_Zhivago_(novel)", "1"]]}, "answers": [["Doctor_Zhivago_(novel)", "1"]]}
+{"qid": "72298", "query_text": "Alec Baldwin was unable to appear in 30 Rock.", "metadata": {"qrels": [["Alec_Baldwin", "1"]]}, "answers": [["Alec_Baldwin", "1"]]}
+{"qid": "86750", "query_text": "There are more than 4 cases of shingles per 1000 healthy individuals per year.", "metadata": {"qrels": [["Shingles", "1"]]}, "answers": [["Shingles", "1"]]}
+{"qid": "76", "query_text": "Glee is a TV show.", "metadata": {"qrels": [["Glee_(TV_series)", "1"]]}, "answers": [["Glee_(TV_series)", "1"]]}
+{"qid": "133175", "query_text": "Doug Jones and a Mexican film director collaborate.", "metadata": {"qrels": [["Guillermo_del_Toro", "1"], ["Doug_Jones_(actor)", "1"]]}, "answers": [["Guillermo_del_Toro", "1"]]}
+{"qid": "180390", "query_text": "Ellen Burstyn did work on television shows.", "metadata": {"qrels": [["Ellen_Burstyn", "1"]]}, "answers": [["Ellen_Burstyn", "1"]]}
+{"qid": "141584", "query_text": "The Olympic Games has 33 different sport competitions.", "metadata": {"qrels": [["Olympic_Games", "1"]]}, "answers": [["Olympic_Games", "1"]]}
+{"qid": "17742", "query_text": "Pate is the only type of spread.", "metadata": {"qrels": [["Spread_(food)", "1"]]}, "answers": [["Spread_(food)", "1"]]}
+{"qid": "86894", "query_text": "Hawaii is landlocked.", "metadata": {"qrels": [["Hawaii", "1"]]}, "answers": [["Hawaii", "1"]]}
+{"qid": "229137", "query_text": "Zayn Malik was born July 4th, 1991.", "metadata": {"qrels": [["Zayn_Malik", "1"]]}, "answers": [["Zayn_Malik", "1"]]}
+{"qid": "53715", "query_text": "The Prestige was penned by Christopher Priest.", "metadata": {"qrels": [["The_Prestige", "1"]]}, "answers": [["The_Prestige", "1"]]}
+{"qid": "11515", "query_text": "Anonymous originated in the 2000s.", "metadata": {"qrels": [["Anonymous_(group)", "1"]]}, "answers": [["Anonymous_(group)", "1"]]}
+{"qid": "28873", "query_text": "Jason Sudeikis was a cast member from 2005 to 2013.", "metadata": {"qrels": [["Jason_Sudeikis", "1"]]}, "answers": [["Jason_Sudeikis", "1"]]}
+{"qid": "58630", "query_text": "Haitian Creole is based on a book.", "metadata": {"qrels": [["Haitian_Creole", "1"]]}, "answers": [["Haitian_Creole", "1"]]}
+{"qid": "96849", "query_text": "Neil Young worked alongside rock bands.", "metadata": {"qrels": [["Pearl_Jam", "1"], ["Crazy_Horse_(band)", "1"], ["Neil_Young", "1"], ["Buffalo_Springfield", "1"]]}, "answers": [["Pearl_Jam", "1"]]}
+{"qid": "40462", "query_text": "Lithuania is a member of the European Union.", "metadata": {"qrels": [["Lithuania", "1"]]}, "answers": [["Lithuania", "1"]]}
+{"qid": "161944", "query_text": "All About Eve was nominated for 14 Academy Awards.", "metadata": {"qrels": [["All_About_Eve", "1"]]}, "answers": [["All_About_Eve", "1"]]}
+{"qid": "202408", "query_text": "Eric Singer refuses to perform with Lita Ford.", "metadata": {"qrels": [["Eric_Singer", "1"]]}, "answers": [["Eric_Singer", "1"]]}
+{"qid": "191858", "query_text": "Usher was born in Dallas, Texas.", "metadata": {"qrels": [["Usher_(musician)", "1"]]}, "answers": [["Usher_(musician)", "1"]]}
+{"qid": "129109", "query_text": "San Francisco is located completely within Northern California.", "metadata": {"qrels": [["San_Francisco", "1"]]}, "answers": [["San_Francisco", "1"]]}
+{"qid": "121830", "query_text": "The Republic of Ireland is close to Great Britain.", "metadata": {"qrels": [["United_Kingdom", "1"], ["Republic_of_Ireland", "1"]]}, "answers": [["United_Kingdom", "1"]]}
+{"qid": "28118", "query_text": "The phalanx describes the mass of infantry that would deploy during battle.", "metadata": {"qrels": [["Phalanx", "1"]]}, "answers": [["Phalanx", "1"]]}
+{"qid": "183049", "query_text": "Snooki & Jwoww was renewed by MTV.", "metadata": {"qrels": [["Snooki_&_Jwoww", "1"]]}, "answers": [["Snooki_&_Jwoww", "1"]]}
+{"qid": "185578", "query_text": "Treatments for peripheral artery disease include angioplasty.", "metadata": {"qrels": [["Peripheral_artery_disease", "1"]]}, "answers": [["Peripheral_artery_disease", "1"]]}
+{"qid": "104893", "query_text": "U2's genre is rock.", "metadata": {"qrels": [["Rock_and_Roll_Hall_of_Fame", "1"], ["U2", "1"]]}, "answers": [["Rock_and_Roll_Hall_of_Fame", "1"]]}
+{"qid": "112470", "query_text": "Christopher Lee was born on May 27th, 1942.", "metadata": {"qrels": [["Christopher_Lee", "1"]]}, "answers": [["Christopher_Lee", "1"]]}
+{"qid": "149818", "query_text": "David Arquette played a role.", "metadata": {"qrels": [["David_Arquette", "1"]]}, "answers": [["David_Arquette", "1"]]}
+{"qid": "96716", "query_text": "Marshall McLuhan predicted the World Wide Web 30 years before it was invented.", "metadata": {"qrels": [["Marshall_McLuhan", "1"]]}, "answers": [["Marshall_McLuhan", "1"]]}
+{"qid": "168690", "query_text": "Jane Lynch's full name is Jane Lynch.", "metadata": {"qrels": [["Jane_Lynch", "1"]]}, "answers": [["Jane_Lynch", "1"]]}
+{"qid": "24178", "query_text": "Tiffany Hwang is a musician.", "metadata": {"qrels": [["Tiffany_Hwang", "1"]]}, "answers": [["Tiffany_Hwang", "1"]]}
+{"qid": "192389", "query_text": "Courtney Love was in a film directed by Luis Mandoki.", "metadata": {"qrels": [["Courtney_Love", "1"], ["Trapped_(2002_film)", "1"]]}, "answers": [["Courtney_Love", "1"]]}
+{"qid": "86855", "query_text": "Gemma Arterton starred in the film Hansel and Grentel: Witch Hunters.", "metadata": {"qrels": [["Gemma_Arterton", "1"]]}, "answers": [["Gemma_Arterton", "1"]]}
+{"qid": "100003", "query_text": "In 1932, Prussia was taken over.", "metadata": {"qrels": [["Prussia", "1"], ["Preu\u00dfenschlag", "1"]]}, "answers": [["Prussia", "1"]]}
+{"qid": "191680", "query_text": "Zambia is bordered to the east by Malawi.", "metadata": {"qrels": [["Zambia", "1"]]}, "answers": [["Zambia", "1"]]}
+{"qid": "223241", "query_text": "There is a readership of over 800,000 for The Economic Times.", "metadata": {"qrels": [["The_Economic_Times", "1"]]}, "answers": [["The_Economic_Times", "1"]]}
+{"qid": "69932", "query_text": "A New Orleans large trading area did not have a 2010 population of 1,452,502.", "metadata": {"qrels": [["New_Orleans", "1"]]}, "answers": [["New_Orleans", "1"]]}
+{"qid": "87637", "query_text": "John Mayer was raised in Boston Massachusetts.", "metadata": {"qrels": [["John_Mayer", "1"]]}, "answers": [["John_Mayer", "1"]]}
+{"qid": "45753", "query_text": "Jeremy Irons won an award.", "metadata": {"qrels": [["Jeremy_Irons", "1"]]}, "answers": [["Jeremy_Irons", "1"]]}
+{"qid": "36901", "query_text": "Jeff Perry has been an actor.", "metadata": {"qrels": [["Jeff_Perry_(American_actor)", "1"]]}, "answers": [["Jeff_Perry_(American_actor)", "1"]]}
+{"qid": "24750", "query_text": "Woody Allen only won one award for Best Original Screenplay.", "metadata": {"qrels": [["Woody_Allen", "1"]]}, "answers": [["Woody_Allen", "1"]]}
+{"qid": "29461", "query_text": "James Garner did not star in television series.", "metadata": {"qrels": [["James_Garner", "1"]]}, "answers": [["James_Garner", "1"]]}
+{"qid": "118031", "query_text": "Steffi Graf won 5 consecutive awards in tennis.", "metadata": {"qrels": [["Grand_Slam_(tennis)", "1"], ["Steffi_Graf", "1"]]}, "answers": [["Grand_Slam_(tennis)", "1"]]}
+{"qid": "208494", "query_text": "The first grandchild of Queen Elizabeth was Charles, Prince of Wales.", "metadata": {"qrels": [["Charles,_Prince_of_Wales", "1"]]}, "answers": [["Charles,_Prince_of_Wales", "1"]]}
+{"qid": "157734", "query_text": "Edgar Allan Poe perished in October.", "metadata": {"qrels": [["Edgar_Allan_Poe", "1"]]}, "answers": [["Edgar_Allan_Poe", "1"]]}
+{"qid": "48008", "query_text": "The Wachowskis write.", "metadata": {"qrels": [["Jupiter_Ascending", "1"], ["The_Matrix", "1"], ["The_Wachowskis", "1"]]}, "answers": [["Jupiter_Ascending", "1"]]}
+{"qid": "166312", "query_text": "As You Like It features Brian Blessed.", "metadata": {"qrels": [["As_You_Like_It_(2006_film)", "1"]]}, "answers": [["As_You_Like_It_(2006_film)", "1"]]}
+{"qid": "220182", "query_text": "Cate Blanchett is an actress.", "metadata": {"qrels": [["Cate_Blanchett", "1"], ["Carol_(film)", "1"], ["The_Curious_Case_of_Benjamin_Button_(film)", "1"]]}, "answers": [["Cate_Blanchett", "1"]]}
+{"qid": "106203", "query_text": "Margaret Brown was born on July 18th, 1867.", "metadata": {"qrels": [["Margaret_Brown", "1"]]}, "answers": [["Margaret_Brown", "1"]]}
+{"qid": "5156", "query_text": "Rich Girl (Gwen Stefani song) was nominated for a Grammy.", "metadata": {"qrels": [["Rich_Girl_(Gwen_Stefani_song)", "1"]]}, "answers": [["Rich_Girl_(Gwen_Stefani_song)", "1"]]}
+{"qid": "26226", "query_text": "Martin Freeman is known for portraying comic characters.", "metadata": {"qrels": [["Martin_Freeman", "1"]]}, "answers": [["Martin_Freeman", "1"]]}
+{"qid": "152834", "query_text": "UFC 216 is an event.", "metadata": {"qrels": [["UFC_216", "1"]]}, "answers": [["UFC_216", "1"]]}
+{"qid": "6435", "query_text": "Rajesh Khanna is an actor.", "metadata": {"qrels": [["Rajesh_Khanna", "1"]]}, "answers": [["Rajesh_Khanna", "1"]]}
+{"qid": "206932", "query_text": "Michael Keaton is an American producer and director.", "metadata": {"qrels": [["Michael_Keaton", "1"]]}, "answers": [["Michael_Keaton", "1"]]}
+{"qid": "221783", "query_text": "Friendship has been studied in academic fields.", "metadata": {"qrels": [["Friendship", "1"]]}, "answers": [["Friendship", "1"]]}
+{"qid": "141078", "query_text": "Slipknot is a group.", "metadata": {"qrels": [["Slipknot_(band)", "1"]]}, "answers": [["Slipknot_(band)", "1"]]}
+{"qid": "313", "query_text": "Peter Cetera was on the album Chicago Transit Authority.", "metadata": {"qrels": [["Peter_Cetera", "1"]]}, "answers": [["Peter_Cetera", "1"]]}
+{"qid": "47138", "query_text": "Evil is rarely associated with expediency.", "metadata": {"qrels": [["Evil", "1"]]}, "answers": [["Evil", "1"]]}
+{"qid": "151443", "query_text": "Azerbaijan is a college.", "metadata": {"qrels": [["Azerbaijan", "1"]]}, "answers": [["Azerbaijan", "1"]]}
+{"qid": "184010", "query_text": "Tom Hardy appeared in a science fiction thriller.", "metadata": {"qrels": [["Tom_Hardy", "1"]]}, "answers": [["Tom_Hardy", "1"]]}
+{"qid": "173825", "query_text": "National Library of India is the library of documents or pieces of information.", "metadata": {"qrels": [["National_Library_of_India", "1"]]}, "answers": [["National_Library_of_India", "1"]]}
+{"qid": "1240", "query_text": "Mike Pence is a conservative Republican.", "metadata": {"qrels": [["Mike_Pence", "1"], ["Republican_Party_(United_States)", "1"]]}, "answers": [["Mike_Pence", "1"]]}
+{"qid": "53715", "query_text": "The Prestige was penned by Christopher Priest.", "metadata": {"qrels": [["The_Prestige", "1"]]}, "answers": [["The_Prestige", "1"]]}
+{"qid": "183300", "query_text": "Vince Vaughn appeared in The Lost World: Jurassic Park", "metadata": {"qrels": [["Vince_Vaughn", "1"]]}, "answers": [["Vince_Vaughn", "1"]]}
+{"qid": "86758", "query_text": "Lionel Messi has never won an award.", "metadata": {"qrels": [["Lionel_Messi", "1"]]}, "answers": [["Lionel_Messi", "1"]]}
+{"qid": "31984", "query_text": "Naomi Scott played Mohini \"Mo\" Banjaree in The Lord of the Rings Trilogy.", "metadata": {"qrels": [["Naomi_Scott", "1"]]}, "answers": [["Naomi_Scott", "1"]]}
+{"qid": "13101", "query_text": "Istanbul did not have a strategic position on the Silk Road.", "metadata": {"qrels": [["Istanbul", "1"]]}, "answers": [["Istanbul", "1"]]}
+{"qid": "129868", "query_text": "Laurence Fishburne acted in a play.", "metadata": {"qrels": [["Laurence_Fishburne", "1"]]}, "answers": [["Laurence_Fishburne", "1"]]}
+{"qid": "83217", "query_text": "Haiti is in a region.", "metadata": {"qrels": [["Haiti", "1"]]}, "answers": [["Haiti", "1"]]}
+{"qid": "79743", "query_text": "Ted Bundy was found guilty in the case of the Florida homicides.", "metadata": {"qrels": [["Ted_Bundy", "1"]]}, "answers": [["Ted_Bundy", "1"]]}
+{"qid": "150494", "query_text": "Estella Warren is a current synchronized swimmer.", "metadata": {"qrels": [["Estella_Warren", "1"]]}, "answers": [["Estella_Warren", "1"]]}
+{"qid": "90935", "query_text": "Thandie Newton has appeared in films.", "metadata": {"qrels": [["Thandie_Newton", "1"]]}, "answers": [["Thandie_Newton", "1"]]}
+{"qid": "107720", "query_text": "Matt Smith's first major role in television was at a time.", "metadata": {"qrels": [["Matt_Smith_(actor)", "1"]]}, "answers": [["Matt_Smith_(actor)", "1"]]}
+{"qid": "90741", "query_text": "In Her Shoes is an adaptation.", "metadata": {"qrels": [["In_Her_Shoes_(film)", "1"]]}, "answers": [["In_Her_Shoes_(film)", "1"]]}
+{"qid": "226279", "query_text": "Gift of the Night Fury stars the voice of an Canadian filmmaker.", "metadata": {"qrels": [["Jay_Baruchel", "1"], ["Gift_of_the_Night_Fury", "1"]]}, "answers": [["Jay_Baruchel", "1"]]}
+{"qid": "29528", "query_text": "The Martian was directed by Ridley Scott.", "metadata": {"qrels": [["The_Martian_(film)", "1"], ["Aksel_Hennie", "1"]]}, "answers": [["The_Martian_(film)", "1"]]}
+{"qid": "101021", "query_text": "Deadpool is a fictional antihero that appears in comics.", "metadata": {"qrels": [["Deadpool", "1"]]}, "answers": [["Deadpool", "1"]]}
+{"qid": "127741", "query_text": "Lana Del Rey is a singer-songwriter from America.", "metadata": {"qrels": [["Lana_Del_Rey", "1"]]}, "answers": [["Lana_Del_Rey", "1"]]}
+{"qid": "219653", "query_text": "Frank Sedgman was only the World No. 3 amateur tennis champion.", "metadata": {"qrels": [["Frank_Sedgman", "1"]]}, "answers": [["Frank_Sedgman", "1"]]}
+{"qid": "91886", "query_text": "Aishwarya Rai did not portray Binodini.", "metadata": {"qrels": [["Chokher_Bali_(film)", "1"], ["Aishwarya_Rai", "1"]]}, "answers": [["Chokher_Bali_(film)", "1"]]}
+{"qid": "30551", "query_text": "The Jacksons aired on an English language broadcast tv network.", "metadata": {"qrels": [["The_Jacksons_(TV_series)", "1"], ["CBS", "1"]]}, "answers": [["The_Jacksons_(TV_series)", "1"]]}
