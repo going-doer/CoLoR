@@ -2,7 +2,9 @@
 
 ![Overview](./assets/color_overview.png)
 
-📄 [Read the paper on arXiv](https://arxiv.org/abs/2412.18232)
+[📄 Read the paper on arXiv](https://arxiv.org/abs/2412.18232)
+
+[🤗 CoLoR: finetuned model on HuggingFace](https://huggingface.co/iaminju/CoLoR-Phi-3-mini-4k-instruct)
 
 We propose a new compression approach tailored for Long Context Language Model (LCLM) retrieval, which is trained to maximize the retrieval performance while minimizing the length of the compressed passages.
 To accomplish this, we generate the synthetic data, where compressed passages are automatically created and labeled as chosen or rejected according to their retrieval success for a given query, and we train the proposed Compression model for Long context Retrieval (CoLoR) with this data via preference optimization while adding the length regularization loss on top of it to enforce brevity. Through extensive experiments on 9 datasets, we show that CoLoR improves the retrieval performance by 6% while compressing the in-context size by a factor of 1.91.
